@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+venv/
+.venv/
+env/
+
+# Credenziali 
+.env
+
+# File di sistema
+.DS_Store
+Thumbs.db
+
+# Power BI 
+~$*.pbix

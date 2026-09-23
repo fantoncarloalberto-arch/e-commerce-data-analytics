@@ -1,0 +1,631 @@
+customer_code,nome,cognome,email,data_nascita,sesso,nazionalita,citta,paese,data_registrazione
+CUST00498,Megan,Alexander,megan.alexander971@yahoo.com,2007-09-10,F,Regno Unito,East Mark,Regno Unito,2025-11-10
+CUST00245,Eliana,Sanudo,eliana.sanudo426@live.com,2006-08-16,F,Italia,  VIGHIZZOLO DI CANTU'  ,Italia,2025-12-30
+CUST00553,Antonia,Onio,antonia.onio625@tim.it,2006-08-07,F,Italia,Rofrano,Italia,2025-10-21
+CUST00214,nicole,hirschmann,nicole.hirschmann299@chello.at,1958-01-08,F,Austria,Purkersdorf,Austria,2024-03-17
+CUST00550,Atenulf,Barracco,atenulf.barracco575@hotmail.com,1982-06-22,M,Italia,Dueville,Italia,2024-11-23
+CUST00507,陽子,斉藤,yangzi.qiteng658@yahoo.com,1984-05-16,F,Giappone,  練馬区  ,Giappone,2025-01-21
+CUST00606,Federica,Bignardi,federica.bignardi6953@libero.it,1990-12-25,F,Italia,Cedegolo,Italia,2024-01-05
+CUST00078,James,Peterson,james.peterson519@gmail.com,1985-05-05,M,Stati Uniti,New Dwayneview,Stati Uniti,2022-02-24
+CUST00532,Claudia,Fuseli,claudia.fuseli513@yahoo.com,1993-01-02,F,Italia,Trecroci,Italia,2023-10-02
+CUST00146,Beatrice,vattimo,beatrice.vattimo556@libero.it,2000-08-14,F,Italia,Unsere liebe Frau i. W.,Italia,2025-04-29
+CUST00269,dolores,Zichichi,dolores.zichichi580@hotmail.it,1998-11-26,F,Italia,Balossa Bigli,Italia,2025-02-07
+CUST00032,Jesus,Adams,jesus.adams699@yahoo.com,1977-09-25,M,Stati Uniti,Lake Erica,Stati Uniti,2024-05-02
+CUST00056,京助,伊藤,jingzhu.yiteng690@yahoo.com,1987-11-21,M,,墨田区,Giappone,2024-11-10
+CUST00091,Tabitha,willis,tabitha.willis565@yahoo.com.au,1965-12-14,F,Australia,Masonmouth,Australia,2022-11-03
+CUST00415,Gianluigi,Sommaruga,gianluigi.sommaruga739@vodafone.it,1983-08-02,M,Italia,Brindisi Montagna,Italia,2022-09-24
+CUST00077,Rosa,Giacometti,rosa.giacometti637@libero.it,1971-10-04,F,Italia,Fagnano,Italia,04-12-2025
+CUST00003,Enzio,Emanuelli,enzio.emanuelli605@fastwebnet.it,2007-07-02,m,Italia,Trabia Miniere,Italia,2025-12-16
+CUST00480,Nikola,Hoffmann,nikola.hoffmann627@gmx.at,1971-05-23,M,Austria,Vils,Austria,2024-09-23
+CUST00189,Kian,van Noordeloos,kian.vannoordeloos415@hotmail.com,2007-12-08,M,Paesi Bassi,Warffum,Paesi Bassi,2025-12-16
+CUST00614,Ruggero,Romagnoli,ruggero.romagnoli4586@hotmail.it,1977-05-11,M,Italia,Pietralunga,Italia,2024-01-28
+CUST00132,eva,Parmitano,eva.parmitano410@alice.it,2007-04-05,F,Italia,Gambarare,Italia,2025-08-21
+CUST00149,David,Paier,david.paier966@chello.at,1971-06-10,M,Austria,Hartberg,Austria,2023-01-21
+CUST00050,Klaus-Michael,Liebelt,klaus-michael.liebelt235@web.de,1990-02-02,M,Germania,,Germania,2024-06-20
+CUST00627,Michael,Sims,michael.sims6358@hotmail.com,1987-02-14,M,Canada,East Andrew,Canada,2023-08-09
+CUST00478,María Teresa,vicens,mariateresa.vicens531@yahoo.com,1972-07-18,F,Spagna,Cáceres,Spagna,2024-08-05
+CUST00111,Thibault,Leroy,thibault.leroy611@wanadoo.fr,1988-07-12,M,Francia,Dos Santosnec,Francia,2025-06-21
+CUST00159,Roberta,Ruggieri,roberta.ruggieri780@libero.it,1997-07-09,F,Italia,Massascusa,Italia,2023-02-24
+CUST00594,Erika,Gradenigo,erika.gradenigo377@live.com,1988-10-08,F,Italia,Ribolla,Italia,2024-11-02
+CUST00626,Leandro,da Mota,leandro.damota4273@bol.com.br,2001-10-10,M,,Pinto do Amparo,Brasile,2023-01-31
+CUST00404,Bartek,Osipiuk,bartek.osipiuk610@o2.pl,2004-12-03,M,Polonia,Wołomin,Polonia,25-01-2025
+CUST00164,Elladio,filzi,elladio.filzi485@gmail.com,1982-11-04,M,,Galliavola,Italia,2024-08-17
+CUST00265,Michael,Colon,michael.colon455@yahoo.com,2003-03-23,M,Stati Uniti,South Michael,Stati Uniti,2025-04-27
+CUST00257,  LAURETTA  ,Lercari,lauretta.lercari891@libero.it,1979-02-28,Femmina,Italia,Limito,Italia,2025-07-27
+CUST00290,Cipriano,Aragonés,cipriano.aragones136@yahoo.com,1997-09-12,M,,,Spagna,2023-07-30
+CUST00133,Tiziano,Ovadia,tiziano.ovadia915@gmail.com,1982-02-25,M,Italia,Serravalle Di Chienti,Italia,2023-11-16
+CUST00332,Sara,Lopes,sara.lopes463@sapo.pt,1976-04-14,F,Portogallo,Santa Comba Dão,Portogallo,2024-08-10
+CUST00454,Hannah,Schiffer,hannah.schiffer835@hotmail.com,2007-09-16,F,Paesi Bassi,Halle,Paesi Bassi,2025-10-12
+CUST00618,Mariano,Schicchi,mariano.schicchi1615@yahoo.com,2001-01-14,M,Italia,Castelferretti,Italia,2022-07-16
+CUST00317,Terry,Kirby,terry.kirby677@yahoo.com,1983-01-05,M,Regno Unito,South Ronaldchester,Regno Unito,2024-03-25
+CUST00319,Dirk,Lambrecht,dirk.lambrecht179@yahoo.com,1982-05-02,M,Belgio,Nieuwrode,Belgio,2025-02-16
+CUST00358,Alina,Bottaro,alina.bottaro498@vodafone.it,1955-10-15,F,Italia,Sperlonga,Italia,2024-05-18
+CUST00040,Aurora,manolesso,aurora.manolesso246@virgilio.it,1986-01-08,F,Italia,arcore,Italia,2022-07-03
+CUST00087,pina,Argan,pina.argan518@virgilio.it,1974-08-09,F,Italia,Dogaro,Italia,2022-11-18
+CUST00339,Amir,Reynders,amir.reynders570@gmail.com,19/01/2000,M,Belgio,Folx-les-Caves,Belgio,2024-10-07
+CUST00418,Paloma,Durante,paloma.durante240@alice.it,1979-09-08,F,Italia,seio,Italia,2022-11-05
+CUST00210,Ubaldo,Montessori,ubaldo.montessori971@gmail.com,1987-04-21,M,Italia,Varana,Italia,2025-09-20
+CUST00474,Carlo,Pedersoli,carlo.pedersoli696@tin.it,1990-08-12,M,Italia,  CHIARAVALLE MILANESE  ,Italia,2023-12-29
+CUST00572,Arthur,Marquez,arthur.marquez668@hotmail.com,1994-10-08,M,Stati Uniti,Valdezport,Stati Uniti,2024-02-26
+CUST00079,Mathias,Jesus,mathias.jesus901@gmail.com,2004-04-12,M,Brasile,Camargo,Brasile,2023-03-08
+CUST00351,Pina,Interminelli,pina.interminelli72@poste.it,2003-03-24,f,Italia,limestre,Italia,2025-10-30
+CUST00177,Antonella,Munari,antonella.munari725@gmail.com,2007-03-14,F,,Perticato,Italia,2025-11-05
+CUST00287,Pier,Camanni,pier.camanni317@libero.it,1985-08-02,M,Italia,Montegonzi,Italia,2025-10-14
+CUST00011,Maria,Thys,maria.thys827@hotmail.com,1991-01-24,F,Belgio,Lombise,Belgio,2024-05-04
+CUST00262,Rafaela,Caldeira,rafaela.caldeira978@gmail.com,1993-06-21,F,Brasile,Costa,Brasile,2023-12-24
+CUST00471,Luciana,Turchi,luciana.turchi36@libero.it,1988-03-03,f,Italia,Carbonate,Italia,2025-11-18
+CUST00175,Gust,Mertens,gust.mertens870@yahoo.com,1999-07-27,M,Belgio,Sint-Joris-Weert,Belgio,2024-07-28
+CUST00136,Gionata,Piacentini,gionata.piacentini468@yahoo.com,1971-03-26,M,Italia,Torrita Stazione,Italia,2024-11-13
+CUST00457,Giuliana,Falloppio,giuliana.falloppio280@yahoo.com,1978-02-26,F,Italia,,Italia,2024-09-26
+CUST00212,Amleto,Lettiere,amleto.lettiere246@outlook.com,1975-03-18,M,Italia,Mariano Comense,Italia,2025-04-24
+CUST00031,Martha,Bodner,martha.bodner995@chello.at,1983-09-28,F,Austria,Feldbach,Austria,2025-02-04
+CUST00585,Jessica,Bowers,jessica.bowers847@yahoo.com.au,1977-07-17,Femmina,Australia,Lake Tracishire,Australia,2025-07-10
+CUST00495,Fredo,Delle,fredo.delle787@alice.it,1972-03-14,M,Italia,Montepescali,Italia,2023-11-20
+CUST00342,Valeria,Scotti,valeria.scotti361@fastwebnet.it,1968-02-19,F,Italia,Settala,Italia,2025-09-09
+CUST00042,Roy,  STOLL  ,roy.stoll132@gmx.de,1981-11-16,M,Germania,Lörrach,Germania,2023-05-02
+CUST00588,Jason,Claeys,jason.claeys7@hotmail.com,1984-05-13,M,Belgio,Hannut,Belgio,2025-06-18
+CUST00266,simonetta,Mercadante,simonetta.mercadante926@live.com,1982-01-02,F,Italia,Campogalliano,Italia,2024-10-11
+CUST00057,Joerg,Dippel,joerg.dippel413@googlemail.com,2007-12-11,M,Germania,Bruchsal,Germania,2025-12-17
+CUST00405,Zaira,Pagliaro,zaira.pagliaro573@tiscali.it,1999-07-21,F,Italia,San Marco D'Alunzio,Italia,2025-08-20
+CUST00540,Leandro,da Mota,leandro.damota427@bol.com.br,2001-10-10,M,Brasile,  PINTO DO AMPARO  ,Brasile,2023-01-31
+CUST00397,Édouard,Lecomte,edouard.lecomte725@live.com,2003-08-15,M,Francia,Legros-sur-Bonnin,Francia,2025-09-14
+CUST00156,Kornel,Zubel,kornel.zubel86@gmail.com,1996-11-14,M,Polonia,Lubliniec,Polonia,2022-11-04
+CUST00025,Goffredo,Agostinelli,goffredo.agostinelli763@libero.it,1987-09-18,M,Italia,Stern,Italia,2022-09-16
+CUST00083,Pierluigi,Giolitti,pierluigi.giolitti962@gmail.com,2000-03-09,M,Italia,Pozzillo,Italia,2025-05-27
+CUST00365,suzanne,Thibault,suzanne.thibault765@free.fr,06/07/1978,F,Francia,,Francia,2023-11-17
+CUST00216,Romina,Goldoni,romina.goldoni73@live.com,1991-11-08,F,Italia,Fordongianus,Italia,2024-12-22
+CUST00599,Giampaolo,travia,giampaolo.travia539@libero.it,1998-08-17,M,Italia,Celenza Valfortore,Italia,2023-01-01
+CUST00488,Marta,Caetani,marta.caetani27@tin.it,1975-06-18,F,Italia,Posta,Italia,2025-05-27
+CUST00071,Ugolino,Leonardi,ugolino.leonardi71@yahoo.com,1988-10-03,M,Italia,Montalto Delle Marche,Italia,2023-03-24
+CUST00364,Elodia,Castrillo,elodia.castrillo297@hotmail.com,1981-06-04,F,Spagna,Almería,Spagna,2024-04-30
+CUST00611,京助,伊藤,jingzhu.yiteng6906@yahoo.com,1987-11-21,M,Giappone,墨田区,Giappone,2024-11-10
+CUST00282,Nino,Pizzetti,nino.pizzetti933@libero.it,1990-10-24,M,Italia,Alghero,Italia,2025-04-07
+CUST00061,Konstanze,Mosemann,konstanze.mosemann828@aol.de,1974-09-04,F,,Strasburg,Germania,2024-11-29
+CUST00406,Bas,  VAN DAMME  ,bas.vandamme687@hotmail.com,27/12/1982,M,Belgio,,Belgio,2024-04-16
+CUST00413,Massimo,Andreozzi,massimo.andreozzi612@vodafone.it,1981-07-05,M,Italia,Muffa,Italia,2025-11-03
+CUST00211,Luigi,Chiappetta,luigi.chiappetta271@libero.it,2003-11-03,M,Italia,Santarcangelo Di Romagna,Italia,2022-11-12
+CUST00600,Kenny,Vinck,kenny.vinck940@yahoo.com,1967-10-04,M,Belgio,Sint-Maria-Lierde,Belgio,2025-10-21
+CUST00166,David,Lauwers,david.lauwers621@hotmail.com,24-10-1981,M,Belgio,Virelles,Belgio,2024-01-08
+CUST00248,Barbara,Scarfoglio,barbara.scarfoglio349@tin.it,2007-09-09,F,Italia,Camporovere,Italia,2025-10-27
+CUST00276,Ludovica,Biagi,ludovica.biagi655@hotmail.com,1974-07-23,F,Italia,Linera,Italia,2023-11-27
+CUST00258,Monica,Gianinazzi,monica.gianinazzi103@hotmail.com,1984-09-15,F,,Neviano De' Rossi,Italia,2023-04-28
+CUST00291,Marina,Esposito,marina.esposito851@tiscali.it,1983-03-09,F,Italia,Quaglietta,Italia,2025-10-26
+CUST00458,Rosaria,Zanzi,rosaria.zanzi448@libero.it,2000-07-24,F,Italia,Borgone Susa,Italia,2022-04-16
+CUST00030,Jeremi,Lemiesz,jeremi.lemiesz395@hotmail.com,1997-07-20,M,Polonia,Rumia,Polonia,2022-10-31
+CUST00193,Melissa,Sousa,melissa.sousa258@bol.com.br,1984-04-04,F,Brasile,da mata do sul,Brasile,2023-10-21
+CUST00102,Angelica,Baggio,angelica.baggio822@outlook.com,1981-11-28,F,Italia,Vellano,Italia,2024-06-20
+CUST00305,Cyprian,Pusz,cyprian.pusz907@gmail.com,1991-07-21,m,Polonia,Poznań,Polonia,2025-08-13
+CUST00229,Concetta,Rensi,concetta.rensi993@libero.it,2002-02-16,F,Italia,Borghetto Di Civita Castellana Stazione,Italia,2022-07-01
+CUST00279,Valeria,Gabba,valeria.gabba589@vodafone.it,1981-05-23,F,Italia,Sirone,Italia,2023-04-30
+CUST00299,Virginia,Bryant,virginia.bryant938@hotmail.com,2002-10-08,F,Stati Uniti,south steven,Stati Uniti,2025-03-10
+CUST00275,Octavio,Sosa,octavio.sosa453@gmail.com,1963-06-19,M,Spagna,Ávila,Spagna,2024-09-02
+CUST00205,Georges,Rey,georges.rey153@bouygtel.fr,1993-10-10,M,Francia,Duhamel,Francia,2023-08-24
+CUST00430,Teresa,sismondi,teresa.sismondi242@gmail.com,1966-07-03,F,Italia,,Italia,2024-02-11
+CUST00453,Étienne,Carlier,etienne.carlier908@live.com,2004-01-11,M,Francia,Sainte Renéedan,Francia,2023-03-23
+CUST00596,Aldo,  LOLLOBRIGIDA  ,aldo.lollobrigida466@hotmail.com,1964-12-20,Maschio,,Trezzo Sull'Adda,Italia,2025-05-07
+CUST00300,David,Williams,david.williams651@hotmail.com,1975-08-23,M,Australia,Donaldsonville,Australia,2024-09-07
+CUST00082,Leonardo,Palladio,leonardo.palladio684@yahoo.com,1997-09-10,M,Italia,Morengo,Italia,2024-03-09
+CUST00228,Lucie,Schwaiger,lucie.schwaiger186@chello.at,1997-10-14,F,Austria,Radenthein,Austria,2025-10-20
+CUST00110,Angelina,Guarana,angelina.guarana183@alice.it,1985-10-09,F,Italia,Portobuffole',Italia,2024-07-07
+CUST00249,Cesare,Folliero,cesare.folliero290@hotmail.it,1999-12-10,M,Italia,Collamato,Italia,2023-07-05
+CUST00426,Emmi,Steinberg,emmi.steinberg86@gmail.com,1993-03-09,F,Germania,Marienberg,Germania,2025-05-11
+CUST00064,Sebastian,Oberleitner,sebastian.oberleitner886@gmail.com,1997-07-02,M,Austria,Schrattenthal,Austria,2024-01-28
+CUST00548,Sandra,  BOMPIANI  ,sandra.bompiani894@poste.it,1969-12-24,F,Italia,Pistoia,Italia,2024-07-23
+CUST00073,Michael,Sims,michael.sims635@hotmail.com,1987-02-14,M,Canada,East Andrew,Canada,2023-08-09
+CUST00569,Amedeo,Caracciolo,amedeo.caracciolo6@poste.it,2001-09-06,M,,Picarelli,Italia,2023-02-22
+CUST00285,Federica,Bignardi,federica.bignardi695@libero.it,1990-12-25,F,Italia,Cedegolo,Italia,2024-01-05
+CUST00119,Roksana,Jarmużek,roksana.jarmuzek413@interia.pl,1987-12-10,F,Polonia,Opole,Polonia,2024-10-18
+CUST00590,Fabian,Wijland,fabian.wijland268@hotmail.com,1967-11-12,M,Paesi Bassi,Woubrugge,Paesi Bassi,2022-04-06
+CUST00292,桃子,佐藤,taozi.zuoteng765@gmail.com,2007-06-26,F,Giappone,文京区,Giappone,2025-09-30
+CUST00381,William,Spencer,william.spencer182@hotmail.com,2007-11-16,M,Regno Unito,East Gerardborough,Regno Unito,2025-12-20
+CUST00213,Mariano,Schicchi,mariano.schicchi161@yahoo.com,2001-01-14,M,Italia,Castelferretti,Italia,2022-07-16
+CUST00141,Ida,Pinamonte,ida.pinamonte642@virgilio.it,2006-04-09,F,Italia,Valstrona,Italia,2025-02-04
+CUST00389,Jamie,Arnold,jamie.arnold852@gmail.com,1963-05-03,F,Stati Uniti,Wyattside,Stati Uniti,2024-01-21
+CUST00323,智也,山口,zhiye.shankou969@hotmail.com,1962-10-02,M,Giappone,西多摩郡奥多摩町,Giappone,2022-07-27
+CUST00219,Rosa María,Mateo,rosamaria.mateo847@gmail.com,03-03-1971,F,Spagna,Palencia,Spagna,2024-05-10
+CUST00463,Merche,Esteve,merche.esteve329@gmail.com,1999-02-03,F,,guadalajara,Spagna,2024-07-04
+CUST00512,Lina,Bombieri,lina.bombieri999@tin.it,2003-07-05,F,Italia,Concamarise,Italia,2025-04-30
+CUST00336,Bas,Van Dessel,bas.vandessel704@yahoo.com,1985-08-03,M,Belgio,Hofstade,Belgio,2025-06-03
+CUST00007,Rosaria,Natta,rosaria.natta829@tele2.it,2003-01-25,F,Italia,Castelletto Di Branduzzo,Italia,2024-12-30
+CUST00105,Inês,Coelho,ines.coelho359@gmail.com,2007-05-27,F,Portogallo,Miranda do Douro,Portogallo,2025-06-24
+CUST00115,Gianfrancesco,Saragat,gianfrancesco.saragat533@libero.it,1993-09-22,M,Italia,Salino,Italia,2025-03-08
+CUST00534,Germana,Trobbiani,germana.trobbiani532@gmail.com,1983-08-05,f,Italia,Millesimo,Italia,2023-07-31
+CUST00185,Ida,Letta,ida.letta570@outlook.com,1992-01-17,F,Italia,Salve,Italia,2025-03-28
+CUST00239,Encarna,Puerta,encarna.puerta449@yahoo.com,1988-12-16,F,Spagna,Burgos,Spagna,2023-10-17
+CUST00517,Federica,Endrizzi,federica.endrizzi957@tiscali.it,1973-10-24,f,Italia,Bassano Del Grappa,Italia,2024-11-17
+CUST00437,Gemma,Ferragamo,gemma.ferragamo114@fastwebnet.it,1970-05-08,F,Italia,Villa Raverio,Italia,2023-12-14
+CUST00341,Oliwier,Żelasko,oliwier.zelasko992@onet.pl,1991-05-20,M,Polonia,Warszawa,Polonia,2023-09-17
+CUST00424,Águeda,Pintor,agueda.pintor54@yahoo.com,1987-11-16,F,Spagna,Barcelona,Spagna,2023-03-08
+CUST00303,Ivo,Accardo,ivo.accardo241@outlook.com,1987-09-05,M,Italia,prelerna,Italia,2023-10-17
+CUST00564,Mariana,Brambilla,mariana.brambilla956@libero.it,1984-09-23,F,Italia,Collesano,Italia,2023-05-20
+CUST00396,Ezio,Marazzi,ezio.marazzi517@gmail.com,1995-11-06,M,Italia,Orchi,Italia,2024-10-29
+CUST00297,Anita,Zetticci,anita.zetticci599@live.com,27-07-1975,F,Italia,Segonzano,Italia,2024-10-04
+CUST00486,Evelia,Chacón,evelia.chacon521@gmail.com,1976-04-04,F,Spagna,Valencia,Spagna,2023-05-24
+CUST00043,Alba,Samper,alba.samper541@yahoo.com,1995-10-14,F,Spagna,León,Spagna,2022-07-16
+CUST00074,Linda,Lewis,linda.lewis958@yahoo.com.au,2004-05-07,F,Australia,New Cathy,Australia,2025-11-05
+CUST00546,Luna,da Mota,luna.damota156@yahoo.com.br,1972-07-23,F,Brasile,Ramos,Brasile,2022-08-15
+CUST00067,Justyna,Cegła,justyna.cegla159@onet.pl,1989-04-10,F,Polonia,Lębork,Polonia,2025-08-10
+CUST00012,Nathan,  SANTNER  ,nathan.santner997@kabsi.at,1977-07-03,M,Austria,Radenthein,Austria,2024-05-30
+CUST00602,Ronaldo,Camuccini,ronaldo.camuccini3775@hotmail.com,2000-11-19,M,Italia,Catenanuova,Italia,2023-12-13
+CUST00593,Nadia,Lancisi,nadia.lancisi707@vodafone.it,1978-02-21,F,,Morozzo,Italia,2024-10-21
+CUST00421,くみ子,前田,kumizi.qiantian788@hotmail.com,1982-05-25,Femmina,,墨田区,Giappone,2022-12-21
+CUST00400,Pénélope,Bigot,penelope.bigot68@tiscali.fr,1985-06-04,F,Francia,Sanchezboeuf,Francia,2024-09-28
+CUST00357,Gianluca,bianchi,gianluca.bianchi279@libero.it,1988-08-22,M,Italia,Carenno,Italia,2024-06-26
+CUST00084,Jonas,Gnatz,jonas.gnatz761@googlemail.com,1977-09-05,M,Germania,Geithain,Germania,2024-08-05
+CUST00288,Kathryn,Thompson,kathryn.thompson750@gmail.com,1994-03-03,F,Canada,North Hector,Canada,2025-10-05
+CUST00370,Simonetta,Marini,simonetta.marini727@live.com,1987-11-14,F,Italia,Cannitello,Italia,2023-06-10
+CUST00080,Romana,  BONATTI  ,romana.bonatti162@poste.it,1974-08-27,F,Italia,Iesa,Italia,2022-12-04
+CUST00024,Tiziana,Vigliotti,tiziana.vigliotti147@outlook.com,1967-05-05,F,Italia,terralba,Italia,2025-11-13
+CUST00584,Samuel,van Dommelen,samuel.vandommelen180@gmail.com,1996-10-28,M,Paesi Bassi,Nederhorst den Berg,Paesi Bassi,2024-06-12
+CUST00311,Grete,Trubin,grete.trubin94@googlemail.com,2007-11-07,F,Germania,Pinneberg,Germania,2025-12-06
+CUST00589,Ruggero,Romagnoli,ruggero.romagnoli458@hotmail.it,1977-05-11,M,Italia,Pietralunga,Italia,2024-01-28
+CUST00197,Melina,Miniati,melina.miniati103@virgilio.it,1980-04-10,F,Italia,Luzzi,Italia,2023-08-05
+CUST00482,jenna,Sharp,jenna.sharp177@yahoo.com,1983-12-15,F,Stati Uniti,Port Lindaborough,Stati Uniti,2023-05-14
+CUST00260,Tabea,Geisler,tabea.geisler801@hotmail.de,1979-05-11,F,Germania,Sebnitz,Germania,2025-03-09
+CUST00138,Apolonia,Piotrkowicz,apolonia.piotrkowicz919@hotmail.com,1988-03-24,F,Polonia,Sanok,Polonia,2023-01-28
+CUST00232,Lidia,Boba,lidia.boba296@yahoo.com,1973-11-13,F,Polonia,Kętrzyn,Polonia,2023-04-16
+CUST00306,Frida,Kühnert,frida.kuhnert631@web.de,1995-07-09,F,Germania,Herzberg,Germania,2024-03-18
+CUST00178,Enrico,Boezio,enrico.boezio752@gmail.com,2007-09-21,M,Italia,Trinitapoli,Italia,2025-12-30
+CUST00010,Costantino,Marangoni,costantino.marangoni390@hotmail.it,1981-02-12,M,Italia,Crava,Italia,2025-08-03
+CUST00204,Leonard,Wiedner,leonard.wiedner591@chello.at,1985-11-22,M,Austria,Feldkirchen,Austria,21/04/2024
+CUST00514,Lorenzo,Paolini,lorenzo.paolini274@yahoo.com,1984-08-08,M,Italia,Tovo San Giacomo,Italia,2025-07-17
+CUST00329,Elvira,Maccanelli,elvira.maccanelli391@outlook.com,17/10/1983,F,Italia,Borgo Appio,Italia,2024-03-10
+CUST00616,Martino,Travaglia,martino.travaglia6747@vodafone.it,1981-09-15,M,,Baio Dora,Italia,26/01/2023
+CUST00272,稔,井上,ren.jingshang238@hotmail.com,1997-08-21,M,Giappone,四街道市,Giappone,2022-06-22
+CUST00085,Gianna,Vidoni,gianna.vidoni289@virgilio.it,1994-10-07,F,Italia,Brovello Carpugnino,Italia,2022-06-11
+CUST00182,Ronya,Haller,ronya.haller345@chello.at,16/01/1991,F,Austria,Liezen,Austria,2023-07-17
+CUST00347,Calogero,Giannini,calogero.giannini624@tele2.it,2001-11-27,M,Italia,San Pierino,Italia,2024-07-06
+CUST00447,Annibale,Donarelli,annibale.donarelli366@tele2.it,1978-02-12,M,Italia,Santo Stefano Medio,Italia,2024-07-01
+CUST00519,Serafina,Carnera,serafina.carnera511@vodafone.it,1991-05-16,F,Italia,Craco,Italia,2023-12-28
+CUST00504,Allen,Pierce,allen.pierce47@yahoo.com,2001-11-25,M,Stati Uniti,Paulport,Stati Uniti,2024-05-18
+CUST00250,Elvira,Mercati,elvira.mercati887@tim.it,1989-03-15,F,Italia,  BEREGUARDO  ,Italia,2025-02-08
+CUST00179,Annemijn,van Cuijck,annemijn.vancuijck477@gmail.com,1983-07-27,F,Paesi Bassi,Leersum,Paesi Bassi,2025-07-22
+CUST00221,Fenna,Wensen,fenna.wensen128@yahoo.com,23-08-1974,F,Paesi Bassi,Ten Boer,Paesi Bassi,2025-07-01
+CUST00154,Romina,Alboni,romina.alboni742@fastwebnet.it,1994-03-27,F,Italia,Solicchiata,Italia,2024-09-25
+CUST00076,Maryam,Heijmen,maryam.heijmen324@yahoo.com,1975-02-01,F,Paesi Bassi,Odoornerveen,Paesi Bassi,2024-01-29
+CUST00093,Brian,Evans,brian.evans855@hotmail.co.uk,1997-06-19,M,Regno Unito,  BRADLEYMOUTH  ,Regno Unito,2025-03-30
+CUST00500,Dion,Blom,dion.blom641@hotmail.com,1987-05-20,M,Paesi Bassi,Yerseke,Paesi Bassi,2024-06-08
+CUST00069,Jeannine,Dupuy,jeannine.dupuy59@yahoo.fr,2007-01-19,F,Francia,Ribeiro,Francia,2025-11-16
+CUST00016,Dorothee,Grein Groth,dorothee.greingroth285@yahoo.de,1984-08-21,F,Germania,Strausberg,Germania,2024-08-27
+CUST00200,André,Pereira,andre.pereira654@live.com,1988-08-04,M,Brasile,Pacheco,Brasile,2025-01-13
+CUST00574,Pablo,Dalmau,pablo.dalmau857@gmail.com,26/07/1975,M,Spagna,,Spagna,2024-10-28
+CUST00089,Alina,Pozzecco,alina.pozzecco46@vodafone.it,1977-01-11,F,Italia,Cizzolo,Italia,2025-05-07
+CUST00527,Vittorio,Cimini,vittorio.cimini396@libero.it,1996-09-15,M,Italia,Triggiano,Italia,2025-04-04
+CUST00118,Sonia,Jockel,sonia.jockel520@hotmail.de,1974-05-22,F,Germania,Waldmünchen,Germania,2022-09-13
+CUST00425,Rudy,Mahieu,rudy.mahieu729@gmail.com,1990-09-28,M,Belgio,Weillen,Belgio,2022-12-20
+CUST00451,Jamie,Kucera,jamie.kucera831@gmx.at,1979-03-03,M,Austria,Eisenstadt,Austria,2024-05-11
+CUST00034,Martina,Henk,martina.henk446@hotmail.de,1989-03-15,F,Germania,steinfurt,Germania,2025-07-22
+CUST00001,Benito,Cibin,benito.cibin26@libero.it,2001-12-09,M,Italia,Santa Maria Di Sala,Italia,2023-07-04
+CUST00623,Maricruz,Cantón,maricruz.canton6324@yahoo.com,1988-12-27,F,Spagna,Barcelona,Spagna,2024-03-29
+CUST00209,Justyna,Malisz,justyna.malisz583@onet.pl,1972-10-02,F,Polonia,Radom,Polonia,2024-07-03
+CUST00382,Cristina,Abba,cristina.abba773@live.com,2002-10-25,F,Italia,Cagno',Italia,2023-01-20
+CUST00579,Licia,Comeriato,licia.comeriato911@tim.it,1972-03-28,F,Italia,Fermo,Italia,2024-11-21
+CUST00523,香織,青木,xiangzhi.qingmu293@hotmail.com,1987-09-01,F,Giappone,  南房総市  ,Giappone,2023-11-01
+CUST00278,Malwina,Tonder,malwina.tonder110@o2.pl,1985-04-13,F,Polonia,,Polonia,2023-12-03
+CUST00023,Nick,Wouters,nick.wouters672@hotmail.com,1998-08-13,M,,,Belgio,2023-05-01
+CUST00612,Roksana,Jarmużek,roksana.jarmuzek4137@interia.pl,1987-12-10,F,Polonia,Opole,Polonia,2024-10-18
+CUST00117,  TATIANA  ,Sagredo,tatiana.sagredo639@gmail.com,1978-06-22,F,Italia,Su Pinu,Italia,2023-01-17
+CUST00090,Telemaco,Baglioni,telemaco.baglioni653@tele2.it,1992-05-06,M,Italia,Casi,Italia,2023-03-16
+CUST00183,Ben,De Neve,ben.deneve500@gmail.com,1966-04-12,M,Belgio,Beselare,Belgio,2024-01-06
+CUST00251,Liana,Bazzi,liana.bazzi354@tim.it,1998-06-18,F,Italia,Saletto Di Vigodarzere,Italia,2023-02-18
+CUST00261,Liliana,Sauro,liliana.sauro666@hotmail.com,1998-02-28,F,Italia,Santa Croce Di Piuro,Italia,2025-10-15
+CUST00019,Pasqual,Versace,pasqual.versace168@tim.it,1997-08-13,M,Italia,Ponte Di Falmenta,Italia,2025-04-22
+CUST00335,claudia,Taccola,claudia.taccola321@tim.it,1987-11-09,f,Italia,Milazzo,Italia,2024-04-02
+CUST00355,Seppe,Goovaerts,seppe.goovaerts905@gmail.com,1982-01-05,M,Belgio,Hour,Belgio,2025-01-27
+CUST00145,Jorge,Menéndez,jorge.menendez66@gmail.com,14-07-1979,M,Spagna,Castellón,Spagna,2025-06-01
+CUST00312,Aimé,Leleu,aime.leleu806@free.fr,1985-06-08,M,Francia,Schneidernec,Francia,2024-01-16
+CUST00313,Desiderio,Andrade,desiderio.andrade71@hotmail.com,1999-09-07,M,Spagna,Cádiz,Spagna,2023-09-15
+CUST00595,Lazzaro,Bettin,lazzaro.bettin981@live.com,1975-03-16,M,Italia,Muraglia,Italia,2022-07-02
+CUST00399,Luisa,Canil,luisa.canil419@tele2.it,2001-06-22,F,Italia,Filogaso,Italia,2025-10-07
+CUST00586,  PATRIZIA  ,Paganini,patrizia.paganini89@libero.it,2007-07-22,F,Italia,  RAMIOLA  ,Italia,2025-09-22
+CUST00444,Marcel,Vercammen,marcel.vercammen977@yahoo.com,1998-09-18,M,Belgio,Passendale,Belgio,2025-11-29
+CUST00375,Oreste,Sauro,oreste.sauro406@live.com,1976-05-24,M,Italia,Pianura Vomano,Italia,2022-12-24
+CUST00445,Justin,Mosley,justin.mosley400@hotmail.com,1981-08-02,M,Canada,Heatherstad,Canada,2025-05-13
+CUST00168,Franco,Parmitano,franco.parmitano593@tele2.it,2007-01-10,M,Italia,Mulazzano Ponte,Italia,2025-11-12
+CUST00055,Eleanora,Botticelli,eleanora.botticelli363@libero.it,1969-07-14,F,Italia,Riotorto,Italia,2023-02-22
+CUST00443,Marcel,Pietrek,marcel.pietrek681@gmail.com,1999-11-03,M,Polonia,Kościerzyna,Polonia,2024-08-06
+CUST00047,Ennio,Surian,ennio.surian254@yahoo.com,1996-04-03,M,Italia,Agropoli,Italia,2024-03-03
+CUST00094,Emilia,Rubio,emilia.rubio131@yahoo.com,1996-01-10,F,Spagna,Segovia,Spagna,2024-01-01
+CUST00293,Britt,Ring,britt.ring987@gmx.de,1996-02-05,F,Germania,Berlin,Germania,2024-10-02
+CUST00429,Romana,Armani,romana.armani55@libero.it,1977-07-17,F,Italia,San Francesco D'Aglientu,Italia,2023-06-15
+CUST00109,Roksana,Folga,roksana.folga962@gmail.com,1999-01-04,F,Polonia,Wieluń,Polonia,2023-05-23
+CUST00302,gianluigi,  BAGLIONI  ,gianluigi.baglioni312@vodafone.it,04-08-1971,M,Italia,Montegualtieri,Italia,2023-03-22
+CUST00196,Tina,Beccheria,tina.beccheria284@libero.it,1983-12-19,F,Italia,Verdello,Italia,2025-08-21
+CUST00630,Loretta,Sismondi,loretta.sismondi1257@libero.it,2003-01-08,F,Italia,Baratte,Italia,2024-10-19
+CUST00522,Gelsomina,Benedetti,gelsomina.benedetti50@live.com,2001-01-10,F,Italia,Ciorlano,Italia,2024-08-13
+CUST00487,Ennio,Notarbartolo,ennio.notarbartolo812@virgilio.it,1981-03-08,M,Italia,Valdibrana,Italia,2025-07-30
+CUST00236,陽一,木村,yangyi.mucun193@gmail.com,1992-09-12,M,Giappone,横浜市金沢区,Giappone,2024-10-05
+CUST00576,Ivan,Gerrits,ivan.gerrits10@yahoo.com,1987-05-19,M,Paesi Bassi,IJsselham,Paesi Bassi,2023-06-17
+CUST00423,Ignazio,Tozzo,ignazio.tozzo837@libero.it,1971-04-26,M,Italia,Marega,Italia,2025-10-31
+CUST00008,Emma,Moore,emma.moore349@hotmail.co.uk,1985-05-05,F,Regno Unito,Lukehaven,Regno Unito,16/02/2025
+CUST00577,Kenneth,Cline,kenneth.cline951@gmail.com,1989-06-10,M,Canada,North Laura,Canada,2023-03-09
+CUST00439,Kaja,Grabias,kaja.grabias65@gmail.com,1999-02-27,F,Polonia,koszalin,Polonia,2023-09-27
+CUST00410,Nicolas,Moosbrugger,nicolas.moosbrugger232@kabsi.at,1972-03-05,M,Austria,Bischofshofen,Austria,2022-05-12
+CUST00235,Martino,Travaglia,martino.travaglia674@vodafone.it,1981-09-15,M,Italia,Baio Dora,Italia,26/01/2023
+CUST00605,Ronya,Haller,ronya.haller3459@chello.at,16/01/1991,F,Austria,Liezen,Austria,2023-07-17
+CUST00516,Ewelina,Pezda,ewelina.pezda255@o2.pl,1995-03-27,F,Polonia,Ostróda,Polonia,2024-11-26
+CUST00070,Maurice,Frühwirth,maurice.fruhwirth59@gmail.com,1982-09-03,M,Austria,Bad Radkersburg,Austria,2022-06-01
+CUST00560,Claudia,Ricciardi,claudia.ricciardi978@gmail.com,1984-03-10,F,Italia,Celedizzo,Italia,2025-06-14
+CUST00449,Letizia,Ginese,letizia.ginese137@live.com,1996-01-12,F,Italia,,Italia,2025-02-27
+CUST00491,Rachel,Williams,rachel.williams539@gmail.com,1991-07-25,F,Australia,Port Austinmouth,Australia,2023-08-14
+CUST00497,ansaldo,Rinaldi,ansaldo.rinaldi166@libero.it,1979-06-23,M,Italia,Igliano,Italia,2024-04-23
+CUST00376,Marisa,Migliaccio,marisa.migliaccio227@gmail.com,1998-06-25,F,Italia,Marcelli,Italia,2024-03-28
+CUST00320,Niccolò,Bellò,niccolo.bello760@virgilio.it,1990-07-17,Maschio,Italia,Rodero,Italia,2023-08-10
+CUST00150,Adelasia,Ferrari,adelasia.ferrari874@tin.it,1991-07-18,F,Italia,Acciaroli,Italia,2024-12-29
+CUST00125,Rembrandt,Brancaccio,rembrandt.brancaccio524@gmail.com,1979-08-26,M,Italia,Andrian,Italia,2024-08-10
+CUST00568,Maria,De Meyer,maria.demeyer103@gmail.com,1992-11-25,F,Belgio,Londerzeel,Belgio,2025-08-26
+CUST00541,Élisabeth,Morel,elisabeth.morel272@club-internet.fr,1992-11-26,F,Francia,  SAINTE THÉODORE  ,Francia,2024-11-28
+CUST00186,Umberto,Giacometti,umberto.giacometti88@tiscali.it,1993-04-24,M,Italia,Sticciano,Italia,24-04-2025
+CUST00544,Hubert,Ciuruś,hubert.ciurus842@gmail.com,1983-11-08,M,Polonia,Nysa,Polonia,2024-02-17
+CUST00322,giulia,Tognazzi,giulia.tognazzi526@fastwebnet.it,04/10/1975,F,Italia,Gattolino,Italia,2025-10-15
+CUST00621,Enzio,Emanuelli,enzio.emanuelli6059@fastwebnet.it,2007-07-02,m,Italia,Trabia Miniere,Italia,2025-12-16
+CUST00580,Teresa,Valmarana,teresa.valmarana280@vodafone.it,1990-04-26,F,Italia,Villore,Italia,2025-09-28
+CUST00506,Angel,Bishop,angel.bishop633@yahoo.com,1980-11-01,F,Canada,New Matthew,Canada,2025-07-02
+CUST00142,陽一,中島,yangyi.zhongdao731@gmail.com,1978-05-08,m,Giappone,八王子市,Giappone,2024-03-29
+CUST00321,Henning,Wulf,henning.wulf488@web.de,1984-08-25,M,Germania,,Germania,2024-10-09
+CUST00020,Ravy,Borges,ravy.borges702@icloud.com,1988-06-27,M,Brasile,Azevedo,Brasile,2022-12-01
+CUST00173,Savannah,Smith,savannah.smith546@hotmail.com,1996-07-22,F,Stati Uniti,Kevinside,Stati Uniti,2025-05-06
+CUST00520,Fiorenzo,Fieramosca,fiorenzo.fieramosca93@tin.it,1991-07-17,M,Italia,Villafranca In Lunigiana,Italia,2024-06-02
+CUST00502,Tomás,Llamas,tomas.llamas675@hotmail.com,1983-10-24,M,Spagna,Albacete,Spagna,2024-10-02
+CUST00026,Lolita,Polesel,lolita.polesel765@libero.it,1992-10-14,F,Italia,Grumello Cremonese,Italia,2024-09-10
+CUST00417,Lia,Neves,lia.neves626@sapo.pt,2000-05-25,F,Portogallo,Anadia,Portogallo,2022-09-01
+CUST00494,Jean-Marie,Lenaerts,jean-marie.lenaerts900@gmail.com,2007-09-21,M,Belgio,Durnal,Belgio,2025-11-21
+CUST00427,修平,吉田,xiuping.jitian851@yahoo.com,2001-07-03,M,Giappone,文京区,Giappone,2024-02-29
+CUST00328,Niccolò,Giunti,niccolo.giunti130@tiscali.it,1978-05-20,Maschio,Italia,,Italia,2025-01-21
+CUST00246,Anne,Brennan,anne.brennan565@hotmail.co.uk,1976-03-13,F,Regno Unito,,Regno Unito,2023-06-28
+CUST00350,Pierpaolo,Baglioni,pierpaolo.baglioni186@tim.it,1986-03-19,M,Italia,Etroubles,Italia,2024-07-08
+CUST00273,Livia,Rosmini,livia.rosmini471@gmail.com,1976-05-22,F,Italia,Tanas,Italia,2022-06-20
+CUST00155,篤司,渡辺,dusi.dubian638@hotmail.com,1973-09-01,M,Giappone,白井市,Giappone,2025-07-28
+CUST00127,Jennifer,Lewis,jennifer.lewis96@yahoo.com,2003-04-22,F,Australia,Davismouth,Australia,2023-03-28
+CUST00551,Natascha,Schmid,natascha.schmid322@gmx.at,1982-03-15,F,Austria,Gföhl,Austria,2022-10-18
+CUST00114,Filippa,Santoro,filippa.santoro46@gmail.com,1957-12-14,F,Italia,  TRICARICO  ,Italia,2024-12-28
+CUST00535,Graziano,Polani,graziano.polani336@gmail.com,1969-10-11,M,Italia,Chiavari,Italia,2024-10-21
+CUST00174,Ninetta,Pausini,ninetta.pausini71@poste.it,1970-09-21,F,Italia,Sale,Italia,12/05/2024
+CUST00058,Wolfhard,Wohlgemut,wolfhard.wohlgemut197@googlemail.com,1978-04-18,M,Germania,Vechta,Germania,2025-05-04
+CUST00356,Gianpaolo,Doria,gianpaolo.doria773@vodafone.it,1989-10-02,M,Italia,Torbiato,Italia,2022-09-22
+CUST00223,Emma,Humer,emma.humer83@kabsi.at,1961-10-02,F,,Altheim,Austria,06-12-2022
+CUST00281,Luiz Miguel,Araújo,luizmiguel.araujo580@live.com,2007-11-25,M,Brasile,Farias dos Dourados,Brasile,2025-12-28
+CUST00018,Daniel,Bouwhuisen,daniel.bouwhuisen624@gmail.com,2007-11-06,M,Paesi Bassi,Eede,Paesi Bassi,2025-12-17
+CUST00330,Alessandra,Morricone,alessandra.morricone465@libero.it,1997-09-20,F,Italia,Frignano,Italia,2025-02-11
+CUST00256,Perla,Pou,perla.pou988@hotmail.com,1993-01-05,F,Spagna,Ciudad,Spagna,2023-03-21
+CUST00337,Ricciotti,Babato,ricciotti.babato852@vodafone.it,1983-02-03,M,Italia,Bernezzo,Italia,2023-05-28
+CUST00603,Mauro,Foletti,mauro.foletti2495@virgilio.it,2007-01-22,M,Italia,Appignano,Italia,30/11/2025
+CUST00191,Caterina,Marenzio,caterina.marenzio436@poste.it,1978-12-18,F,Italia,Equi,Italia,2023-06-23
+CUST00353,Marion,Porter,marion.porter430@yahoo.com,1984-08-11,F,Regno Unito,Callumfurt,Regno Unito,2025-10-07
+CUST00552,Germana,Pedroni,germana.pedroni560@poste.it,1982-06-22,F,Italia,Carife,Italia,2025-06-25
+CUST00301,Liv,van Henegouwen,liv.vanhenegouwen120@yahoo.com,1990-03-02,F,Paesi Bassi,Marsum,Paesi Bassi,2023-06-18
+CUST00095,Simonetta,Michelangeli,simonetta.michelangeli921@libero.it,1978-01-12,F,Italia,Darzo,Italia,2023-06-19
+CUST00181,Isabella,Reising,isabella.reising903@googlemail.com,1998-08-08,F,Germania,Melle,Germania,2025-06-10
+CUST00409,Umberto,Pozzecco,umberto.pozzecco974@gmail.com,1997-04-11,M,Italia,Campana,Italia,2023-09-27
+CUST00366,Romolo,Rizzo,romolo.rizzo390@gmail.com,2007-09-23,M,Italia,San Fior,Italia,2025-11-07
+CUST00363,Matthew,  CONNER  ,matthew.conner309@hotmail.com,1977-04-25,M,Stati Uniti,South Bryan,Stati Uniti,2024-09-10
+CUST00345,Klara,Hölzenbecher,klara.holzenbecher588@hotmail.de,1997-04-26,F,Germania,Deggendorf,Germania,05-12-2024
+CUST00006,Maria,Gaiatto,maria.gaiatto226@fastwebnet.it,1991-08-19,F,Italia,San Rocco Di Piegara,Italia,2025-06-18
+CUST00046,Yolanda,Marien,yolanda.marien922@hotmail.com,2003-09-15,F,Belgio,Fronville,Belgio,2024-08-14
+CUST00408,Erika,Marsili,erika.marsili19@gmail.com,1993-06-10,F,Italia,  MARCHIROLO  ,Italia,2024-04-02
+CUST00432,Wenke,Kaul,wenke.kaul811@gmail.com,05-03-1995,Femmina,Germania,Freudenstadt,Germania,2024-01-21
+CUST00422,Eliana,Cardano,eliana.cardano515@virgilio.it,1966-09-14,F,Italia,Cavaso Del Tomba,Italia,2024-06-03
+CUST00017,  LIAM  ,da Rosa,liam.darosa380@terra.com.br,1976-06-07,M,Brasile,Rios de da Mata,Brasile,2024-04-17
+CUST00049,Toni,Barberini,toni.barberini603@tin.it,2005-04-01,M,Italia,Cerati,Italia,2025-12-01
+CUST00609,Mathias,Jesus,mathias.jesus9018@gmail.com,2004-04-12,M,Brasile,Camargo,Brasile,2023-03-08
+CUST00575,Lars,  RIEGLER  ,lars.riegler960@gmail.com,1982-12-28,M,Austria,Schwechat,Austria,2024-12-17
+CUST00004,Raffaello,Rensi,raffaello.rensi96@outlook.com,1984-04-08,M,Italia,Cannizzaro,Italia,28-05-2025
+CUST00361,diana,Collins,diana.collins540@hotmail.com.au,2007-11-10,F,Australia,West Kimmouth,Australia,2025-12-16
+CUST00333,Eleanora,Tomasetti,eleanora.tomasetti848@tele2.it,1986-08-13,F,Italia,Sesto Al Reghena,Italia,2024-10-01
+CUST00489,Ellie,Bollen,ellie.bollen823@yahoo.com,1981-09-05,F,Belgio,Bourseigne-Neuve,Belgio,2025-10-17
+CUST00412,Ferdinando,Chinnici,ferdinando.chinnici678@fastwebnet.it,25-06-1999,M,Italia,Gimigliano Inferiore,Italia,04/08/2023
+CUST00484,Fabrizio,Michelangeli,fabrizio.michelangeli564@tele2.it,1995-09-10,M,Italia,Collepietra,Italia,2024-01-16
+CUST00334,Lucrezia,Tasso,lucrezia.tasso748@yahoo.com,1998-02-11,F,Italia,Carife,Italia,2024-06-04
+CUST00226,Monique,Faure,monique.faure591@voila.fr,1968-01-25,F,Francia,Bouvier-sur-Carlier,Francia,2023-08-22
+CUST00027,Alessia,Marangoni,alessia.marangoni371@tele2.it,1972-04-05,F,Italia,,Italia,2024-01-13
+CUST00479,Danilo,Cesarotti,danilo.cesarotti269@poste.it,2001-05-23,M,Italia,Marchesino,Italia,2024-05-11
+CUST00264,elias,Steinmeiern,elias.steinmeiern765@yahoo.com,1977-02-14,m,,Leerbroek,Paesi Bassi,2024-10-31
+CUST00051,Willy,Buysse,willy.buysse527@hotmail.com,1980-04-09,M,Belgio,Sart-Bernard,Belgio,2022-07-21
+CUST00230,Caterina,Gabbana,caterina.gabbana419@yahoo.com,1982-06-11,F,Italia,Casale Di Scodosia,Italia,2024-10-26
+CUST00038,ángel,Uriarte,angel.uriarte614@gmail.com,1984-06-16,M,Spagna,La Coruña,Spagna,2024-04-02
+CUST00158,Aniela,Fronczek,aniela.fronczek217@interia.pl,1981-08-11,F,Polonia,Gorzów Wielkopolski,Polonia,2025-04-02
+CUST00238,Dionigi,Ughi,dionigi.ughi209@hotmail.com,2002-05-18,M,Italia,Castellazzo Bormida,Italia,24-03-2024
+CUST00604,James,Peterson,james.peterson5191@gmail.com,1985-05-05,M,Stati Uniti,New Dwayneview,Stati Uniti,2022-02-24
+CUST00176,Valeria,Serraglio,valeria.serraglio109@outlook.com,1979-07-12,f,Italia,Geraci Siculo,Italia,2022-10-02
+CUST00528,Hannah,Snyder,hannah.snyder846@yahoo.com,1996-10-22,Femmina,Canada,Smithport,Canada,2025-05-31
+CUST00542,  MAURIZIO  ,Agnesi,maurizio.agnesi739@libero.it,1999-01-19,M,Italia,Nave San Felice,Italia,2025-07-02
+CUST00195,Javier,Carpenter,javier.carpenter197@yahoo.com,1978-04-24,M,Canada,Port Martinbury,Canada,24-11-2023
+CUST00530,Federica,Botticelli,federica.botticelli814@tele2.it,1995-06-18,F,Italia,Montano Lucino,Italia,2022-12-14
+CUST00383,Valentina,Totino,valentina.totino698@tin.it,1992-10-21,F,Italia,,Italia,2025-02-04
+CUST00608,Rosario,Travia,rosario.travia9769@gmail.com,1989-01-05,Maschio,Italia,Pavignano,Italia,2024-12-03
+CUST00536,Maricruz,Cantón,maricruz.canton632@yahoo.com,1988-12-27,F,Spagna,Barcelona,Spagna,2024-03-29
+CUST00068,Valerio,Telesio,valerio.telesio992@outlook.com,1995-01-19,M,Italia,Trisungo,Italia,2023-09-29
+CUST00354,Rosario,Parmitano,rosario.parmitano379@yahoo.com,1982-05-24,M,Italia,Mussomeli,Italia,2025-06-17
+CUST00169,Germana,Abba,germana.abba407@gmail.com,1983-12-07,F,Italia,  TURSI  ,Italia,2025-05-05
+CUST00466,Alessandra,Ferretti,alessandra.ferretti458@gmail.com,1996-01-24,F,Italia,,Italia,2023-02-13
+CUST00163,José,Sá,jose.sa637@gmail.com,1973-03-08,M,Portogallo,Fiães,Portogallo,06-04-2024
+CUST00310,Joannes,De Sutter,joannes.desutter408@yahoo.com,1985-05-07,M,,naninne,Belgio,2025-04-07
+CUST00194,Gianluca,Tamburello,gianluca.tamburello324@live.com,1992-02-24,M,Italia,Monticelli Terme,Italia,2025-12-04
+CUST00384,Ilaria,Casini,ilaria.casini885@hotmail.it,11-11-2000,F,Italia,Santa Cristina Val Gardena,Italia,2025-06-27
+CUST00153,Chiara,Morabito,chiara.morabito685@gmail.com,1979-11-26,f,Italia,San Rocco Al Porto,Italia,2024-03-16
+CUST00362,Maurice,Gaillard,maurice.gaillard405@bouygtel.fr,02/10/1992,M,Francia,Gaillardboeuf,Francia,2024-08-06
+CUST00617,Martha,bodner,martha.bodner9953@chello.at,1983-09-28,F,Austria,Feldbach,Austria,2025-02-04
+CUST00227,Delfino,  TRAETTA  ,delfino.traetta482@tiscali.it,2001-09-21,M,Italia,Accorneri,Italia,2023-11-26
+CUST00368,Gabrielle,Lebrun,gabrielle.lebrun20@bouygtel.fr,1990-08-03,Femmina,Francia,Chartier-les-Bains,Francia,2025-10-20
+CUST00510,Nora,Riener,nora.riener209@gmx.at,1990-06-20,F,Austria,Langenlois,Austria,2024-01-17
+CUST00104,Oskar,Cieciura,oskar.cieciura880@o2.pl,08/08/2006,M,Polonia,Cieszyn,Polonia,2025-03-27
+CUST00435,Antonius,Bartl,antonius.bartl928@kabsi.at,1969-02-01,M,Austria,Dürnstein,Austria,2025-09-29
+CUST00075,Willy,Verlinden,willy.verlinden272@gmail.com,1972-07-05,M,Belgio,Cras-Avernas,Belgio,2025-03-26
+CUST00470,Rosario,Travia,rosario.travia976@gmail.com,1989-01-05,Maschio,Italia,Pavignano,Italia,2024-12-03
+CUST00607,Maria,Thys,maria.thys8277@hotmail.com,1991-01-24,F,Belgio,Lombise,Belgio,2024-05-04
+CUST00120,Ricciotti,Fattori,ricciotti.fattori197@tim.it,22/07/1957,M,Italia,Carinola,Italia,2023-10-22
+CUST00431,Fabia,Anastasi,fabia.anastasi230@gmail.com,1994-01-11,F,Italia,Verbania,Italia,2025-01-23
+CUST00578,Laura,Deledda,laura.deledda657@virgilio.it,1997-09-17,F,Italia,Villa Literno,Italia,2023-04-15
+CUST00592,Marina,Lercari,marina.lercari315@libero.it,13-03-1979,F,Italia,Bolsena,Italia,2024-11-23
+CUST00208,Loredana,morgagni,loredana.morgagni931@vodafone.it,1982-08-10,F,Italia,Mapello,Italia,2025-10-20
+CUST00371,Yan,Rodrigues,yan.rodrigues415@bol.com.br,2003-01-11,M,Brasile,Cavalcanti,Brasile,2024-06-20
+CUST00391,Gabriella,Gullotta,gabriella.gullotta474@virgilio.it,1976-10-18,F,Italia,Castionetto,Italia,2025-04-17
+CUST00378,Alexandra,Sá,alexandra.sa360@clix.pt,1989-12-27,F,Portogallo,Castelo Branco,Portogallo,2022-05-14
+CUST00450,Willem,Vermeiren,willem.vermeiren851@hotmail.com,1983-11-15,M,,Lambusart,Belgio,2024-10-04
+CUST00009,Patrizio,Sforza,patrizio.sforza981@outlook.com,1991-06-04,M,Italia,Granaglione,Italia,2023-04-13
+CUST00420,Ronaldo,Camuccini,ronaldo.camuccini377@hotmail.com,2000-11-19,M,Italia,Catenanuova,Italia,2023-12-13
+CUST00037,Jelle,Janssen,jelle.janssen157@yahoo.com,2001-06-25,M,Paesi Bassi,Hartwerd,Paesi Bassi,12/05/2024
+CUST00140,Luigi,Zamengo,luigi.zamengo861@alice.it,1982-11-09,M,Italia,Civitacampomarano,Italia,2024-05-09
+CUST00254,Anita,Tognazzi,anita.tognazzi45@gmail.com,1990-06-24,F,Italia,Valfloriana,Italia,2024-12-06
+CUST00304,Karina,Tomaszuk,karina.tomaszuk380@o2.pl,1984-11-24,F,Polonia,Chojnice,Polonia,2025-01-03
+CUST00434,Ezio,Tedesco,ezio.tedesco778@tele2.it,1973-12-16,M,Italia,Corazzo,Italia,2023-10-11
+CUST00369,Giulia,Natta,giulia.natta590@libero.it,1997-07-19,F,Italia,Torrecandele,Italia,2025-02-28
+CUST00060,Dina,tornatore,dina.tornatore474@alice.it,1994-04-28,F,Italia,,Italia,2025-02-19
+CUST00112,Rita,Benson,rita.benson447@hotmail.com,1966-10-17,F,Australia,Romeroton,Australia,2025-06-25
+CUST00538,Alessandra,Armani,alessandra.armani726@hotmail.it,1970-10-10,F,Italia,Montecreto,Italia,2024-04-11
+CUST00582,Lolita,Marini,lolita.marini664@outlook.com,1991-05-23,F,Italia,Rapolla,Italia,2025-07-30
+CUST00518,Pierina,Iannotti,pierina.iannotti195@fastwebnet.it,1977-03-16,F,Italia,Zianigo,Italia,2023-03-09
+CUST00263,Marcel,Gangl,marcel.gangl633@gmx.at,1978-02-08,M,Austria,Ebenfurth,Austria,2024-02-20
+CUST00524,Giovanni,Magrassi,giovanni.magrassi442@tin.it,1994-03-09,M,Italia,Tresenda,Italia,2025-01-14
+CUST00298,Michaël,De Ridder,michael.deridder692@yahoo.com,2005-04-16,M,,Mormont,Belgio,2025-02-25
+CUST00151,Annibale,Mascheroni,annibale.mascheroni500@hotmail.com,1997-04-09,M,Italia,,Italia,2024-04-14
+CUST00267,Guy,Janssens,guy.janssens301@hotmail.com,1956-06-12,M,Belgio,Muizen,Belgio,2024-09-06
+CUST00543,Lucia,Salvo,lucia.salvo175@virgilio.it,1980-09-21,F,Italia,San Frediano A Settimo,Italia,2024-08-25
+CUST00360,Kristien,liekens,kristien.liekens114@gmail.com,1974-05-22,F,,Herstal,Belgio,31/10/2023
+CUST00555,Emilio,Offredi,emilio.offredi965@outlook.com,1964-05-25,M,Italia,Pietraperzia,Italia,2023-10-29
+CUST00039,Thomas,Legendre,thomas.legendre952@laposte.net,1950-06-27,M,Francia,NeveuVille,Francia,2024-08-02
+CUST00481,Kai,Hemetsberger,kai.hemetsberger126@gmail.com,1971-03-28,M,Austria,Drosendorf-Zissersdorf 1,Austria,2024-10-15
+CUST00308,Naomi,Ziegler,naomi.ziegler974@gmx.at,1991-04-28,F,Austria,,Austria,2025-05-20
+CUST00199,Isabela,Agullo,isabela.agullo47@gmail.com,18-01-1991,F,Spagna,Teruel,Spagna,2024-11-03
+CUST00352,Bruno,Cibin,bruno.cibin94@virgilio.it,1979-12-17,M,Italia,Parcines,Italia,2025-10-19
+CUST00394,Gian,Sobrero,gian.sobrero981@tin.it,1997-01-15,M,Italia,Tornello,Italia,2025-10-16
+CUST00147,augustin,Laroche,augustin.laroche853@free.fr,1993-07-13,M,Francia,Brunel-sur-Lemaire,Francia,2025-11-11
+CUST00583,Victoriano,Torrijos,victoriano.torrijos755@hotmail.com,1976-06-26,M,Spagna,Navarra,Spagna,2024-06-17
+CUST00557,Mia,De Mey,mia.demey358@hotmail.com,1998-09-26,F,Belgio,Kleine-Brogel,Belgio,2024-12-29
+CUST00148,Amadeo,Chigi,amadeo.chigi878@gmail.com,1979-10-13,M,Italia,San Rocco Monta',Italia,2025-01-16
+CUST00622,Jason,Claeys,jason.claeys78@hotmail.com,1984-05-13,M,Belgio,Hannut,Belgio,2025-06-18
+CUST00349,Morgan,miller,morgan.miller944@yahoo.com.au,2006-06-12,F,Australia,Theodoreview,Australia,2025-06-19
+CUST00326,Toni,Flaiano,toni.flaiano503@hotmail.com,1985-12-15,M,Italia,Villetta Barrea,Italia,2024-01-25
+CUST00629,Mia,De Mey,mia.demey3589@hotmail.com,1998-09-26,F,Belgio,Kleine-Brogel,Belgio,2024-12-29
+CUST00124,Ramona,Pezzali,ramona.pezzali477@outlook.com,1986-08-15,F,Italia,,Italia,2025-07-17
+CUST00529,Gian,Babati,gian.babati132@libero.it,1964-02-13,M,Italia,Lozzo Di Cadore,Italia,2023-01-14
+CUST00097,Nicola,Zecchini,nicola.zecchini363@libero.it,2007-09-28,M,Italia,Grilli,Italia,2025-11-12
+CUST00144,Kyle,Allen,kyle.allen155@hotmail.com,1982-04-13,M,Stati Uniti,East Courtney,Stati Uniti,2024-05-29
+CUST00240,Roberto,Giolitti,roberto.giolitti30@virgilio.it,2007-11-20,M,Italia,,Italia,2025-12-22
+CUST00395,Martino,Falier,martino.falier831@gmail.com,1981-06-23,M,Italia,Sant'Angelo A Cupolo,Italia,2025-08-14
+CUST00537,Vanessa,Sagnelli,vanessa.sagnelli608@gmail.com,1984-06-17,F,Italia,Borghetto Di Borbera,Italia,2024-02-25
+CUST00098,Monica,Briccialdi,monica.briccialdi998@hotmail.com,1995-10-24,F,Italia,Pisoniano,Italia,2024-07-27
+CUST00372,Anabel,Roda,anabel.roda852@gmail.com,1993-12-12,f,Spagna,Lugo,Spagna,2024-05-30
+CUST00325,  CHRISTINA  ,Moran,christina.moran868@gmail.com,1970-07-14,F,Stati Uniti,New Rebecca,Stati Uniti,2025-05-18
+CUST00280,Melissa,Fornaciari,melissa.fornaciari23@libero.it,2004-11-13,F,Italia,Modena,Italia,2023-12-02
+CUST00294,Francisca,  PEREIRA  ,francisca.pereira991@sapo.pt,1971-09-12,F,Portogallo,Elvas,Portogallo,2024-11-17
+CUST00255,  NEDDA  ,Fantoni,nedda.fantoni723@live.com,1985-07-13,F,Italia,Prata Di Pordenone,Italia,2024-06-14
+CUST00401,Fernanda,Tomaselli,fernanda.tomaselli291@outlook.com,1994-05-24,F,Italia,Prato Allo Stelvio,Italia,2025-09-06
+CUST00123,Nicoletta,Trapani,nicoletta.trapani216@live.com,1966-07-26,F,Italia,Santa Maria In Strada,Italia,2024-02-13
+CUST00184,Kate,van Ooste,kate.vanooste287@gmail.com,1980-10-23,F,,Beutenaken,Paesi Bassi,2025-02-03
+CUST00203,Vitória,Peixoto,vitoria.peixoto117@terra.com.br,1984-02-13,F,Brasile,Vieira,Brasile,2024-03-11
+CUST00324,Vittoria,Rinaldi,vittoria.rinaldi470@tiscali.it,1979-11-01,F,Italia,  MONOPOLI  ,Italia,2025-03-07
+CUST00247,Emanuel,  CORREIA  ,emanuel.correia885@gmail.com,1977-02-09,M,,Évora,Portogallo,2025-05-26
+CUST00416,  LILLA  ,Malacarne,lilla.malacarne374@vodafone.it,1993-11-24,F,Italia,Termine Di Cadore,Italia,2023-08-25
+CUST00465,Lidia,Treves,lidia.treves171@libero.it,15/12/2003,F,Italia,Stanghella,Italia,2025-04-28
+CUST00452,Maura,Montalcini,maura.montalcini38@virgilio.it,07/05/1986,F,Italia,Vallesella,Italia,2025-07-12
+CUST00545,Antoine,Martel,antoine.martel196@laposte.net,2007-01-15,M,Francia,Rémy,Francia,2025-06-10
+CUST00464,Kelly,De Keyser,kelly.dekeyser314@gmail.com,1986-08-20,f,Belgio,Hechtel,Belgio,2025-09-09
+CUST00554,Gastone,Faugno,gastone.faugno286@libero.it,2007-09-10,M,Italia,Castelletto Cervo,Italia,2025-11-02
+CUST00433,Adriano,Giacconi,adriano.giacconi294@tin.it,23-08-1984,m,Italia,Tarces,Italia,2024-02-07
+CUST00126,Zacarías,Orozco,zacarias.orozco291@hotmail.com,1995-09-22,M,Spagna,Ourense,Spagna,2023-06-01
+CUST00403,Sian,Edwards,sian.edwards318@outlook.com,1987-11-23,F,Regno Unito,Cartwrightmouth,Regno Unito,06/04/2023
+CUST00601,Thibault,Leroy,thibault.leroy6117@wanadoo.fr,1988-07-12,M,Francia,Dos Santosnec,Francia,2025-06-21
+CUST00619,Ida,Letta,ida.letta5707@outlook.com,1992-01-17,F,Italia,Salve,Italia,2025-03-28
+CUST00224,Rossana,Pacelli,rossana.pacelli753@tin.it,1983-06-20,F,Italia,Badino,Italia,2024-09-12
+CUST00343,Marco,Amato,marco.amato159@tim.it,1992-11-16,M,Italia,Lauria,Italia,2023-08-07
+CUST00054,Gabriel,Wlaźlak,gabriel.wlazlak97@yahoo.com,1994-02-22,m,Polonia,Ostrów Mazowiecka,Polonia,2024-05-28
+CUST00220,Eugène,Noël,eugene.noel812@tiscali.fr,1993-05-20,M,Francia,girard,Francia,2024-07-11
+CUST00130,Tammy,Evans,tammy.evans425@hotmail.com,1992-11-19,F,Stati Uniti,New Catherine,Stati Uniti,2025-01-11
+CUST00570,Olga,Gonzaga,olga.gonzaga669@outlook.com,1993-08-16,F,Italia,serso,Italia,18-01-2024
+CUST00438,Loretta,Sismondi,loretta.sismondi125@libero.it,2003-01-08,F,Italia,Baratte,Italia,2024-10-19
+CUST00539,Erika,Bresciani,erika.bresciani836@libero.it,1993-01-12,F,Italia,Roverchiaretta,Italia,2023-03-20
+CUST00573,Ettore,Morandi,ettore.morandi936@libero.it,1987-03-14,m,Italia,Felizzano,Italia,2024-11-30
+CUST00440,Sylvia,Bertoni,sylvia.bertoni612@live.com,2007-09-01,F,Italia,Cerasomma,Italia,2025-11-07
+CUST00101,nicolas,Weiss,nicolas.weiss755@live.com,1989-06-26,M,Francia,Chauveau-sur-Mer,Francia,2025-02-08
+CUST00448,Ivo,Baptista,ivo.baptista791@gmail.com,1983-10-24,M,Portogallo,Alcobaça,Portogallo,2025-06-21
+CUST00387,Giancarlo,Zoppetti,giancarlo.zoppetti361@hotmail.it,2006-09-03,M,Italia,Pogliola,Italia,2025-04-02
+CUST00610,Pierpaolo,Baglioni,pierpaolo.baglioni1861@tim.it,1986-03-19,M,Italia,Etroubles,Italia,2024-07-08
+CUST00295,Gudrun,Heintze,gudrun.heintze15@aol.de,2005-05-18,F,Germania,Wanzleben,Germania,2025-04-03
+CUST00268,  LAURETTA  ,Franzese,lauretta.franzese150@libero.it,1991-04-17,F,Italia,Tonengo,Italia,2024-09-18
+CUST00052,Rosina,Riccardi,rosina.riccardi220@libero.it,1995-09-05,F,Italia,Tesimo,Italia,2023-04-27
+CUST00442,Borys,Sularz,borys.sularz630@interia.pl,1973-06-08,M,Polonia,Rzeszów,Polonia,2025-09-28
+CUST00469,Sylvia,Cerutti,sylvia.cerutti373@libero.it,1986-09-26,F,Italia,Castelsardo,Italia,2024-03-14
+CUST00113,Gertraude,Patberg,gertraude.patberg922@gmx.de,1982-10-07,F,Germania,Wismar,Germania,2025-07-31
+CUST00180,Patricia,Frost,patricia.frost331@hotmail.com.au,1988-04-27,F,Australia,Port Katelyn,Australia,2025-07-15
+CUST00468,Pompeo,Fischetti,pompeo.fischetti77@outlook.com,1975-11-21,M,Italia,In Via Gioiamia,Italia,2025-05-02
+CUST00513,Lodewijk,Everaert,lodewijk.everaert327@hotmail.com,2007-04-15,M,Belgio,,Belgio,2025-10-12
+CUST00501,Livio,Fischetti,livio.fischetti515@hotmail.it,1992-11-06,M,Italia,Morrovalle Stazione,Italia,2025-07-19
+CUST00374,Cassandra,Visconti,cassandra.visconti604@hotmail.it,1992-07-17,F,Italia,Taviano,Italia,2022-12-21
+CUST00315,Ciro,Villarosa,ciro.villarosa808@vodafone.it,1993-10-01,M,Italia,St.Jakob In Ahrnta,Italia,2024-05-26
+CUST00152,Allegra,Grassi,allegra.grassi498@gmail.com,1989-01-13,F,,Migliarino,Italia,2023-11-16
+CUST00172,Gianni,Goldstein,gianni.goldstein816@libero.it,1989-10-26,M,Italia,,Italia,2025-06-07
+CUST00234,Bert,Claeys,bert.claeys994@gmail.com,28/07/2000,M,Belgio,Roselies,Belgio,2025-09-28
+CUST00307,Manuel,Bernardini,manuel.bernardini707@gmail.com,1994-06-07,M,Italia,Banari,Italia,2022-12-31
+CUST00598,Lukas,Böhm,lukas.bohm781@gmx.at,1985-04-22,M,Austria,,Austria,2024-05-05
+CUST00165,Lorenzo,Faggiani,lorenzo.faggiani477@gmail.com,1987-12-09,M,Italia,Lissone,Italia,2023-05-19
+CUST00318,Geronimo,Gigli,geronimo.gigli367@live.com,1992-04-19,M,Italia,Castelnuovo D'Elsa,Italia,2025-11-17
+CUST00137,千代,林,qiandai.lin973@yahoo.com,1956-08-20,F,Giappone,我孫子市,Giappone,2023-03-15
+CUST00411,Halina,schweitzer,halina.schweitzer865@web.de,1971-02-17,F,Germania,Badoberan,Germania,2023-05-22
+CUST00559,Pina,Esposito,pina.esposito918@gmail.com,1991-07-27,F,,Valle San Giovanni,Italia,2024-03-29
+CUST00198,Isabela,  ANTUNES  ,isabela.antunes184@hotmail.com,1992-05-01,F,Portogallo,Macedo de Cavaleiros,Portogallo,2022-11-06
+CUST00359,Ewelina,Klos,ewelina.klos221@gmail.com,1984-09-04,f,Polonia,Zielona Góra,Polonia,2024-10-22
+CUST00259,Anthony,Hernandez,anthony.hernandez420@hotmail.com,1962-11-05,M,Stati Uniti,East Christopher,Stati Uniti,2023-03-23
+CUST00233,Margaux,Ferreira,margaux.ferreira91@ifrance.com,1986-06-09,f,Francia,Chrétien,Francia,09-12-2024
+CUST00515,Osvaldo,Donarelli,osvaldo.donarelli100@libero.it,2007-01-10,M,Italia,Solicchiata,Italia,2025-08-05
+CUST00116,Emilio,Mocenigo,emilio.mocenigo373@gmail.com,2003-07-03,M,Italia,Matonti,Italia,2025-09-08
+CUST00121,Paloma,Gregorio,paloma.gregorio694@hotmail.it,1969-12-06,F,Italia,Orvieto,Italia,2025-12-21
+CUST00483,  SANDY  ,Gehringer,sandy.gehringer684@yahoo.de,1975-06-23,F,Germania,  BAMBERG  ,Germania,2023-04-09
+CUST00283,  ELENA  ,Schönberger,elena.schonberger795@kabsi.at,1966-04-20,F,Austria,Feldbach,Austria,2023-08-08
+CUST00377,Marcial,Vaquero,marcial.vaquero523@hotmail.com,1989-11-04,M,Spagna,Guadalajara,Spagna,2024-10-12
+CUST00385,Yolanda,Maza,yolanda.maza70@yahoo.com,1969-08-15,F,,Álava,Spagna,2024-03-29
+CUST00225,Loredana,Curatoli,loredana.curatoli27@tiscali.it,1970-02-08,F,Italia,San Martino In Badia,Italia,2023-10-14
+CUST00597,Gloria,Dalla,gloria.dalla426@tiscali.it,1982-12-18,F,Italia,Piatto,Italia,2022-09-07
+CUST00508,Débora,Pinheiro,debora.pinheiro305@gmail.com,1990-08-03,F,Portogallo,Lamego,Portogallo,2025-02-10
+CUST00473,Nina,cornelis,nina.cornelis973@gmail.com,1973-10-02,F,Belgio,Ettelgem,Belgio,2023-07-09
+CUST00348,Donna,Cruz,donna.cruz30@yahoo.com,1968-03-09,F,Australia,Jacksonchester,Australia,2025-03-17
+CUST00128,Gerrit,Sarneel,gerrit.sarneel826@gmail.com,1978-04-05,M,Paesi Bassi,Brantgum,Paesi Bassi,2025-10-12
+CUST00620,Pina,Argan,pina.argan5183@virgilio.it,1974-08-09,F,Italia,Dogaro,Italia,2022-11-18
+CUST00446,Jessica,Thomas,jessica.thomas383@hotmail.com.au,1998-05-24,F,Australia,South Maria,Australia,2024-07-21
+CUST00286,Rosario,Natta,rosario.natta644@hotmail.it,1994-02-21,M,Italia,Acquedolci,Italia,2023-10-01
+CUST00581,Alberico,Bodoni,alberico.bodoni339@fastwebnet.it,1999-03-24,M,Italia,Claino Con Osteno,Italia,2024-06-25
+CUST00044,Adelmo,Pedrazzini,adelmo.pedrazzini952@live.com,1997-09-25,M,Italia,Cimbergo,Italia,2025-07-30
+CUST00108,Rosina,Fibonacci,rosina.fibonacci360@libero.it,1972-11-17,F,Italia,Magliano Alpi Sottano,Italia,2023-07-03
+CUST00531,Graziella,Padovano,graziella.padovano774@yahoo.com,1985-03-07,F,Italia,Cava D'Ispica,Italia,2025-05-18
+CUST00496,Roland,Caron,roland.caron531@wanadoo.fr,1968-03-10,M,Francia,Mallet-sur-Gautier,Francia,2023-01-23
+CUST00134,Milena,  CARPACCIO  ,milena.carpaccio225@hotmail.it,1989-03-26,f,Italia,Brittoli,Italia,2025-06-11
+CUST00441,Lucio,Fantozzi,lucio.fantozzi736@live.com,1987-03-10,M,Italia,Castropignano,Italia,2024-05-16
+CUST00062,Thierry,Thierry,thierry.thierry993@laposte.net,1990-02-25,M,Francia,Duval,Francia,2025-02-24
+CUST00045,Isabel,Torres,isabel.torres409@sapo.pt,1995-11-21,F,Portogallo,Oliveira do Bairro,Portogallo,2022-10-05
+CUST00170,Girolamo,Turchetta,girolamo.turchetta607@gmail.com,2002-12-27,M,Italia,Aldein,Italia,2025-05-15
+CUST00066,Alessandra,Pedroni,alessandra.pedroni949@yahoo.com,1997-08-10,F,Italia,chiesina uzzanese,Italia,2024-08-18
+CUST00284,Thomas,Laureys,thomas.laureys652@hotmail.com,1983-04-20,M,Belgio,  MARCOURT  ,Belgio,2024-09-15
+CUST00086,Isabella,Cugia,isabella.cugia209@poste.it,1977-11-21,F,Italia,Sommocolonia,Italia,2022-04-23
+CUST00243,Márcio,Pinheiro,marcio.pinheiro473@gmail.com,1980-02-21,Maschio,Portogallo,Alcobaça,Portogallo,2024-03-23
+CUST00187,Bianka,Kuświk,bianka.kuswik569@interia.pl,1999-04-23,F,Polonia,Luboń,Polonia,2024-12-14
+CUST00327,Robert,Morrow,robert.morrow330@yahoo.com,1990-10-05,M,Stati Uniti,Harmonport,Stati Uniti,2024-05-22
+CUST00160,Róża,Piórek,roza.piorek855@hotmail.com,2007-02-16,F,Polonia,Kutno,Polonia,2025-08-19
+CUST00013,fenna,Ridder,fenna.ridder592@yahoo.com,1995-04-23,F,Paesi Bassi,Roderwolde,Paesi Bassi,2023-04-11
+CUST00036,Luka,  DRYSDALE  ,luka.drysdale520@gmail.com,1985-02-28,M,,Muiden,Paesi Bassi,2023-10-14
+CUST00029,Benito,Argentero,benito.argentero157@tin.it,1996-11-06,M,Italia,Cesara,Italia,2025-02-15
+CUST00171,Miguel,Batista,miguel.batista714@sapo.pt,1979-05-28,M,Portogallo,Silves,Portogallo,2022-10-08
+CUST00143,Daria,Petralli,daria.petralli344@libero.it,18-06-1982,F,Italia,  VALLEMARE DI CEPAGATTI  ,Italia,2024-08-19
+CUST00237,Nicole,Johnson,nicole.johnson641@gmail.com,1989-08-25,F,Canada,South Carol,Canada,2024-06-05
+CUST00533,Amico,Ferragamo,amico.ferragamo141@hotmail.com,1973-12-11,M,Italia,Cotropagno,Italia,2024-09-16
+CUST00525,Stephanie,Van Hecke,stephanie.vanhecke375@yahoo.com,1996-01-13,f,Belgio,Bizet,Belgio,2024-11-25
+CUST00591,Cipriano,Canil,cipriano.canil64@vodafone.it,2000-11-04,M,,Castelnuovo Vomano,Italia,2025-07-16
+CUST00222,Serafina,curatoli,serafina.curatoli717@vodafone.it,1996-07-09,F,Italia,Givoletto,Italia,2023-04-13
+CUST00571,Isabel,  ANJOS  ,isabel.anjos329@hotmail.com,1993-05-21,F,Portogallo,Seia,Portogallo,2024-06-05
+CUST00096,Benito,Lollobrigida,benito.lollobrigida699@poste.it,1993-04-22,M,Italia,,Italia,2023-09-17
+CUST00241,Ettore,Dossi,ettore.dossi727@libero.it,1990-03-10,M,Italia,Collesecco,Italia,2024-02-03
+CUST00461,Serena,  ACCARDO  ,serena.accardo821@libero.it,1998-02-24,F,Italia,Cerchiate,Italia,2025-01-14
+CUST00547,  POMPEO  ,Musatti,pompeo.musatti421@gmail.com,1978-09-25,M,Italia,Porto Azzurro,Italia,2024-05-27
+CUST00207,翔太,山本,xiangtai.shanben795@hotmail.com,1975-09-13,M,Giappone,八王子市,Giappone,2023-02-07
+CUST00393,Joyce,Smith,joyce.smith620@hotmail.co.uk,1979-08-17,F,Regno Unito,Lake Patrickville,Regno Unito,2025-11-12
+CUST00398,Aldo,Palazzo,aldo.palazzo373@fastwebnet.it,2003-06-10,M,Italia,Chivasso,Italia,22/02/2025
+CUST00526,Aaron,Baldwin,aaron.baldwin372@gmail.com,1998-09-10,M,Stati Uniti,Port Michaelmouth,Stati Uniti,21/11/2023
+CUST00218,Mafalda,  MARQUES  ,mafalda.marques118@clix.pt,1990-09-08,F,Portogallo,Alcobaça,Portogallo,03/09/2025
+CUST00005,henri,Menard,henri.menard734@sfr.fr,1986-11-23,M,Francia,Sainte Élisabeth,Francia,04/10/2024
+CUST00558,Inaya,Simons,inaya.simons125@gmail.com,1982-10-22,F,Paesi Bassi,wjelsryp,Paesi Bassi,2025-06-18
+CUST00099,Giancarlo,Cocci,giancarlo.cocci948@virgilio.it,1970-04-28,M,Italia,Forte Dei Marmi,Italia,2025-01-20
+CUST00407,Tanner,Rivas,tanner.rivas662@yahoo.com,1980-11-14,M,Australia,Josephside,Australia,2022-10-09
+CUST00503,Traci,Sanchez,traci.sanchez863@gmail.com,1999-10-02,F,Canada,Donaldview,Canada,2025-07-18
+CUST00048,Victoria,Iacovelli,victoria.iacovelli22@hotmail.it,2003-10-18,F,Italia,Revo',Italia,2023-03-11
+CUST00033,Margherita,Scaramucci,margherita.scaramucci788@vodafone.it,1970-11-11,F,Italia,St. Konstantin,Italia,2025-07-13
+CUST00201,Benvenuto,Niggli,benvenuto.niggli588@libero.it,1986-05-16,M,Italia,,Italia,2024-01-01
+CUST00135,Steven,Mühlbacher,steven.muhlbacher571@chello.at,1987-04-28,M,Austria,Ferlach,Austria,2025-04-24
+CUST00028,Johann,Dorn,johann.dorn774@gmail.com,1980-01-28,M,Austria,Schärding,Austria,2024-12-25
+CUST00549,Ippazio,Bossi,ippazio.bossi723@hotmail.it,1963-03-17,M,Italia,Pioltello,Italia,2024-12-12
+CUST00231,Eraldo,Paltrinieri,eraldo.paltrinieri879@virgilio.it,1998-03-11,M,Italia,Falchera,Italia,2025-04-01
+CUST00490,Goffredo,Visconti,goffredo.visconti68@fastwebnet.it,1991-05-13,M,Italia,Civitella Del Lago,Italia,2024-10-06
+CUST00379,Marco,Orengo,marco.orengo242@libero.it,1981-02-05,M,Italia,Terrazze,Italia,2023-09-30
+CUST00289,Annalisa,Callegari,annalisa.callegari335@gmail.com,1987-12-14,F,Italia,Scurcola Marsicana,Italia,2025-05-12
+CUST00419,Morena,Piccio,morena.piccio989@fastwebnet.it,2001-08-27,F,Italia,Tendola,Italia,2025-09-12
+CUST00392,Costanzo,Gotti,costanzo.gotti461@virgilio.it,2005-10-21,M,Italia,Cannaregio,Italia,2025-03-25
+CUST00499,Pomponio,Ravaglioli,pomponio.ravaglioli257@hotmail.it,1973-04-21,M,Italia,Badia Al Pino,Italia,2023-10-22
+CUST00139,Virginia,Sibilia,virginia.sibilia461@yahoo.com,25-05-1996,F,Italia,Cignano,Italia,2023-03-01
+CUST00063,Pietro,Soranzo,pietro.soranzo171@virgilio.it,1996-07-16,M,Italia,,Italia,2024-03-12
+CUST00472,azeglio,Persico,azeglio.persico798@fastwebnet.it,1973-11-12,M,Italia,Preturo,Italia,2024-09-02
+CUST00129,Andre,Knox,andre.knox251@hotmail.com,1967-08-20,M,Stati Uniti,Sanchezhaven,Stati Uniti,2023-09-17
+CUST00613,Angelina,Guarana,angelina.guarana1839@alice.it,1985-10-09,F,Italia,Portobuffole',Italia,2024-07-07
+CUST00521,Lauretta,Necci,lauretta.necci990@poste.it,2007-04-07,F,Italia,San Giovanni Lipioni,Italia,2025-10-16
+CUST00065,Fredo,Tosi,fredo.tosi389@gmail.com,1987-01-13,M,Italia,Naz Sciaves,Italia,2025-01-07
+CUST00015,Lex,Massa,lex.massa876@gmail.com,1983-04-28,M,Paesi Bassi,de Hoef,Paesi Bassi,2024-05-24
+CUST00157,Hazel,Fraser,hazel.fraser187@hotmail.co.uk,1966-01-09,F,Regno Unito,Conorville,Regno Unito,2024-06-10
+CUST00041,Carsten,Möchlichen,carsten.mochlichen750@yahoo.de,2007-08-27,M,Germania,Dachau,Germania,2025-10-05
+CUST00493,Danielle,Johnson,danielle.johnson478@gmail.com,1980-11-17,F,Stati Uniti,West Katherinestad,Stati Uniti,2023-11-22
+CUST00380,Gabriella,Gradenigo,gabriella.gradenigo203@libero.it,20-03-1985,F,Italia,Castagnola Di Fraconalto,Italia,2023-12-17
+CUST00188,Lana,Hauer,lana.hauer459@gmx.at,1986-01-03,F,Austria,Hainburg an der Donau,Austria,2025-10-11
+CUST00217,  MARIANA  ,Pacetti,mariana.pacetti807@tele2.it,1969-11-19,Femmina,,Campello Sul Clitunno,Italia,2025-08-20
+CUST00053,Sven,Schatz,sven.schatz804@gmx.at,1983-08-26,Maschio,Austria,friedberg,Austria,2025-07-02
+CUST00338,Erika,Montanariello,erika.montanariello99@hotmail.it,1955-12-24,F,Italia,Sperone Di Custonaci,Italia,2023-12-26
+CUST00296,Rosina,Bonbach,rosina.bonbach378@gmail.com,2006-11-24,F,Germania,Aachen,Germania,2025-10-01
+CUST00252,Teresa,Viola,teresa.viola467@virgilio.it,1989-06-28,F,Italia,scorciosa,Italia,2024-07-01
+CUST00462,Olgierd,Magier,olgierd.magier441@onet.pl,1992-10-27,M,Polonia,Kłodzko,Polonia,2025-01-08
+CUST00456,Ester,Albuquerque,ester.albuquerque883@uol.com.br,1984-01-28,F,Brasile,  DA CRUZ DO OESTE  ,Brasile,2025-06-24
+CUST00628,Gionata,Piacentini,gionata.piacentini4681@yahoo.com,1971-03-26,M,Italia,Torrita Stazione,Italia,2024-11-13
+CUST00270,Sergius,Pedersoli,sergius.pedersoli175@yahoo.com,1984-03-03,M,Italia,Trevico,Italia,2025-09-03
+CUST00202,Emilie,Fink,emilie.fink349@gmx.at,2007-03-02,F,Austria,Feldbach,Austria,2025-12-10
+CUST00162,Mirco,Hendriks,mirco.hendriks773@yahoo.de,1983-01-08,M,Germania,Schrobenhausen,Germania,2024-02-16
+CUST00556,Naud,van Wassenaar,naud.vanwassenaar707@gmail.com,1992-12-16,M,Paesi Bassi,Alblasserdam,Paesi Bassi,2024-05-29
+CUST00402,Reyes,Molins,reyes.molins84@yahoo.com,22/10/1991,F,Spagna,Teruel,Spagna,2023-08-26
+CUST00477,Eliana,Rensi,eliana.rensi256@tele2.it,1980-02-01,F,Italia,Cecchina,Italia,2024-03-17
+CUST00106,Matias,Freitas,matias.freitas25@gmail.com,1976-11-07,M,Portogallo,Valongo,Portogallo,2025-01-04
+CUST00566,Mauro,  FOLETTI  ,mauro.foletti249@virgilio.it,2007-01-22,M,Italia,Appignano,Italia,30/11/2025
+CUST00390,Tanner,Spencer,tanner.spencer630@yahoo.com,1979-10-17,M,Australia,South Brittanyhaven,Australia,2024-06-19
+CUST00002,Vincent,Perry,vincent.perry143@yahoo.co.uk,04/12/1978,M,Regno Unito,Sarahport,Regno Unito,2023-08-27
+CUST00587,Edoardo,Renier,edoardo.renier190@tele2.it,1985-03-16,M,Italia,calea,Italia,2023-08-25
+CUST00562,Isabel,Guerra,isabel.guerra672@uol.com.br,1991-05-24,F,Brasile,Montenegro,Brasile,2024-04-07
+CUST00081,Alessandra,Capone,alessandra.capone627@tim.it,17-11-1999,F,Italia,Villa Bianca,Italia,2023-08-29
+CUST00206,Peer,Jacobi Jäckel,peer.jacobijackel122@googlemail.com,1973-09-25,M,Germania,Rottweil,Germania,2025-10-27
+CUST00035,Simone,Rocca,simone.rocca977@libero.it,2006-12-24,M,Italia,Freins,Italia,2025-11-28
+CUST00509,Benedetto,Pucci,benedetto.pucci162@poste.it,2007-08-14,M,Italia,Ceretta Di San Maurizio Canavese,Italia,2025-11-12
+CUST00428,Sheila,Riley,sheila.riley906@yahoo.co.uk,2007-06-01,F,Regno Unito,North Kayleightown,Regno Unito,2025-09-07
+CUST00455,Tatiana,Rossini,tatiana.rossini38@gmail.com,1977-11-07,F,Italia,Pendosso,Italia,2025-11-26
+CUST00367,Joanne,Rhodes,joanne.rhodes74@yahoo.com,1991-07-28,F,Regno Unito,melissaport,Regno Unito,2022-08-18
+CUST00092,Dino,Bettoni,dino.bettoni115@hotmail.it,1992-02-23,M,Italia,Saltino,Italia,2024-02-27
+CUST00340,Jan,Vanneste,jan.vanneste421@yahoo.com,1999-06-28,M,Belgio,Vyle-et-Tharoul,Belgio,2022-08-31
+CUST00565,Germana,Sauli,germana.sauli141@hotmail.it,1988-02-20,F,Italia,Vado,Italia,18-09-2024
+CUST00346,Lucia,Boldù,lucia.boldu866@tele2.it,1982-09-25,F,Italia,Castel Fusano,Italia,2024-11-14
+CUST00242,Ludovico,Gabrieli,ludovico.gabrieli566@virgilio.it,2007-07-03,M,,Galatina,Italia,2025-12-15
+CUST00014,Nino,Renzi,nino.renzi47@libero.it,2005-11-08,M,,Zovencedo,Italia,2025-08-09
+CUST00316,Antônio,Cassiano,antonio.cassiano134@icloud.com,1980-09-09,M,Brasile,Porto do Sul,Brasile,2022-11-28
+CUST00388,Annetta,Scarpa,annetta.scarpa473@live.com,1999-08-02,f,Italia,,Italia,2025-02-18
+CUST00274,Nathalie,Morin,nathalie.morin923@laposte.net,1961-05-22,F,Francia,,Francia,2023-02-10
+CUST00167,Leon,Hunter,leon.hunter797@yahoo.com,1985-03-10,M,Australia,Boonehaven,Australia,2023-12-26
+CUST00625,  GIULIA  ,Natta,giulia.natta5905@libero.it,1997-07-19,F,Italia,Torrecandele,Italia,2025-02-28
+CUST00485,Rosalia,Guariento,rosalia.guariento872@tele2.it,2004-03-23,F,Italia,Proves,Italia,2022-11-28
+CUST00624,Gloria,Dalla,gloria.dalla4264@tiscali.it,1982-12-18,F,Italia,Piatto,Italia,2022-09-07
+CUST00505,Cecilia,Boito,cecilia.boito667@tele2.it,1997-04-25,F,Italia,Ghezzano,Italia,20-06-2025
+CUST00244,Giosuè,Prati,giosue.prati511@hotmail.it,1992-12-10,M,Italia,Turania,Italia,2024-05-07
+CUST00567,Márcio,  MORAIS  ,marcio.morais54@sapo.pt,1989-02-14,M,Portogallo,Odivelas,Portogallo,2024-10-31
+CUST00563,Jolanda,Bompiani,jolanda.bompiani220@hotmail.it,1996-04-27,F,Italia,Cermenate,Italia,2025-07-12
+CUST00190,Elize,de Vos,elize.devos485@hotmail.com,1975-09-17,F,Paesi Bassi,Tuk,Paesi Bassi,2025-02-26
+CUST00476,Ágata,Bartolomé,agata.bartolome408@yahoo.com,1990-06-21,F,,La Rioja,Spagna,2025-10-23
+CUST00511,Benvenuto,Santoro,benvenuto.santoro321@tele2.it,2000-12-11,M,Italia,Nicosia,Italia,2024-10-03
+CUST00059,eva,Forza,eva.forza144@live.com,1991-07-06,F,Italia,Tres,Italia,2024-09-08
+CUST00475,Larissa,Rios,larissa.rios782@gmail.com,1987-02-19,F,Brasile,Nunes da Praia,Brasile,2025-12-24
+CUST00561,Marguerite,Mercier,marguerite.mercier979@gmail.com,1991-12-03,F,Francia,Carre,Francia,2024-03-19
+CUST00253,Afonso,Faria,afonso.faria586@sapo.pt,1984-07-08,M,Portogallo,Funchal,Portogallo,2025-03-29
+CUST00022,Nina,Nunes,nina.nunes275@outlook.com.br,1978-02-07,F,Brasile,Cardoso,Brasile,2022-11-28
+CUST00314,Armando,Marenzio,armando.marenzio833@alice.it,1989-04-11,M,Italia,Murci,Italia,2024-03-10
+CUST00460,Holly,Davies,holly.davies709@gmail.com,2001-08-12,F,Regno Unito,Lindahaven,Regno Unito,2023-07-01
+CUST00161,Benjamin,De Oliveira,benjamin.deoliveira975@sfr.fr,1975-06-08,M,Francia,Barbe,Francia,2025-03-06
+CUST00277,Eliana,Baggio,eliana.baggio468@libero.it,1970-05-07,f,Italia,Cornate D'Adda,Italia,2025-10-18
+CUST00192,Isa,Bocelli,isa.bocelli361@tiscali.it,1971-12-15,F,Italia,,Italia,2024-08-17
+CUST00386,Laura,Donatoni,laura.donatoni816@gmail.com,1980-05-19,F,Italia,Monte San Savino,Italia,2025-06-10
+CUST00414,Neil,Taylor,neil.taylor852@outlook.com,2003-12-25,M,Regno Unito,Brendaberg,Regno Unito,2023-08-02
+CUST00492,Ernest,Gospodarek,ernest.gospodarek129@onet.pl,1993-06-21,M,Polonia,Skawina,Polonia,2024-04-26
+CUST00344,Vítor,Baptista,vitor.baptista359@hotmail.com,2004-09-12,M,Portogallo,Guarda,Portogallo,2025-12-07
+CUST00309,Gerard,Claeys,gerard.claeys703@gmail.com,1983-06-18,M,Belgio,Ham-sur-Heure,Belgio,2024-05-15
+CUST00131,Alessandro,Morlacchi,alessandro.morlacchi736@tim.it,2007-12-13,M,Italia,Amalfi,Italia,25/12/2025
+CUST00100,Livio,Gulotta,livio.gulotta820@tiscali.it,1985-03-14,M,Italia,San Giuseppe Di Cassola,Italia,2024-07-06
+CUST00373,Toni,Rastelli,toni.rastelli448@gmail.com,1996-02-08,M,Italia,Moresco,Italia,2025-07-05
+CUST00088,Arturo,Galeati,arturo.galeati95@libero.it,2000-11-14,M,Italia,Zappello,Italia,2022-10-24
+CUST00459,Rita,Boiardo,rita.boiardo917@gmail.com,1973-07-11,F,Italia,,Italia,2024-05-19
+CUST00331,陽一,三浦,yangyi.sanpu813@yahoo.com,1992-12-04,M,Giappone,印旛郡本埜村,Giappone,2025-08-20
+CUST00215,Adelasia,Luria,adelasia.luria724@yahoo.com,1991-05-23,F,Italia,San Benedetto Vecchio,Italia,2025-05-23
+CUST00467,  PINA  ,Palmisano,pina.palmisano630@libero.it,1962-07-09,F,Italia,Gazzaniga,Italia,2025-03-06
+CUST00122,Fenne,Lankle,fenne.lankle562@gmail.com,1989-01-10,F,Paesi Bassi,Kerkrade,Paesi Bassi,2025-08-25
+CUST00615,Simonetta,Marini,simonetta.marini7277@live.com,1987-11-14,F,Italia,Cannitello,Italia,2023-06-10
+CUST00021,orlando,Petrocelli,orlando.petrocelli235@vodafone.it,1958-01-26,M,Italia,Dervio,Italia,2024-02-06
+CUST00072,Beatriz,Reis,beatriz.reis123@sapo.pt,2007-10-08,F,Portogallo,Albufeira,Portogallo,2025-11-13
+CUST00107,sara,Stanclik,sara.stanclik286@hotmail.com,1998-02-25,f,Polonia,Siedlce,Polonia,2025-01-08
+CUST00271,Gianna,Gotti,gianna.gotti635@tele2.it,1980-11-08,F,Italia,San Pelagio,Italia,2024-03-30
+CUST00436,Stella,Cilibrasi,stella.cilibrasi221@alice.it,1981-03-18,F,Italia,Bagnasco,Italia,2023-06-22
+CUST00103,Núria,Monteiro,nuria.monteiro164@gmail.com,1991-12-04,F,Portogallo,entroncamento,Portogallo,2023-07-26

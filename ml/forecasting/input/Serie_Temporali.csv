@@ -1,0 +1,217 @@
+﻿categoria;anno;mese;data_mese;quantita_totale_venduta
+Abbigliamento;2023;1;2023-01-01;52
+Abbigliamento;2023;2;2023-02-01;51
+Abbigliamento;2023;3;2023-03-01;62
+Abbigliamento;2023;4;2023-04-01;57
+Abbigliamento;2023;5;2023-05-01;54
+Abbigliamento;2023;6;2023-06-01;44
+Abbigliamento;2023;7;2023-07-01;84
+Abbigliamento;2023;8;2023-08-01;61
+Abbigliamento;2023;9;2023-09-01;72
+Abbigliamento;2023;10;2023-10-01;60
+Abbigliamento;2023;11;2023-11-01;144
+Abbigliamento;2023;12;2023-12-01;118
+Abbigliamento;2024;1;2024-01-01;115
+Abbigliamento;2024;2;2024-02-01;75
+Abbigliamento;2024;3;2024-03-01;97
+Abbigliamento;2024;4;2024-04-01;110
+Abbigliamento;2024;5;2024-05-01;101
+Abbigliamento;2024;6;2024-06-01;117
+Abbigliamento;2024;7;2024-07-01;98
+Abbigliamento;2024;8;2024-08-01;87
+Abbigliamento;2024;9;2024-09-01;105
+Abbigliamento;2024;10;2024-10-01;129
+Abbigliamento;2024;11;2024-11-01;191
+Abbigliamento;2024;12;2024-12-01;162
+Abbigliamento;2025;1;2025-01-01;117
+Abbigliamento;2025;2;2025-02-01;132
+Abbigliamento;2025;3;2025-03-01;130
+Abbigliamento;2025;4;2025-04-01;105
+Abbigliamento;2025;5;2025-05-01;161
+Abbigliamento;2025;6;2025-06-01;164
+Abbigliamento;2025;7;2025-07-01;146
+Abbigliamento;2025;8;2025-08-01;138
+Abbigliamento;2025;9;2025-09-01;157
+Abbigliamento;2025;10;2025-10-01;161
+Abbigliamento;2025;11;2025-11-01;276
+Abbigliamento;2025;12;2025-12-01;219
+Bellezza & Salute;2023;1;2023-01-01;130
+Bellezza & Salute;2023;2;2023-02-01;98
+Bellezza & Salute;2023;3;2023-03-01;135
+Bellezza & Salute;2023;4;2023-04-01;142
+Bellezza & Salute;2023;5;2023-05-01;137
+Bellezza & Salute;2023;6;2023-06-01;113
+Bellezza & Salute;2023;7;2023-07-01;146
+Bellezza & Salute;2023;8;2023-08-01;113
+Bellezza & Salute;2023;9;2023-09-01;135
+Bellezza & Salute;2023;10;2023-10-01;125
+Bellezza & Salute;2023;11;2023-11-01;266
+Bellezza & Salute;2023;12;2023-12-01;235
+Bellezza & Salute;2024;1;2024-01-01;200
+Bellezza & Salute;2024;2;2024-02-01;187
+Bellezza & Salute;2024;3;2024-03-01;162
+Bellezza & Salute;2024;4;2024-04-01;188
+Bellezza & Salute;2024;5;2024-05-01;191
+Bellezza & Salute;2024;6;2024-06-01;186
+Bellezza & Salute;2024;7;2024-07-01;182
+Bellezza & Salute;2024;8;2024-08-01;166
+Bellezza & Salute;2024;9;2024-09-01;258
+Bellezza & Salute;2024;10;2024-10-01;238
+Bellezza & Salute;2024;11;2024-11-01;394
+Bellezza & Salute;2024;12;2024-12-01;313
+Bellezza & Salute;2025;1;2025-01-01;275
+Bellezza & Salute;2025;2;2025-02-01;281
+Bellezza & Salute;2025;3;2025-03-01;288
+Bellezza & Salute;2025;4;2025-04-01;304
+Bellezza & Salute;2025;5;2025-05-01;266
+Bellezza & Salute;2025;6;2025-06-01;282
+Bellezza & Salute;2025;7;2025-07-01;314
+Bellezza & Salute;2025;8;2025-08-01;250
+Bellezza & Salute;2025;9;2025-09-01;330
+Bellezza & Salute;2025;10;2025-10-01;322
+Bellezza & Salute;2025;11;2025-11-01;525
+Bellezza & Salute;2025;12;2025-12-01;478
+Casa & Arredamento;2023;1;2023-01-01;37
+Casa & Arredamento;2023;2;2023-02-01;59
+Casa & Arredamento;2023;3;2023-03-01;64
+Casa & Arredamento;2023;4;2023-04-01;59
+Casa & Arredamento;2023;5;2023-05-01;71
+Casa & Arredamento;2023;6;2023-06-01;60
+Casa & Arredamento;2023;7;2023-07-01;101
+Casa & Arredamento;2023;8;2023-08-01;45
+Casa & Arredamento;2023;9;2023-09-01;79
+Casa & Arredamento;2023;10;2023-10-01;76
+Casa & Arredamento;2023;11;2023-11-01;145
+Casa & Arredamento;2023;12;2023-12-01;144
+Casa & Arredamento;2024;1;2024-01-01;74
+Casa & Arredamento;2024;2;2024-02-01;86
+Casa & Arredamento;2024;3;2024-03-01;83
+Casa & Arredamento;2024;4;2024-04-01;73
+Casa & Arredamento;2024;5;2024-05-01;105
+Casa & Arredamento;2024;6;2024-06-01;95
+Casa & Arredamento;2024;7;2024-07-01;120
+Casa & Arredamento;2024;8;2024-08-01;114
+Casa & Arredamento;2024;9;2024-09-01;114
+Casa & Arredamento;2024;10;2024-10-01;85
+Casa & Arredamento;2024;11;2024-11-01;214
+Casa & Arredamento;2024;12;2024-12-01;164
+Casa & Arredamento;2025;1;2025-01-01;146
+Casa & Arredamento;2025;2;2025-02-01;139
+Casa & Arredamento;2025;3;2025-03-01;118
+Casa & Arredamento;2025;4;2025-04-01;143
+Casa & Arredamento;2025;5;2025-05-01;192
+Casa & Arredamento;2025;6;2025-06-01;128
+Casa & Arredamento;2025;7;2025-07-01;170
+Casa & Arredamento;2025;8;2025-08-01;141
+Casa & Arredamento;2025;9;2025-09-01;171
+Casa & Arredamento;2025;10;2025-10-01;153
+Casa & Arredamento;2025;11;2025-11-01;240
+Casa & Arredamento;2025;12;2025-12-01;201
+Elettronica;2023;1;2023-01-01;100
+Elettronica;2023;2;2023-02-01;91
+Elettronica;2023;3;2023-03-01;99
+Elettronica;2023;4;2023-04-01;120
+Elettronica;2023;5;2023-05-01;100
+Elettronica;2023;6;2023-06-01;139
+Elettronica;2023;7;2023-07-01;150
+Elettronica;2023;8;2023-08-01;124
+Elettronica;2023;9;2023-09-01;141
+Elettronica;2023;10;2023-10-01;141
+Elettronica;2023;11;2023-11-01;244
+Elettronica;2023;12;2023-12-01;217
+Elettronica;2024;1;2024-01-01;153
+Elettronica;2024;2;2024-02-01;162
+Elettronica;2024;3;2024-03-01;200
+Elettronica;2024;4;2024-04-01;165
+Elettronica;2024;5;2024-05-01;211
+Elettronica;2024;6;2024-06-01;235
+Elettronica;2024;7;2024-07-01;197
+Elettronica;2024;8;2024-08-01;163
+Elettronica;2024;9;2024-09-01;216
+Elettronica;2024;10;2024-10-01;221
+Elettronica;2024;11;2024-11-01;392
+Elettronica;2024;12;2024-12-01;353
+Elettronica;2025;1;2025-01-01;239
+Elettronica;2025;2;2025-02-01;245
+Elettronica;2025;3;2025-03-01;230
+Elettronica;2025;4;2025-04-01;282
+Elettronica;2025;5;2025-05-01;241
+Elettronica;2025;6;2025-06-01;285
+Elettronica;2025;7;2025-07-01;297
+Elettronica;2025;8;2025-08-01;241
+Elettronica;2025;9;2025-09-01;320
+Elettronica;2025;10;2025-10-01;340
+Elettronica;2025;11;2025-11-01;528
+Elettronica;2025;12;2025-12-01;406
+Libri & Media;2023;1;2023-01-01;114
+Libri & Media;2023;2;2023-02-01;119
+Libri & Media;2023;3;2023-03-01;112
+Libri & Media;2023;4;2023-04-01;118
+Libri & Media;2023;5;2023-05-01;123
+Libri & Media;2023;6;2023-06-01;123
+Libri & Media;2023;7;2023-07-01;107
+Libri & Media;2023;8;2023-08-01;112
+Libri & Media;2023;9;2023-09-01;140
+Libri & Media;2023;10;2023-10-01;131
+Libri & Media;2023;11;2023-11-01;245
+Libri & Media;2023;12;2023-12-01;252
+Libri & Media;2024;1;2024-01-01;152
+Libri & Media;2024;2;2024-02-01;169
+Libri & Media;2024;3;2024-03-01;196
+Libri & Media;2024;4;2024-04-01;225
+Libri & Media;2024;5;2024-05-01;199
+Libri & Media;2024;6;2024-06-01;228
+Libri & Media;2024;7;2024-07-01;209
+Libri & Media;2024;8;2024-08-01;189
+Libri & Media;2024;9;2024-09-01;251
+Libri & Media;2024;10;2024-10-01;217
+Libri & Media;2024;11;2024-11-01;400
+Libri & Media;2024;12;2024-12-01;389
+Libri & Media;2025;1;2025-01-01;236
+Libri & Media;2025;2;2025-02-01;261
+Libri & Media;2025;3;2025-03-01;242
+Libri & Media;2025;4;2025-04-01;296
+Libri & Media;2025;5;2025-05-01;249
+Libri & Media;2025;6;2025-06-01;237
+Libri & Media;2025;7;2025-07-01;266
+Libri & Media;2025;8;2025-08-01;221
+Libri & Media;2025;9;2025-09-01;320
+Libri & Media;2025;10;2025-10-01;282
+Libri & Media;2025;11;2025-11-01;526
+Libri & Media;2025;12;2025-12-01;421
+Sport & Tempo Libero;2023;1;2023-01-01;76
+Sport & Tempo Libero;2023;2;2023-02-01;132
+Sport & Tempo Libero;2023;3;2023-03-01;113
+Sport & Tempo Libero;2023;4;2023-04-01;120
+Sport & Tempo Libero;2023;5;2023-05-01;140
+Sport & Tempo Libero;2023;6;2023-06-01;163
+Sport & Tempo Libero;2023;7;2023-07-01;157
+Sport & Tempo Libero;2023;8;2023-08-01;111
+Sport & Tempo Libero;2023;9;2023-09-01;151
+Sport & Tempo Libero;2023;10;2023-10-01;170
+Sport & Tempo Libero;2023;11;2023-11-01;272
+Sport & Tempo Libero;2023;12;2023-12-01;196
+Sport & Tempo Libero;2024;1;2024-01-01;193
+Sport & Tempo Libero;2024;2;2024-02-01;171
+Sport & Tempo Libero;2024;3;2024-03-01;177
+Sport & Tempo Libero;2024;4;2024-04-01;198
+Sport & Tempo Libero;2024;5;2024-05-01;179
+Sport & Tempo Libero;2024;6;2024-06-01;197
+Sport & Tempo Libero;2024;7;2024-07-01;213
+Sport & Tempo Libero;2024;8;2024-08-01;179
+Sport & Tempo Libero;2024;9;2024-09-01;246
+Sport & Tempo Libero;2024;10;2024-10-01;276
+Sport & Tempo Libero;2024;11;2024-11-01;336
+Sport & Tempo Libero;2024;12;2024-12-01;347
+Sport & Tempo Libero;2025;1;2025-01-01;244
+Sport & Tempo Libero;2025;2;2025-02-01;224
+Sport & Tempo Libero;2025;3;2025-03-01;287
+Sport & Tempo Libero;2025;4;2025-04-01;254
+Sport & Tempo Libero;2025;5;2025-05-01;309
+Sport & Tempo Libero;2025;6;2025-06-01;281
+Sport & Tempo Libero;2025;7;2025-07-01;297
+Sport & Tempo Libero;2025;8;2025-08-01;202
+Sport & Tempo Libero;2025;9;2025-09-01;303
+Sport & Tempo Libero;2025;10;2025-10-01;320
+Sport & Tempo Libero;2025;11;2025-11-01;523
+Sport & Tempo Libero;2025;12;2025-12-01;466

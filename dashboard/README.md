@@ -330,4 +330,6 @@ risolvere un singolo prodotto non risolve quello della categoria.
 | Campagne — Registrazioni Campagna | [`screenshot/campagne.RegistrazioniCampagna.png`](screenshot/campagne.RegistrazioniCampagna.png) |
 | Logistica — Corrieri | [`screenshot/logistica.corrieri.png`](screenshot/logistica.corrieri.png) |
 | Logistica — Mix Corrieri | [`screenshot/logistica.MixCorrieri.png`](screenshot/logistica.MixCorrieri.png) |
-| Logistica — Trend Mensile |
+| Logistica — Trend Mensile | [`screenshot/logistica.TrendMensile.png`](screenshot/logistica.TrendMensile.png) |
+| Magazzino — Copertura | [`screenshot/magazzino.copertura.png`](screenshot/magazzino.copertura.png) |
+| Magazzino — Rottura Stock | [`screenshot/magazzino.RotturaStock.png`](screenshot/magazzino.RotturaStock.png) |

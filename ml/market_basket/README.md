@@ -190,7 +190,7 @@ prodotto o categoria) — ogni coppia ha un senso di business plausibile.
 
 | File | Contenuto |
 |---|---|
-| [`mba.ipynb`](mba.ipynb) | Notebook completo: EDA, confronto granularità, Apriori, regole finali |
+| [`market_basket.ipynb`](market_basket.ipynb) | Notebook completo: EDA, confronto granularità, Apriori, regole finali |
 | [`vw_mba_transazioni.sql`](vw_mba_transazioni.sql) | Vista Gold di origine |
 | [`input/`](input/) | CSV esportato dalla vista, letto dal notebook |
 | [`ddl_association_rules.sql`](ddl_association_rules.sql) | Definizione tabella `gold.association_rules` |

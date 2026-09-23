@@ -319,17 +319,15 @@ risolvere un singolo prodotto non risolve quello della categoria.
 
 | Pagina | File |
 |---|---|
-| Overview | `screenshot/overview.png` |
-| Clienti — Segmentazione | `screenshot/clienti.segmentazione.png` |
-| Clienti — Crescita | `screenshot/clienti.crescita.png` |
-| Clienti — Fedeltà | `screenshot/clienti.fedeltà.png` |
-| Prodotti — Marginalità | `screenshot/prodotti.marginalità.png` |
-| Prodotti — MBA (Cross-sell) | `screenshot/prodotti.MBA.png` |
-| Prodotti — Best Seller | `screenshot/prodotti.BestSeller.png` |
-| Campagne — ROAS | `screenshot/campagne.ROAS.png` |
-| Campagne — Registrazioni Campagna | `screenshot/campagne.RegistrazioniCampagna.png` |
-| Logistica — Corrieri | `screenshot/logistica.corrieri.png` |
-| Logistica — Mix Corrieri | `screenshot/logistica.MixCorrieri.png` |
-| Logistica — Trend Mensile | `screenshot/logistica.TrendMensile.png` |
-| Magazzino — Copertura | `screenshot/magazzino.copertura.png` |
-| Magazzino — Rottura Stock | `screenshot/magazzino.RotturaStock.png` |
+| Overview | [`screenshot/overview.png`](screenshot/overview.png) |
+| Clienti — Segmentazione | [`screenshot/clienti.segmentazione.png`](screenshot/clienti.segmentazione.png) |
+| Clienti — Crescita | [`screenshot/clienti.crescita.png`](screenshot/clienti.crescita.png) |
+| Clienti — Fedeltà | [`screenshot/clienti.fedeltà.png`](screenshot/clienti.fedeltà.png) |
+| Prodotti — Marginalità | [`screenshot/prodotti.marginalità.png`](screenshot/prodotti.marginalità.png) |
+| Prodotti — MBA (Cross-sell) | [`screenshot/prodotti.MBA.png`](screenshot/prodotti.MBA.png) |
+| Prodotti — Best Seller | [`screenshot/prodotti.BestSeller.png`](screenshot/prodotti.BestSeller.png) |
+| Campagne — ROAS | [`screenshot/campagne.ROAS.png`](screenshot/campagne.ROAS.png) |
+| Campagne — Registrazioni Campagna | [`screenshot/campagne.RegistrazioniCampagna.png`](screenshot/campagne.RegistrazioniCampagna.png) |
+| Logistica — Corrieri | [`screenshot/logistica.corrieri.png`](screenshot/logistica.corrieri.png) |
+| Logistica — Mix Corrieri | [`screenshot/logistica.MixCorrieri.png`](screenshot/logistica.MixCorrieri.png) |
+| Logistica — Trend Mensile |

@@ -1,0 +1,27 @@
+﻿antecedente;conseguente;support;confidence;lift;data_generazione
+Ciclismo;Outdoor;0.0236;0.2556;3.1085;2026-08-27
+Outdoor;Ciclismo;0.0236;0.2866;3.1085;2026-08-27
+Bambino;Uomo;0.0224;0.2457;2.9978;2026-08-27
+Uomo;Bambino;0.0224;0.2733;2.9978;2026-08-27
+Cucina;Arredo;0.0196;0.2921;2.8694;2026-08-27
+Informatica;Smartphone & Accessori;0.0199;0.2678;2.8024;2026-08-27
+Smartphone & Accessori;Informatica;0.0199;0.2087;2.8024;2026-08-27
+Donna;Uomo;0.0188;0.2291;2.7944;2026-08-27
+Uomo;Donna;0.0188;0.2291;2.7944;2026-08-27
+Donna;Bambino;0.0203;0.248;2.7205;2026-08-27
+Bambino;Donna;0.0203;0.223;2.7205;2026-08-27
+Cura Persona;Make-up;0.0242;0.2404;2.686;2026-08-27
+Make-up;Cura Persona;0.0242;0.2706;2.686;2026-08-27
+Decorazione;Arredo;0.0243;0.2547;2.5027;2026-08-27
+Arredo;Decorazione;0.0243;0.2392;2.5027;2026-08-27
+Cucina;Decorazione;0.015;0.2244;2.3477;2026-08-27
+Libri;Giochi & Hobby;0.0664;0.3436;1.7879;2026-08-27
+Giochi & Hobby;Libri;0.0664;0.3457;1.7879;2026-08-27
+Film & Musica;Giochi & Hobby;0.0245;0.314;1.6337;2026-08-27
+Smartphone & Accessori;Audio & Video;0.0348;0.3645;1.5983;2026-08-27
+Film & Musica;Libri;0.0234;0.3007;1.5551;2026-08-27
+Outdoor;Fitness;0.0259;0.315;1.3671;2026-08-27
+Ciclismo;Fitness;0.029;0.3146;1.3656;2026-08-27
+Informatica;Audio & Video;0.0225;0.3026;1.3269;2026-08-27
+Make-up;Benessere;0.0268;0.2996;1.2149;2026-08-27
+Cura Persona;Benessere;0.028;0.2776;1.126;2026-08-27

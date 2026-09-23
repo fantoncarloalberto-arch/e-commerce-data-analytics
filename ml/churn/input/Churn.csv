@@ -1,0 +1,559 @@
+﻿customer_key;nome_completo;eta;paese;sesso;tenure_giorni;recency_giorni;numero_ordini;spesa_totale;aov;diversita_categorie;quota_ordini_scontati;numero_ordini_annullati;regolarita_acquisti;metodo_pagamento_prevalente;regolarita_non_calcolabile;mai_acquistato;target_churned
+3;Antonia Onio;19;Italia;Femmina;10;10;0;0;0;0;0.000000;0;19,67;N/A;1;1;No
+4;Nicole Hirschmann;67;Austria;Femmina;593;0;28;3345,33;119,48;6;0.020000;5;17,68;Bonifico bancario;0;0;No
+5;Atenulf Barracco;43;Italia;Maschio;342;73;6;1802,94;300,49;5;0.000000;3;43,49;Carta di credito;0;0;No
+6;陽子 斉藤;41;Giappone;Femmina;283;2;9;687,42;76,38;4;0.000000;1;28,85;PayPal;0;0;No
+7;Claudia Fuseli;32;Italia;Femmina;760;26;27;3782,16;140,08;6;0.030000;5;27,13;Carta di credito;0;0;No
+8;Beatrice Vattimo;25;Italia;Femmina;185;51;1;57,1;57,1;2;0.000000;2;0;Contrassegno;0;0;No
+9;Dolores Zichichi;26;Italia;Femmina;266;14;11;3340,51;303,68;6;0.000000;2;25,2;Carta di credito;0;0;Si
+10;Jesus Adams;48;Stati Uniti;Maschio;547;6;25;6347,47;253,9;6;0.000000;5;20,65;Bonifico bancario;0;0;Si
+11;京助 伊藤;37;Giappone;Maschio;355;82;23;4341,95;188,78;6;0.090000;7;10,09;Carta di credito;0;0;No
+12;Tabitha Willis;59;Australia;Femmina;1093;35;36;8216,76;228,24;6;0.000000;9;28,39;Bonifico bancario;0;0;No
+13;Gianluigi Sommaruga;42;Italia;Maschio;1133;192;57;10761,28;188,79;6;0.010000;9;13,26;Bonifico bancario;0;0;No
+15;Nikola Hoffmann;54;Austria;Maschio;403;17;15;4486,09;299,07;6;0.030000;1;29,37;Carta di credito;0;0;No
+17;Eva Parmitano;18;Italia;Femmina;71;4;4;563,07;140,77;4;0.000000;0;16,3;Contrassegno;0;0;Si
+18;David Paier;54;Austria;Maschio;1014;8;47;16772,46;356,86;6;0.020000;11;17,01;PayPal;0;0;No
+19;Klaus-michael Liebelt;35;Germania;Maschio;498;11;16;1333,71;83,36;5;0.060000;4;27,23;Bonifico bancario;0;0;No
+20;Michael Sims;38;Canada;Maschio;814;38;64;9845,78;153,84;6;0.010000;11;10,2;Bonifico bancario;0;0;No
+21;María Teresa Vicens;53;Spagna;Femmina;452;37;16;3085,96;192,87;6;0.070000;3;18,27;Bonifico bancario;0;0;No
+22;Thibault Leroy;37;Francia;Maschio;132;28;4;1396,31;349,08;5;0.130000;1;17,65;PayPal;0;0;No
+23;Roberta Ruggieri;28;Italia;Femmina;980;24;50;9108,86;182,18;6;0.030000;8;16,35;Bonifico bancario;0;0;No
+24;Erika Gradenigo;37;Italia;Femmina;363;38;11;1280,02;116,37;6;0.000000;2;21,8;Carta di credito;0;0;No
+25;Leandro Da Mota;24;Brasile;Maschio;1004;18;105;22451,75;213,83;6;0.020000;18;8,34;Bonifico bancario;0;0;No
+26;Bartek Osipiuk;20;Polonia;Maschio;279;4;9;2025,43;225,05;6;0.000000;2;25,36;PayPal;0;0;No
+27;Elladio Filzi;42;Italia;Maschio;440;3;14;4678,88;334,21;6;0.060000;1;27,68;Contrassegno;0;0;No
+28;Michael Colon;22;Stati Uniti;Maschio;187;41;4;133,95;33,49;4;0.000000;3;35,43;Carta di credito;0;0;No
+29;Lauretta Lercari;46;Italia;Femmina;96;12;1;227,23;227,23;2;0.000000;0;19,67;Bonifico bancario;1;0;No
+30;Cipriano Aragonés;28;Spagna;Maschio;824;26;31;5792,74;186,86;6;0.020000;8;28,69;Bonifico bancario;0;0;No
+31;Tiziano Ovadia;43;Italia;Maschio;715;36;32;6788,01;212,13;6;0.050000;3;21,41;PayPal;0;0;No
+32;Sara Lopes;49;Portogallo;Femmina;447;24;15;2300,69;153,38;6;0.120000;1;27,83;Bonifico bancario;0;0;No
+33;Hannah Schiffer;18;Paesi Bassi;Femmina;19;14;1;63,39;63,39;1;0.000000;0;19,67;PayPal;1;0;No
+34;Terry Kirby;42;Regno Unito;Maschio;585;19;27;6591,34;244,12;6;0.040000;6;21,45;Carta di credito;0;0;No
+35;Dirk Lambrecht;43;Belgio;Maschio;257;9;8;1333,46;166,68;6;0.000000;1;26,33;Bonifico bancario;0;0;No
+36;Alina Bottaro;70;Italia;Femmina;531;26;16;6296,59;393,54;5;0.040000;6;32,15;PayPal;0;0;No
+37;Aurora Manolesso;39;Italia;Femmina;1216;3;65;12330,41;189,7;6;0.040000;9;15,4;PayPal;0;0;No
+38;Amir Reynders;25;Belgio;Maschio;389;22;10;4021,47;402,15;5;0.000000;2;38,28;Bonifico bancario;0;0;No
+39;Paloma Durante;46;Italia;Femmina;1091;33;51;9251,83;181,41;6;0.000000;10;17,87;Bonifico bancario;0;0;No
+40;Ubaldo Montessori;38;Italia;Maschio;41;41;0;0;0;0;0.000000;0;19,67;N/A;1;1;No
+41;Carlo Pedersoli;35;Italia;Maschio;672;46;23;6713,47;291,89;6;0.000000;6;21,03;Contrassegno;0;0;No
+42;Arthur Marquez;31;Stati Uniti;Maschio;613;6;26;7013,08;269,73;6;0.000000;3;20,24;Carta di credito;0;0;No
+43;Mathias Jesus;21;Brasile;Maschio;968;28;99;16323,31;164,88;6;0.020000;25;8,7;PayPal;0;0;No
+44;Pina Interminelli;22;Italia;Femmina;1;1;0;0;0;0;0.000000;0;19,67;N/A;1;1;No
+46;Pier Camanni;40;Italia;Maschio;17;1;2;244,66;122,33;3;0.000000;0;5,81;Contrassegno;0;0;No
+47;Rafaela Caldeira;32;Brasile;Femmina;677;26;29;7491,37;258,32;6;0.000000;2;22,09;PayPal;0;0;No
+49;Gust Mertens;26;Belgio;Maschio;460;0;24;4956,75;206,53;6;0.000000;1;15,99;Carta di credito;0;0;No
+50;Giuliana Falloppio;47;Italia;Femmina;400;14;14;6642,5;474,46;6;0.000000;0;21,45;Carta di credito;0;0;No
+51;Amleto Lettiere;50;Italia;Maschio;190;11;7;758,97;108,42;4;0.000000;2;18,98;Carta di credito;0;0;No
+52;Martha Bodner;42;Austria;Femmina;269;5;19;8968,29;472,02;6;0.000000;3;10,84;PayPal;0;0;No
+53;Jessica Bowers;48;Australia;Femmina;113;4;4;121,64;30,41;3;0.000000;1;18,84;Bonifico bancario;0;0;No
+54;Fredo Delle;53;Italia;Maschio;711;4;33;7753,6;234,96;6;0.000000;6;19,46;Carta di credito;0;0;No
+55;Valeria Scotti;57;Italia;Femmina;52;42;1;1140,9;1140,9;1;0.000000;0;19,67;Bonifico bancario;1;0;No
+56;Roy Stoll;43;Germania;Maschio;913;50;47;10479,64;222,97;6;0.030000;10;14,41;Carta di credito;0;0;No
+57;Jason Claeys;41;Belgio;Maschio;135;8;6;2361,81;393,63;5;0.000000;2;15,26;PayPal;0;0;No
+58;Simonetta Mercadante;43;Italia;Femmina;385;52;12;3099,74;258,31;5;0.000000;4;18,07;Carta di credito;0;0;No
+60;Zaira Pagliaro;26;Italia;Femmina;72;20;2;67,86;33,93;2;0.000000;0;1,73;Bonifico bancario;0;0;No
+61;Édouard Lecomte;22;Francia;Maschio;47;35;1;380,3;380,3;1;0.000000;2;19,67;Carta di credito;1;0;No
+62;Kornel Zubel;28;Polonia;Maschio;1092;26;55;13703,79;249,16;6;0.040000;13;16,59;Bonifico bancario;0;0;No
+63;Goffredo Agostinelli;38;Italia;Maschio;1141;1;59;17928,78;303,88;6;0.010000;4;18,67;Carta di credito;0;0;No
+64;Pierluigi Giolitti;25;Italia;Maschio;157;3;7;898,15;128,31;5;0.000000;0;16,45;PayPal;0;0;No
+65;Suzanne Thibault;47;Francia;Femmina;714;20;35;9838,11;281,09;6;0.000000;5;16,13;Carta di credito;0;0;No
+66;Romina Goldoni;33;Italia;Femmina;313;51;18;5587,95;310,44;6;0.030000;1;13,87;Carta di credito;0;0;No
+67;Giampaolo Travia;27;Italia;Maschio;1034;11;68;16213,48;238,43;6;0.010000;8;14,57;Contrassegno;0;0;No
+68;Marta Caetani;50;Italia;Femmina;157;2;6;1231,78;205,3;3;0.000000;0;7,55;PayPal;0;0;No
+69;Ugolino Leonardi;37;Italia;Maschio;952;8;42;11012,44;262,2;6;0.010000;7;20,6;Carta di credito;0;0;No
+70;Elodia Castrillo;44;Spagna;Femmina;549;17;22;4835,1;219,78;6;0.050000;5;21,36;PayPal;0;0;No
+71;Nino Pizzetti;35;Italia;Maschio;207;35;7;756,46;108,07;5;0.060000;0;17,26;PayPal;0;0;No
+72;Konstanze Mosemann;51;Germania;Femmina;336;20;13;2043,29;157,18;6;0.070000;2;24,47;Carta di credito;0;0;No
+73;Bas Van Damme;42;Belgio;Maschio;563;27;18;3596,87;199,83;6;0.070000;4;37,72;Carta di credito;0;0;No
+75;Luigi Chiappetta;21;Italia;Maschio;1084;0;50;18524,17;370,48;6;0.010000;9;21,17;Carta di credito;0;0;No
+76;Kenny Vinck;58;Belgio;Maschio;10;3;1;8,99;8,99;1;0.000000;0;19,67;PayPal;1;0;No
+77;David Lauwers;44;Belgio;Maschio;662;37;28;7687,58;274,56;6;0.020000;5;22,15;Bonifico bancario;0;0;No
+78;Barbara Scarfoglio;18;Italia;Femmina;4;4;0;0;0;0;0.000000;0;19,67;N/A;1;1;No
+79;Ludovica Biagi;51;Italia;Femmina;704;25;33;11648,23;352,98;6;0.020000;3;18,52;PayPal;0;0;No
+80;Monica Gianinazzi;41;Italia;Femmina;917;26;46;6814,63;148,14;6;0.030000;6;16,57;Bonifico bancario;0;0;No
+81;Marina Esposito;42;Italia;Femmina;5;5;0;0;0;0;0.000000;0;19,67;N/A;1;1;No
+82;Rosaria Zanzi;25;Italia;Femmina;1294;29;60;15983,91;266,4;6;0.030000;6;14,92;Carta di credito;0;0;No
+83;Jeremi Lemiesz;28;Polonia;Maschio;1096;73;59;8458,7;143,37;6;0.040000;10;15,28;Bonifico bancario;0;0;No
+84;Melissa Sousa;41;Brasile;Femmina;741;13;36;11362,39;315,62;6;0.010000;2;16,45;Bonifico bancario;0;0;No
+85;Angelica Baggio;43;Italia;Femmina;498;4;17;4152,86;244,29;6;0.030000;0;36,48;Carta di credito;0;0;No
+86;Cyprian Pusz;34;Polonia;Maschio;79;15;2;1247,98;623,99;2;0.000000;0;27,73;Carta di credito;0;0;No
+87;Concetta Rensi;23;Italia;Femmina;1218;31;45;6823,28;151,63;6;0.000000;12;29,64;Bonifico bancario;0;0;No
+88;Valeria Gabba;44;Italia;Femmina;915;18;47;11406,05;242,68;6;0.010000;8;17,77;Contrassegno;0;0;No
+89;Virginia Bryant;23;Stati Uniti;Femmina;235;4;10;1798,95;179,9;6;0.000000;0;15,96;PayPal;0;0;No
+90;Octavio Sosa;62;Spagna;Maschio;424;7;14;3321,32;237,24;6;0.000000;0;23,74;Bonifico bancario;0;0;No
+91;Georges Rey;32;Francia;Maschio;799;19;38;11434,69;300,91;6;0.000000;5;16,51;Carta di credito;0;0;No
+92;Teresa Sismondi;59;Italia;Femmina;628;10;28;7899,46;282,12;6;0.000000;3;19,16;Contrassegno;0;0;No
+93;Étienne Carlier;21;Francia;Maschio;953;26;52;13397,12;257,64;6;0.060000;6;15,41;PayPal;0;0;No
+94;Aldo Lollobrigida;60;Italia;Maschio;177;55;4;884,93;221,23;4;0.000000;2;23,26;Carta di credito;0;0;No
+95;David Williams;50;Australia;Maschio;419;12;16;3053,23;190,83;6;0.000000;2;19,97;Carta di credito;0;0;No
+96;Leonardo Palladio;28;Italia;Maschio;601;19;26;8011,62;308,14;6;0.000000;2;19,25;PayPal;0;0;No
+97;Lucie Schwaiger;28;Austria;Femmina;11;11;0;0;0;0;0.000000;0;19,67;N/A;1;1;No
+98;Angelina Guarana;40;Italia;Femmina;481;8;48;14551,86;303,16;6;0.050000;5;8,03;Contrassegno;0;0;No
+99;Cesare Folliero;25;Italia;Maschio;849;22;39;5247,38;134,55;6;0.010000;5;21,46;PayPal;0;0;No
+100;Emmi Steinberg;32;Germania;Femmina;173;11;5;1650,77;330,15;3;0.000000;1;26,86;Carta di credito;0;0;No
+101;Sebastian Oberleitner;28;Austria;Maschio;642;32;38;16068,5;422,86;6;0.000000;2;13,45;Bonifico bancario;0;0;No
+102;Sandra Bompiani;55;Italia;Femmina;465;5;24;6399,5;266,65;6;0.020000;5;15,85;PayPal;0;0;No
+103;Amedeo Caracciolo;24;Italia;Maschio;982;46;50;13185,48;263,71;6;0.010000;10;18,65;Bonifico bancario;0;0;No
+104;Federica Bignardi;34;Italia;Femmina;665;0;57;12840,31;225,27;6;0.030000;11;11,86;Carta di credito;0;0;No
+105;Fabian Wijland;57;Paesi Bassi;Maschio;1304;1;54;13856,72;256,61;6;0.040000;8;17,77;Bonifico bancario;0;0;No
+106;桃子 佐藤;18;Giappone;Femmina;31;31;0;0;0;0;0.000000;0;19,67;N/A;1;1;No
+108;Mariano Schicchi;24;Italia;Maschio;1203;13;91;22275,1;244,78;6;0.030000;20;11,29;Contrassegno;0;0;No
+109;Ida Pinamonte;19;Italia;Femmina;269;8;8;1019,93;127,49;6;0.000000;2;22,48;Carta di credito;0;0;No
+110;Jamie Arnold;62;Stati Uniti;Femmina;649;39;29;6291,28;216,94;6;0.020000;2;18,98;PayPal;0;0;No
+111;智也 山口;63;Giappone;Maschio;1192;89;64;15059,61;235,31;6;0.010000;5;15,34;Bonifico bancario;0;0;No
+112;Rosa María Mateo;54;Spagna;Femmina;539;26;30;6372,2;212,41;6;0.010000;2;14,59;Bonifico bancario;0;0;No
+113;Merche Esteve;26;Spagna;Femmina;484;13;21;4810,7;229,08;6;0.000000;2;20,92;Bonifico bancario;0;0;No
+114;Lina Bombieri;22;Italia;Femmina;184;5;6;303,22;50,54;4;0.000000;1;31,35;Bonifico bancario;0;0;No
+115;Bas Van Dessel;40;Belgio;Maschio;150;10;9;1731,85;192,43;5;0.000000;2;16,07;Bonifico bancario;0;0;No
+116;Rosaria Natta;22;Italia;Femmina;305;44;4;3491,23;872,81;2;0.000000;2;76,94;PayPal;0;0;No
+117;Inês Coelho;18;Portogallo;Femmina;129;19;5;1761,72;352,34;5;0.000000;0;19,52;PayPal;0;0;No
+118;Gianfrancesco Saragat;32;Italia;Maschio;237;0;6;1043,9;173,98;5;0.000000;1;24,84;Bonifico bancario;0;0;No
+119;Germana Trobbiani;42;Italia;Femmina;823;22;47;10241,91;217,91;6;0.010000;5;13,74;Bonifico bancario;0;0;No
+120;Ida Letta;33;Italia;Femmina;217;5;17;7019,6;412,92;6;0.100000;4;10,79;Carta di credito;0;0;No
+121;Encarna Puerta;36;Spagna;Femmina;745;44;32;6007,59;187,74;6;0.020000;15;19,91;PayPal;0;0;No
+122;Federica Endrizzi;52;Italia;Femmina;348;16;10;2840,13;284,01;6;0.050000;1;32,59;Contrassegno;0;0;No
+123;Gemma Ferragamo;55;Italia;Femmina;687;7;37;9830,26;265,68;6;0.040000;6;17,23;Bonifico bancario;0;0;No
+124;Oliwier Żelasko;34;Polonia;Maschio;775;60;42;13845,79;329,66;6;0.010000;3;17,4;PayPal;0;0;No
+125;Águeda Pintor;37;Spagna;Femmina;968;6;50;8765,18;175,3;6;0.010000;9;17,19;PayPal;0;0;No
+126;Ivo Accardo;38;Italia;Maschio;745;19;42;14589,36;347,37;6;0.000000;3;17,62;PayPal;0;0;No
+127;Mariana Brambilla;41;Italia;Femmina;895;25;40;7008,24;175,21;6;0.030000;9;18,12;PayPal;0;0;No
+128;Ezio Marazzi;29;Italia;Maschio;367;8;16;2638,08;164,88;6;0.030000;0;17,53;Carta di credito;0;0;No
+129;Anita Zetticci;50;Italia;Femmina;392;91;15;1447,03;96,47;5;0.000000;3;20,13;PayPal;0;0;No
+130;Evelia Chacón;49;Spagna;Femmina;891;18;45;14924,99;331,67;6;0.020000;4;17,79;PayPal;0;0;No
+131;Alba Samper;30;Spagna;Femmina;1203;22;66;16018,12;242,7;6;0.010000;9;15,95;Bonifico bancario;0;0;No
+133;Luna Da Mota;53;Brasile;Femmina;1173;10;59;12854,64;217,88;6;0.050000;8;17,15;PayPal;0;0;No
+134;Justyna Cegła;36;Polonia;Femmina;82;58;1;14,99;14,99;1;0.000000;2;19,67;Bonifico bancario;1;0;No
+135;Nathan Santner;48;Austria;Maschio;519;15;19;3550;186,84;6;0.060000;1;21,61;Carta di credito;0;0;No
+136;Nadia Lancisi;47;Italia;Femmina;375;2;19;2999,71;157,88;6;0.030000;4;16,11;Carta di credito;0;0;Si
+137;くみ子 前田;43;Giappone;Femmina;1045;1;65;11559,77;177,84;6;0.030000;7;18,81;PayPal;0;0;No
+138;Pénélope Bigot;40;Francia;Femmina;398;12;15;5518,45;367,9;6;0.030000;2;20,04;Bonifico bancario;0;0;No
+139;Gianluca Bianchi;37;Italia;Maschio;492;0;14;5775,96;412,57;6;0.040000;4;29,72;Bonifico bancario;0;0;No
+140;Jonas Gnatz;48;Germania;Maschio;452;3;13;1806,37;138,95;6;0.000000;2;39,7;Bonifico bancario;0;0;No
+141;Kathryn Thompson;31;Canada;Femmina;26;26;0;0;0;0;0.000000;1;19,67;N/A;1;1;No
+142;Romana Bonatti;51;Italia;Femmina;1062;8;52;8752,79;168,32;6;0.010000;5;20,74;Contrassegno;0;0;No
+144;Samuel Van Dommelen;29;Paesi Bassi;Maschio;506;19;15;4183,03;278,87;6;0.000000;1;26,25;Bonifico bancario;0;0;No
+146;Ruggero Romagnoli;48;Italia;Maschio;642;13;63;16992,95;269,73;6;0.010000;6;9,1;Bonifico bancario;0;0;No
+147;Melina Miniati;45;Italia;Femmina;818;32;52;14047,84;270,15;6;0.030000;5;10,86;Carta di credito;0;0;No
+148;Jenna Sharp;41;Stati Uniti;Femmina;901;0;49;9093,28;185,58;6;0.020000;8;16,63;Carta di credito;0;0;No
+149;Tabea Geisler;46;Germania;Femmina;236;71;2;395,29;197,65;2;0.000000;2;19,67;Carta di credito;1;0;No
+150;Apolonia Piotrkowicz;37;Polonia;Femmina;1007;14;53;12138,01;229,02;6;0.030000;8;15,33;PayPal;0;0;No
+151;Lidia Boba;51;Polonia;Femmina;929;2;48;11189,64;233,12;6;0.020000;4;21,88;Bonifico bancario;0;0;No
+152;Frida Kühnert;30;Germania;Femmina;592;31;15;5291,23;352,75;6;0.000000;2;27,76;Bonifico bancario;0;0;No
+154;Costantino Marangoni;44;Italia;Maschio;89;0;4;901,68;225,42;5;0.000000;0;9,61;PayPal;0;0;No
+155;Leonard Wiedner;39;Austria;Maschio;558;55;21;6076,59;289,36;6;0.020000;3;20,64;PayPal;0;0;No
+156;Lorenzo Paolini;41;Italia;Maschio;106;0;4;340,15;85,04;4;0.000000;1;21,5;PayPal;0;0;No
+157;Elvira Maccanelli;42;Italia;Femmina;600;6;20;2701,28;135,06;6;0.030000;4;23,97;Carta di credito;0;0;No
+158;Martino Travaglia;44;Italia;Maschio;1009;42;100;17965,22;179,65;6;0.020000;15;8,73;Contrassegno;0;0;No
+159;稔 井上;28;Giappone;Maschio;1227;16;74;18038,32;243,76;6;0.030000;11;11,83;Carta di credito;0;0;No
+160;Gianna Vidoni;31;Italia;Femmina;1238;1;63;13080,64;207,63;6;0.020000;6;14,75;Carta di credito;0;0;No
+161;Ronya Haller;34;Austria;Femmina;837;5;78;20187,01;258,81;6;0.020000;17;8,49;PayPal;0;0;No
+162;Calogero Giannini;23;Italia;Maschio;482;71;24;4901,5;204,23;6;0.040000;1;17,11;Contrassegno;0;0;No
+163;Annibale Donarelli;47;Italia;Maschio;487;71;14;2500,54;178,61;6;0.040000;4;20,35;Bonifico bancario;0;0;No
+164;Serafina Carnera;34;Italia;Femmina;673;25;29;10311,71;355,58;6;0.000000;7;20,68;Carta di credito;0;0;No
+165;Allen Pierce;23;Stati Uniti;Maschio;531;3;15;4667,45;311,16;6;0.030000;5;29,89;Carta di credito;0;0;No
+166;Elvira Mercati;36;Italia;Femmina;265;7;15;2611,09;174,07;6;0.000000;0;14,48;PayPal;0;0;No
+167;Annemijn Van Cuijck;42;Paesi Bassi;Femmina;101;34;4;466,02;116,51;5;0.000000;0;13,54;PayPal;0;0;No
+168;Fenna Wensen;51;Paesi Bassi;Femmina;122;60;2;444,77;222,38;3;0.000000;1;9,9;Bonifico bancario;0;0;No
+169;Romina Alboni;31;Italia;Femmina;401;18;17;4982,95;293,11;6;0.000000;2;17,05;PayPal;0;0;No
+170;Maryam Heijmen;50;Paesi Bassi;Femmina;641;29;29;5531,72;190,75;6;0.020000;5;19,25;PayPal;0;0;No
+171;Brian Evans;28;Regno Unito;Maschio;215;41;4;2114,35;528,59;3;0.000000;0;32,51;PayPal;0;0;No
+172;Dion Blom;38;Paesi Bassi;Maschio;510;2;21;3962,44;188,69;6;0.000000;4;18,61;Carta di credito;0;0;No
+174;Dorothee Grein Groth;41;Germania;Femmina;430;28;11;4840,48;440,04;5;0.000000;2;26,91;Carta di credito;0;0;No
+175;André Pereira;37;Brasile;Maschio;291;21;8;3281,93;410,24;4;0.000000;0;28,84;PayPal;0;0;No
+176;Pablo Dalmau;50;Spagna;Maschio;368;31;17;2642,22;155,42;6;0.030000;3;18,98;Carta di credito;0;0;No
+177;Alina Pozzecco;48;Italia;Femmina;177;34;4;244,26;61,06;5;0.000000;1;10,21;PayPal;0;0;No
+178;Vittorio Cimini;29;Italia;Maschio;210;33;7;1328,48;189,78;4;0.000000;1;17,93;Contrassegno;0;0;No
+179;Sonia Jockel;51;Germania;Femmina;1144;15;59;14847,62;251,65;6;0.020000;11;15,76;PayPal;0;0;No
+180;Rudy Mahieu;35;Belgio;Maschio;1046;32;50;14428,95;288,58;6;0.010000;5;18,1;Carta di credito;0;0;No
+181;Jamie Kucera;46;Austria;Maschio;538;72;13;4452,85;342,53;5;0.000000;6;34,12;Carta di credito;0;0;No
+182;Martina Henk;36;Germania;Femmina;101;29;1;59,51;59,51;1;0.000000;1;19,67;PayPal;1;0;No
+183;Benito Cibin;23;Italia;Maschio;850;15;54;8613,39;159,51;6;0.060000;8;12,84;PayPal;0;0;No
+184;Maricruz Cantón;36;Spagna;Femmina;581;7;45;6748,27;149,96;6;0.000000;17;10,63;Bonifico bancario;0;0;No
+185;Justyna Malisz;53;Polonia;Femmina;485;35;21;5717,6;272,27;6;0.000000;2;14,7;PayPal;0;0;No
+186;Cristina Abba;23;Italia;Femmina;1015;23;60;9779,26;162,99;6;0.030000;10;13,66;PayPal;0;0;No
+187;Licia Comeriato;53;Italia;Femmina;344;4;16;4830,25;301,89;6;0.130000;2;16,77;PayPal;0;0;No
+188;香織 青木;38;Giappone;Femmina;730;79;38;6366,09;167,53;6;0.030000;5;14,37;Carta di credito;0;0;No
+189;Malwina Tonder;40;Polonia;Femmina;698;11;32;5467,89;170,87;6;0.070000;5;17,86;Bonifico bancario;0;0;No
+190;Nick Wouters;27;Belgio;Maschio;914;145;52;12291,29;236,37;6;0.030000;9;14,37;PayPal;0;0;No
+191;Roksana Jarmużek;37;Polonia;Femmina;378;8;32;5822,68;181,96;6;0.080000;5;8,59;PayPal;0;0;No
+192;Tatiana Sagredo;47;Italia;Femmina;1018;21;53;8986,09;169,55;6;0.030000;7;15,87;Bonifico bancario;0;0;No
+193;Telemaco Baglioni;33;Italia;Maschio;960;114;53;12976,92;244,85;6;0.020000;8;15,77;PayPal;0;0;No
+194;Ben De Neve;59;Belgio;Maschio;664;21;30;8693,1;289,77;6;0.000000;6;16,71;Carta di credito;0;0;No
+195;Liana Bazzi;27;Italia;Femmina;986;44;51;13318,07;261,14;6;0.020000;11;19,1;Contrassegno;0;0;No
+196;Liliana Sauro;27;Italia;Femmina;16;14;1;400,56;400,56;2;0.000000;1;19,67;PayPal;1;0;No
+197;Pasqual Versace;28;Italia;Maschio;192;19;4;1528,47;382,12;6;0.000000;1;25,14;Bonifico bancario;0;0;No
+198;Claudia Taccola;37;Italia;Femmina;577;10;24;5495,76;228,99;6;0.000000;4;19,08;Bonifico bancario;0;0;No
+199;Seppe Goovaerts;43;Belgio;Maschio;277;28;9;1950,9;216,77;6;0.000000;1;18,7;PayPal;0;0;No
+200;Jorge Menéndez;46;Spagna;Maschio;152;43;6;1117,86;186,31;4;0.000000;1;14,2;Bonifico bancario;0;0;No
+201;Aimé Leleu;40;Francia;Maschio;654;63;32;9460,69;295,65;6;0.060000;4;15,72;PayPal;0;0;No
+202;Desiderio Andrade;26;Spagna;Maschio;777;1;37;12606,45;340,71;6;0.040000;5;18,93;Carta di credito;0;0;Si
+203;Lazzaro Bettin;50;Italia;Maschio;1217;12;44;12005,06;272,84;6;0.030000;8;19,95;Bonifico bancario;0;0;No
+204;Luisa Canil;24;Italia;Femmina;24;2;1;25,13;25,13;1;0.000000;0;19,67;Carta di credito;1;0;No
+205;Patrizia Paganini;18;Italia;Femmina;39;39;0;0;0;0;0.000000;0;19,67;N/A;1;1;No
+207;Oreste Sauro;49;Italia;Maschio;1042;3;49;10158,29;207,31;6;0.000000;14;24,1;Carta di credito;0;0;No
+208;Justin Mosley;44;Canada;Maschio;171;0;5;184,19;36,84;4;0.000000;1;32,88;PayPal;0;0;No
+210;Eleanora Botticelli;56;Italia;Femmina;982;14;58;15928,3;274,63;6;0.010000;7;17,7;Contrassegno;0;0;No
+211;Marcel Pietrek;25;Polonia;Maschio;451;3;21;2307,36;109,87;6;0.000000;4;20,07;PayPal;0;0;No
+212;Ennio Surian;29;Italia;Maschio;607;24;25;2794,35;111,77;6;0.040000;4;21,51;Bonifico bancario;0;0;No
+213;Emilia Rubio;29;Spagna;Femmina;669;23;30;5372,62;179,09;6;0.030000;5;20,8;Carta di credito;0;0;No
+214;Britt Ring;29;Germania;Femmina;394;4;17;7729,58;454,68;6;0.030000;2;19,2;Bonifico bancario;0;0;No
+215;Romana Armani;48;Italia;Femmina;869;51;34;7452,37;219,19;6;0.080000;8;19,12;Contrassegno;0;0;No
+216;Roksana Folga;26;Polonia;Femmina;892;15;52;12960,05;249,23;6;0.050000;7;14,86;Carta di credito;0;0;No
+217;Gianluigi Baglioni;54;Italia;Maschio;954;4;49;11689,07;238,55;6;0.030000;8;18,72;Bonifico bancario;0;0;No
+218;Tina Beccheria;41;Italia;Femmina;71;29;3;156,67;52,22;3;0.000000;2;9,63;Contrassegno;0;0;No
+219;Loretta Sismondi;22;Italia;Femmina;377;0;26;4436,97;170,65;6;0.000000;6;11,51;PayPal;0;0;No
+220;Gelsomina Benedetti;24;Italia;Femmina;444;115;15;3985,78;265,72;6;0.000000;3;16,85;Contrassegno;0;0;No
+221;Ennio Notarbartolo;44;Italia;Maschio;93;1;3;1223,34;407,78;5;0.000000;0;16,5;Carta di credito;0;0;No
+222;陽一 木村;33;Giappone;Maschio;391;3;16;4080,33;255,02;5;0.030000;7;18,51;Bonifico bancario;0;0;No
+223;Ivan Gerrits;38;Paesi Bassi;Maschio;867;11;36;5943,67;165,1;6;0.050000;10;23,32;Bonifico bancario;0;0;No
+224;Ignazio Tozzo;54;Italia;Maschio;0;0;0;0;0;0;0.000000;0;19,67;N/A;1;1;Si
+225;Emma Moore;40;Regno Unito;Femmina;257;23;10;2944,46;294,45;6;0.050000;0;21,92;PayPal;0;0;No
+226;Kenneth Cline;36;Canada;Maschio;967;4;56;15218,98;271,77;6;0.030000;6;15,1;Carta di credito;0;0;No
+227;Kaja Grabias;26;Polonia;Femmina;765;125;40;10233,19;255,83;6;0.030000;8;15,16;PayPal;0;0;No
+228;Nicolas Moosbrugger;53;Austria;Maschio;1268;49;61;15797,98;258,98;6;0.030000;9;14,57;PayPal;0;0;No
+229;Ewelina Pezda;30;Polonia;Femmina;339;18;12;3592,93;299,41;6;0.040000;1;25,38;Carta di credito;0;0;No
+230;Maurice Frühwirth;43;Austria;Maschio;1248;44;55;11682,08;212,4;6;0.010000;9;17,38;Carta di credito;0;0;No
+231;Claudia Ricciardi;41;Italia;Femmina;139;15;7;1732,96;247,57;6;0.050000;1;13,36;PayPal;0;0;No
+232;Letizia Ginese;29;Italia;Femmina;246;58;9;1006,66;111,85;6;0.000000;1;14,68;PayPal;0;0;No
+233;Rachel Williams;34;Australia;Femmina;809;9;32;8438,31;263,7;6;0.030000;6;22,02;PayPal;0;0;No
+234;Ansaldo Rinaldi;46;Italia;Maschio;556;2;31;12030,44;388,08;6;0.070000;3;15,43;Contrassegno;0;0;No
+235;Marisa Migliaccio;27;Italia;Femmina;582;20;30;6456,37;215,21;6;0.020000;4;20,49;Carta di credito;0;0;No
+236;Niccolò Bellò;35;Italia;Maschio;813;33;37;7510,95;203;6;0.000000;7;17,81;PayPal;0;0;No
+237;Adelasia Ferrari;34;Italia;Femmina;306;107;7;1169,69;167,1;5;0.000000;2;20,7;Contrassegno;0;0;No
+238;Rembrandt Brancaccio;46;Italia;Maschio;447;36;23;4862,9;211,43;6;0.020000;3;17,65;Bonifico bancario;0;0;No
+239;Maria De Meyer;32;Belgio;Femmina;66;7;3;1293,02;431,01;3;0.000000;0;5,18;Bonifico bancario;0;0;No
+240;Élisabeth Morel;32;Francia;Femmina;337;21;14;4771,95;340,85;6;0.000000;2;17,31;PayPal;0;0;No
+241;Umberto Giacometti;32;Italia;Maschio;190;12;6;1979,29;329,88;5;0.000000;2;26,73;Contrassegno;0;0;No
+242;Hubert Ciuruś;41;Polonia;Maschio;622;27;37;9117,13;246,41;6;0.000000;3;16,11;Carta di credito;0;0;No
+243;Giulia Tognazzi;50;Italia;Femmina;16;13;1;22,24;22,24;1;0.000000;0;19,67;Contrassegno;1;0;No
+245;Teresa Valmarana;35;Italia;Femmina;33;33;0;0;0;0;0.000000;0;19,67;N/A;1;1;No
+246;Angel Bishop;44;Canada;Femmina;121;36;4;412,86;103,22;5;0.000000;0;25,51;Carta di credito;0;0;No
+247;陽一 中島;47;Giappone;Maschio;581;23;27;4310,63;159,65;6;0.020000;9;25,04;Bonifico bancario;0;0;No
+248;Henning Wulf;41;Germania;Maschio;387;10;18;4460,42;247,8;6;0.000000;2;21,08;Carta di credito;0;0;No
+249;Ravy Borges;37;Brasile;Maschio;1065;51;50;10658,69;213,17;6;0.010000;9;18,43;Carta di credito;0;0;No
+250;Savannah Smith;29;Stati Uniti;Femmina;178;60;9;2372,81;263,65;5;0.000000;0;7,63;Carta di credito;0;0;No
+251;Fiorenzo Fieramosca;34;Italia;Maschio;516;23;29;3392,02;116,97;6;0.000000;4;16,03;Carta di credito;0;0;No
+252;Tomás Llamas;42;Spagna;Maschio;394;44;11;1520,58;138,23;6;0.000000;2;22,3;Bonifico bancario;0;0;No
+253;Lolita Polesel;33;Italia;Femmina;416;11;19;5052,39;265,92;6;0.000000;4;19,22;PayPal;0;0;No
+254;Lia Neves;25;Portogallo;Femmina;1156;22;49;20504,26;418,45;6;0.000000;10;21,84;Carta di credito;0;0;No
+256;修平 吉田;24;Giappone;Maschio;610;8;22;6098,38;277,2;6;0.000000;3;22,59;PayPal;0;0;No
+257;Niccolò Giunti;47;Italia;Maschio;283;95;5;322,76;64,55;3;0.000000;3;28,5;Contrassegno;0;0;No
+258;Anne Brennan;49;Regno Unito;Femmina;856;12;51;11545,48;226,38;6;0.040000;5;14,91;PayPal;0;0;No
+259;Pierpaolo Baglioni;39;Italia;Maschio;480;15;41;15831,92;386,14;6;0.040000;11;9,7;PayPal;0;0;No
+260;Livia Rosmini;49;Italia;Femmina;1229;35;50;10626,04;212,52;6;0.020000;7;20,48;Bonifico bancario;0;0;No
+261;篤司 渡辺;52;Giappone;Maschio;95;30;3;527,23;175,74;3;0.000000;0;9,9;Carta di credito;0;0;No
+262;Jennifer Lewis;22;Australia;Femmina;948;83;51;14423,45;282,81;6;0.030000;10;14,1;Bonifico bancario;0;0;No
+263;Natascha Schmid;43;Austria;Femmina;1109;0;74;19955,66;269,67;6;0.030000;5;11,99;PayPal;0;0;No
+264;Filippa Santoro;67;Italia;Femmina;307;6;15;2326,4;155,09;6;0.050000;3;21,74;PayPal;0;0;No
+265;Graziano Polani;56;Italia;Maschio;375;13;14;843,29;60,24;5;0.000000;3;33,46;Contrassegno;0;0;No
+266;Ninetta Pausini;55;Italia;Femmina;537;3;28;5004,35;178,73;6;0.000000;2;19,71;Carta di credito;0;0;No
+267;Wolfhard Wohlgemut;47;Germania;Maschio;180;7;6;1116,5;186,08;4;0.000000;0;26,01;Carta di credito;0;0;No
+268;Gianpaolo Doria;36;Italia;Maschio;1135;2;51;12447,38;244,07;6;0.010000;10;16,82;Bonifico bancario;0;0;No
+269;Emma Humer;64;Austria;Femmina;1060;108;49;12803,67;261,3;6;0.040000;7;17,01;PayPal;0;0;No
+272;Alessandra Morricone;28;Italia;Femmina;262;38;10;2134,03;213,4;6;0.000000;2;20,1;PayPal;0;0;No
+273;Perla Pou;32;Spagna;Femmina;955;0;58;14098,71;243,08;6;0.000000;10;14,36;Carta di credito;0;0;No
+274;Ricciotti Babato;42;Italia;Maschio;887;14;42;13785,66;328,23;6;0.020000;7;16,96;PayPal;0;0;Si
+276;Caterina Marenzio;46;Italia;Femmina;861;88;39;6180,18;158,47;6;0.060000;7;15,34;Bonifico bancario;0;0;No
+277;Marion Porter;41;Regno Unito;Femmina;24;7;1;11,12;11,12;1;0.000000;0;19,67;PayPal;1;0;No
+278;Germana Pedroni;43;Italia;Femmina;128;78;2;93,39;46,7;2;0.000000;1;31,82;Carta di credito;0;0;No
+279;Liv Van Henegouwen;35;Paesi Bassi;Femmina;866;8;45;5014,02;111,42;6;0.040000;5;15,57;PayPal;0;0;No
+280;Simonetta Michelangeli;47;Italia;Femmina;865;144;43;10360,67;240,95;6;0.010000;5;13,91;PayPal;0;0;No
+281;Isabella Reising;27;Germania;Femmina;143;21;4;132,24;33,06;3;0.000000;0;23,3;Carta di credito;0;0;No
+282;Umberto Pozzecco;28;Italia;Maschio;765;85;29;3856,33;132,98;6;0.000000;2;28,04;PayPal;0;0;Si
+284;Matthew Conner;48;Stati Uniti;Maschio;416;5;16;3500,91;218,81;6;0.000000;4;27,04;Bonifico bancario;0;0;No
+285;Klara Hölzenbecher;28;Germania;Femmina;330;16;12;762,5;63,54;5;0.040000;2;20,5;Bonifico bancario;0;0;No
+286;Maria Gaiatto;34;Italia;Femmina;135;18;5;735,01;147;5;0.000000;3;20,57;Contrassegno;0;0;No
+287;Yolanda Marien;22;Belgio;Femmina;443;24;18;3764,68;209,15;6;0.030000;4;18,84;Carta di credito;0;0;No
+288;Erika Marsili;32;Italia;Femmina;577;42;21;6511,71;310,08;6;0.050000;6;18,36;Contrassegno;0;0;No
+289;Wenke Kaul;30;Germania;Femmina;649;41;24;2939,31;122,47;6;0.000000;2;21,98;Carta di credito;0;0;No
+290;Eliana Cardano;59;Italia;Femmina;515;0;24;3063,61;127,65;6;0.040000;5;20,91;Carta di credito;0;0;No
+291;Liam Da Rosa;49;Brasile;Maschio;562;55;18;6388,35;354,91;6;0.000000;7;29,01;Bonifico bancario;0;0;No
+293;Lars Riegler;42;Austria;Maschio;318;10;7;2471,11;353,02;4;0.000000;1;45,14;Bonifico bancario;0;0;No
+294;Raffaello Rensi;41;Italia;Maschio;156;14;6;1588,02;264,67;5;0.080000;0;18,06;Bonifico bancario;0;0;No
+296;Eleanora Tomasetti;39;Italia;Femmina;395;28;14;2473,5;176,68;6;0.000000;4;26,1;Carta di credito;0;0;No
+297;Ellie Bollen;44;Belgio;Femmina;14;4;1;28,38;28,38;1;0.000000;0;19,67;Carta di credito;1;0;No
+298;Ferdinando Chinnici;26;Italia;Maschio;819;12;40;11297,73;282,44;6;0.020000;3;16,47;Bonifico bancario;0;0;No
+299;Fabrizio Michelangeli;30;Italia;Maschio;654;2;24;4080,63;170,03;6;0.000000;3;22,77;PayPal;0;0;No
+300;Lucrezia Tasso;27;Italia;Femmina;514;5;26;4169,73;160,37;6;0.000000;5;16,81;PayPal;0;0;No
+301;Monique Faure;57;Francia;Femmina;801;38;35;11528,14;329,38;6;0.000000;10;16,22;Bonifico bancario;0;0;No
+302;Alessia Marangoni;53;Italia;Femmina;657;6;35;7084,2;202,41;6;0.030000;5;17,77;Carta di credito;0;0;No
+303;Danilo Cesarotti;24;Italia;Maschio;538;8;29;8212,43;283,19;6;0.020000;2;14,01;Carta di credito;0;0;No
+304;Elias Steinmeiern;48;Paesi Bassi;Maschio;365;53;14;2910,59;207,9;6;0.060000;3;17,4;Bonifico bancario;0;0;No
+305;Willy Buysse;45;Belgio;Maschio;1198;5;40;8605,76;215,14;6;0.010000;4;25,71;PayPal;0;0;No
+306;Caterina Gabbana;43;Italia;Femmina;370;17;11;2344,68;213,15;6;0.000000;2;26,66;Contrassegno;0;0;No
+307;Ángel Uriarte;41;Spagna;Maschio;577;21;35;9729,76;277,99;6;0.010000;5;12,13;PayPal;0;0;No
+308;Aniela Fronczek;44;Polonia;Femmina;212;54;9;2608,6;289,84;6;0.000000;2;19,66;Bonifico bancario;0;0;No
+309;Dionigi Ughi;23;Italia;Maschio;586;162;26;5610,68;215,8;6;0.000000;2;14,16;PayPal;0;0;No
+310;James Peterson;40;Stati Uniti;Maschio;1345;28;109;31029,41;284,67;6;0.010000;15;8,72;PayPal;0;0;No
+311;Valeria Serraglio;46;Italia;Femmina;1125;25;52;12395,35;238,37;6;0.010000;7;21,02;PayPal;0;0;No
+312;Hannah Snyder;29;Canada;Femmina;153;19;8;2661,28;332,66;5;0.070000;1;12,53;Bonifico bancario;0;0;No
+313;Maurizio Agnesi;26;Italia;Maschio;121;2;1;10,71;10,71;1;0.000000;0;19,67;PayPal;1;0;No
+314;Javier Carpenter;47;Canada;Maschio;707;21;26;6631,28;255,05;6;0.050000;5;22,73;Carta di credito;0;0;No
+315;Federica Botticelli;30;Italia;Femmina;1052;45;58;17523,7;302,13;6;0.020000;10;14,79;Carta di credito;0;0;No
+316;Valentina Totino;33;Italia;Femmina;269;3;13;2109,78;162,29;6;0.040000;1;21,4;Carta di credito;0;0;No
+317;Rosario Travia;36;Italia;Maschio;332;6;32;8189,19;255,91;6;0.020000;6;8;PayPal;0;0;No
+318;Valerio Telesio;30;Italia;Maschio;763;21;37;7360,2;198,92;6;0.010000;7;14,99;Bonifico bancario;0;0;No
+319;Rosario Parmitano;43;Italia;Maschio;136;44;4;1051,66;262,91;4;0.000000;0;17,51;Carta di credito;0;0;No
+320;Germana Abba;41;Italia;Femmina;179;0;9;1371,32;152,37;5;0.000000;2;14,47;PayPal;0;0;No
+321;Alessandra Ferretti;29;Italia;Femmina;991;25;49;14422,74;294,34;6;0.010000;9;16,9;Bonifico bancario;0;0;No
+322;José Sá;52;Portogallo;Maschio;573;16;21;3409,24;162,34;6;0.000000;4;24,53;PayPal;0;0;No
+323;Joannes De Sutter;40;Belgio;Maschio;207;1;3;88,53;29,51;3;0.000000;1;15,91;Bonifico bancario;0;0;No
+325;Ilaria Casini;24;Italia;Femmina;126;10;5;1168,47;233,69;4;0.000000;2;24,53;PayPal;0;0;No
+326;Chiara Morabito;45;Italia;Femmina;594;32;23;3025,14;131,53;6;0.000000;5;23,02;PayPal;0;0;No
+327;Maurice Gaillard;33;Francia;Maschio;451;77;14;5268,78;376,34;6;0.040000;3;28,37;Bonifico bancario;0;0;No
+328;Delfino Traetta;24;Italia;Maschio;705;26;30;9182,34;306,08;6;0.040000;4;21,61;Carta di credito;0;0;No
+329;Gabrielle Lebrun;35;Francia;Femmina;11;11;0;0;0;0;0.000000;0;19,67;N/A;1;1;No
+330;Nora Riener;35;Austria;Femmina;653;0;35;3655,68;104,45;6;0.030000;5;16,71;PayPal;0;0;No
+331;Oskar Cieciura;19;Polonia;Maschio;218;18;9;1388,78;154,31;5;0.000000;0;13,59;Carta di credito;0;0;No
+332;Antonius Bartl;56;Austria;Maschio;32;20;1;25,13;25,13;1;0.000000;0;19,67;Carta di credito;1;0;No
+333;Willy Verlinden;53;Belgio;Maschio;219;1;6;904,92;150,82;4;0.000000;1;36,66;PayPal;0;0;No
+334;Maria Thys;34;Belgio;Femmina;545;1;60;10128,24;168,8;6;0.030000;3;8,36;Bonifico bancario;0;0;No
+335;Ricciotti Fattori;68;Italia;Maschio;740;28;40;11072,75;276,82;6;0.040000;11;17,02;Carta di credito;0;0;No
+336;Fabia Anastasi;31;Italia;Femmina;281;12;12;2731,16;227,6;5;0.090000;3;20,18;Bonifico bancario;0;0;No
+337;Laura Deledda;28;Italia;Femmina;930;31;48;11668,28;243,09;6;0.010000;9;20,28;PayPal;0;0;No
+338;Marina Lercari;46;Italia;Femmina;342;8;10;909,71;90,97;5;0.050000;2;25,63;Carta di credito;0;0;No
+339;Loredana Morgagni;43;Italia;Femmina;11;11;0;0;0;0;0.000000;0;19,67;N/A;1;1;No
+340;Yan Rodrigues;22;Brasile;Maschio;498;29;15;5877,22;391,81;6;0.000000;4;31,27;Bonifico bancario;0;0;No
+341;Gabriella Gullotta;49;Italia;Femmina;197;3;7;5655,27;807,9;5;0.000000;2;32,33;Contrassegno;0;0;No
+342;Alexandra Sá;35;Portogallo;Femmina;1266;1;61;17920,29;293,78;6;0.030000;10;16,61;Bonifico bancario;0;0;No
+343;Willem Vermeiren;41;Belgio;Maschio;392;26;11;2848,78;258,98;5;0.040000;2;29,38;PayPal;0;0;No
+344;Patrizio Sforza;34;Italia;Maschio;932;16;48;11476,2;239,09;6;0.000000;8;17,57;PayPal;0;0;No
+345;Ronaldo Camuccini;24;Italia;Maschio;688;28;61;17022,08;279,05;6;0.050000;11;11,12;Contrassegno;0;0;No
+346;Jelle Janssen;24;Paesi Bassi;Maschio;537;39;16;2594,55;162,16;6;0.080000;2;18,27;Bonifico bancario;0;0;No
+347;Luigi Zamengo;42;Italia;Maschio;540;4;24;4829,45;201,23;6;0.020000;2;14,52;Contrassegno;0;0;No
+348;Anita Tognazzi;35;Italia;Femmina;329;4;12;1340,14;111,68;6;0.150000;3;36,64;Carta di credito;0;0;No
+349;Karina Tomaszuk;40;Polonia;Femmina;301;0;12;6116,04;509,67;6;0.000000;1;18,96;Bonifico bancario;0;0;No
+350;Ezio Tedesco;51;Italia;Maschio;751;18;33;8680,48;263,04;6;0.050000;5;24,01;Bonifico bancario;0;0;No
+351;Giulia Natta;28;Italia;Femmina;245;39;16;3209,47;200,59;6;0.000000;4;13,42;Bonifico bancario;0;0;No
+352;Dina Tornatore;31;Italia;Femmina;254;5;13;3228,13;248,32;6;0.030000;0;12,45;PayPal;0;0;No
+353;Rita Benson;59;Australia;Femmina;128;1;2;433,17;216,59;2;0.000000;1;15,59;Bonifico bancario;0;0;No
+354;Alessandra Armani;55;Italia;Femmina;568;54;23;2832,32;123,14;6;0.030000;1;21,44;Contrassegno;0;0;No
+355;Lolita Marini;34;Italia;Femmina;93;18;1;88,39;88,39;2;0.000000;0;0;Bonifico bancario;0;0;No
+356;Pierina Iannotti;48;Italia;Femmina;967;5;43;9122,95;212,16;6;0.030000;11;24,29;Contrassegno;0;0;No
+357;Marcel Gangl;47;Austria;Maschio;619;23;17;3725,24;219,13;6;0.000000;8;26,63;Bonifico bancario;0;0;No
+358;Giovanni Magrassi;31;Italia;Maschio;290;38;11;3001,21;272,84;5;0.000000;4;31,67;Carta di credito;0;0;No
+359;Michaël De Ridder;20;Belgio;Maschio;248;3;10;2137,55;213,75;6;0.000000;2;16,83;Bonifico bancario;0;0;No
+360;Annibale Mascheroni;28;Italia;Maschio;565;17;24;7335,21;305,63;6;0.000000;1;19,94;PayPal;0;0;No
+361;Guy Janssens;69;Belgio;Maschio;420;44;11;3985,17;362,29;5;0.000000;3;21,4;Carta di credito;0;0;No
+362;Lucia Salvo;45;Italia;Femmina;432;38;15;4451,75;296,78;6;0.040000;2;24,24;Bonifico bancario;0;0;No
+363;Kristien Liekens;51;Belgio;Femmina;731;118;27;6475,38;239,83;6;0.020000;2;19,61;PayPal;0;0;No
+364;Emilio Offredi;61;Italia;Maschio;733;24;35;6484,19;185,26;6;0.020000;5;17,41;Carta di credito;0;0;No
+365;Thomas Legendre;75;Francia;Maschio;455;13;12;4192,4;349,37;6;0.000000;3;27,68;Bonifico bancario;0;0;No
+366;Kai Hemetsberger;54;Austria;Maschio;381;1;9;5117,94;568,66;4;0.000000;1;29,73;Carta di credito;0;0;No
+367;Naomi Ziegler;34;Austria;Femmina;164;32;4;283,51;70,88;4;0.000000;0;31,78;PayPal;0;0;No
+368;Isabela Agullo;34;Spagna;Femmina;362;21;17;3037,15;178,66;5;0.030000;1;19,92;Bonifico bancario;0;0;No
+369;Bruno Cibin;45;Italia;Maschio;12;7;1;11,12;11,12;1;0.000000;0;19,67;Carta di credito;1;0;No
+370;Gian Sobrero;28;Italia;Maschio;15;15;0;0;0;0;0.000000;0;19,67;N/A;1;1;No
+372;Victoriano Torrijos;49;Spagna;Maschio;501;114;19;2234,7;117,62;6;0.150000;4;20,35;Carta di credito;0;0;No
+373;Mia De Mey;27;Belgio;Femmina;306;12;27;4052,09;150,08;6;0.020000;4;7,77;Carta di credito;0;0;No
+374;Amadeo Chigi;46;Italia;Maschio;288;23;7;723,57;103,37;5;0.000000;1;38,68;Contrassegno;0;0;No
+375;Morgan Miller;19;Australia;Femmina;134;9;3;343,59;114,53;3;0.000000;0;28,56;PayPal;0;0;No
+376;Toni Flaiano;39;Italia;Maschio;645;66;28;5569,89;198,92;6;0.020000;1;17;Bonifico bancario;0;0;No
+377;Ramona Pezzali;39;Italia;Femmina;106;49;1;12,62;12,62;1;0.000000;1;19,67;PayPal;1;0;No
+378;Gian Babati;61;Italia;Maschio;1021;87;51;15795,31;309,71;6;0.050000;7;15,27;PayPal;0;0;No
+380;Kyle Allen;43;Stati Uniti;Maschio;520;38;26;7964,88;306,34;6;0.090000;2;22,08;Bonifico bancario;0;0;No
+382;Martino Falier;44;Italia;Maschio;78;4;6;957,05;159,51;4;0.000000;0;6,92;Carta di credito;0;0;No
+383;Vanessa Sagnelli;41;Italia;Femmina;614;12;24;5785,51;241,06;6;0.020000;6;17,83;Carta di credito;0;0;No
+384;Monica Briccialdi;30;Italia;Femmina;461;22;23;6069,34;263,88;5;0.120000;2;18,45;Carta di credito;0;0;No
+385;Anabel Roda;31;Spagna;Femmina;519;19;15;2543,12;169,54;6;0.040000;4;26,42;Bonifico bancario;0;0;No
+386;Christina Moran;55;Stati Uniti;Femmina;166;6;2;1199,79;599,9;3;0.000000;1;16,26;Bonifico bancario;0;0;No
+387;Melissa Fornaciari;20;Italia;Femmina;699;12;27;7020,68;260,03;6;0.020000;4;23,13;Contrassegno;0;0;Si
+388;Francisca Pereira;54;Portogallo;Femmina;348;43;16;3335,92;208,5;6;0.080000;2;22,12;PayPal;0;0;No
+389;Nedda Fantoni;40;Italia;Femmina;504;3;16;2851,9;178,24;6;0.000000;2;27,12;Bonifico bancario;0;0;No
+390;Fernanda Tomaselli;31;Italia;Femmina;55;23;1;391,42;391,42;2;0.000000;1;19,67;Bonifico bancario;1;0;No
+391;Nicoletta Trapani;59;Italia;Femmina;626;1;29;6120,91;211,07;6;0.020000;5;15,61;PayPal;0;0;No
+392;Kate Van Ooste;45;Paesi Bassi;Femmina;270;76;7;1618,27;231,18;4;0.000000;1;31,45;Carta di credito;0;0;No
+393;Vitória Peixoto;41;Brasile;Femmina;599;22;24;6125,02;255,21;6;0.000000;2;21,2;PayPal;0;0;No
+394;Vittoria Rinaldi;45;Italia;Femmina;238;32;9;1573,74;174,86;6;0.000000;3;15,5;Contrassegno;0;0;No
+395;Emanuel Correia;48;Portogallo;Maschio;158;45;4;2696,27;674,07;4;0.000000;0;27,63;PayPal;0;0;No
+396;Lilla Malacarne;31;Italia;Femmina;798;22;38;10156,03;267,26;6;0.030000;11;19,7;PayPal;0;0;No
+397;Lidia Treves;21;Italia;Femmina;186;69;2;54,25;27,13;2;0.000000;2;19,67;Contrassegno;1;0;No
+398;Maura Montalcini;39;Italia;Femmina;111;14;3;641,74;213,91;3;0.000000;1;12,11;Contrassegno;0;0;No
+399;Antoine Martel;18;Francia;Maschio;143;36;5;410,34;82,07;3;0.000000;1;19,86;Carta di credito;0;0;No
+400;Kelly De Keyser;39;Belgio;Femmina;52;30;3;171,28;57,09;4;0.000000;0;5,2;PayPal;0;0;No
+402;Adriano Giacconi;41;Italia;Maschio;632;53;26;5110,17;196,55;6;0.020000;1;19,22;Contrassegno;0;0;No
+403;Zacarías Orozco;30;Spagna;Maschio;883;34;44;11342,3;257,78;6;0.020000;9;16,86;PayPal;0;0;No
+404;Sian Edwards;37;Regno Unito;Femmina;939;10;48;12098,8;252,06;6;0.010000;10;14,81;Bonifico bancario;0;0;No
+405;Rossana Pacelli;42;Italia;Femmina;414;56;17;2003;117,82;6;0.120000;3;17,07;PayPal;0;0;No
+406;Marco Amato;32;Italia;Maschio;816;3;43;9096,19;211,54;6;0.020000;6;15,49;PayPal;0;0;No
+407;Gabriel Wlaźlak;31;Polonia;Maschio;521;48;14;1438,72;102,77;6;0.040000;3;32,25;PayPal;0;0;No
+408;Eugène Noël;32;Francia;Maschio;477;21;20;4143,84;207,19;6;0.120000;1;21,35;Bonifico bancario;0;0;No
+409;Tammy Evans;32;Stati Uniti;Femmina;293;3;10;2524,17;252,42;5;0.000000;1;34,11;Bonifico bancario;0;0;No
+410;Olga Gonzaga;32;Italia;Femmina;652;1;29;5213,23;179,77;6;0.020000;9;27,98;PayPal;0;0;No
+411;Erika Bresciani;32;Italia;Femmina;956;29;42;12022,89;286,26;6;0.010000;6;16,65;PayPal;0;0;No
+412;Ettore Morandi;38;Italia;Maschio;335;33;19;7460,6;392,66;6;0.000000;1;11,52;Bonifico bancario;0;0;No
+414;Nicolas Weiss;36;Francia;Maschio;265;54;7;1223,8;174,83;5;0.000000;1;31,11;Carta di credito;0;0;No
+415;Ivo Baptista;42;Portogallo;Maschio;132;16;3;872,47;290,82;4;0.000000;1;27,77;PayPal;0;0;No
+416;Giancarlo Zoppetti;19;Italia;Maschio;212;58;5;2462,67;492,53;5;0.140000;0;21,78;Bonifico bancario;0;0;No
+417;Gudrun Heintze;20;Germania;Femmina;211;3;4;1245,78;311,44;4;0.000000;1;24,65;PayPal;0;0;No
+418;Lauretta Franzese;34;Italia;Femmina;408;13;16;1878,29;117,39;6;0.000000;3;20,33;Contrassegno;0;0;No
+419;Rosina Riccardi;30;Italia;Femmina;918;7;48;7778,81;162,06;6;0.070000;11;19,81;Contrassegno;0;0;No
+420;Borys Sularz;52;Polonia;Maschio;33;33;0;0;0;0;0.000000;0;19,67;N/A;1;1;No
+421;Sylvia Cerutti;39;Italia;Femmina;596;20;20;4808,45;240,42;6;0.000000;1;32,39;PayPal;0;0;No
+422;Gertraude Patberg;43;Germania;Femmina;92;44;2;518,91;259,46;2;0.000000;0;20,51;Carta di credito;0;0;No
+423;Patricia Frost;37;Australia;Femmina;108;0;3;191,64;63,88;3;0.200000;0;33,51;Bonifico bancario;0;0;No
+424;Pompeo Fischetti;49;Italia;Maschio;182;9;10;3966,44;396,64;4;0.000000;1;16,18;PayPal;0;0;No
+425;Lodewijk Everaert;18;Belgio;Maschio;19;19;0;0;0;0;0.000000;0;19,67;N/A;1;1;No
+426;Livio Fischetti;32;Italia;Maschio;104;36;3;3365,19;1121,73;4;0.110000;0;22,47;Bonifico bancario;0;0;No
+427;Cassandra Visconti;33;Italia;Femmina;1045;29;71;22836,66;321,64;6;0.030000;10;15,29;PayPal;0;0;No
+428;Ciro Villarosa;32;Italia;Maschio;523;19;22;3335,84;151,63;6;0.000000;3;18,21;PayPal;0;0;No
+429;Allegra Grassi;36;Italia;Femmina;715;36;32;9265,54;289,55;6;0.040000;4;20,14;Bonifico bancario;0;0;No
+430;Gianni Goldstein;36;Italia;Maschio;146;7;6;457,49;76,25;4;0.000000;0;11,88;PayPal;0;0;No
+431;Bert Claeys;25;Belgio;Maschio;33;9;1;25,13;25,13;1;0.000000;0;19,67;PayPal;1;0;No
+432;Manuel Bernardini;31;Italia;Maschio;1035;20;65;17428,54;268,13;6;0.020000;6;13,39;PayPal;0;0;No
+433;Lukas Böhm;40;Austria;Maschio;544;19;24;7101,07;295,88;6;0.020000;2;17,5;PayPal;0;0;No
+434;Lorenzo Faggiani;37;Italia;Maschio;896;68;28;7237,95;258,5;6;0.040000;8;29,64;Bonifico bancario;0;0;No
+436;千代 林;69;Giappone;Femmina;961;10;42;10838,13;258,05;6;0.000000;9;19,42;Carta di credito;0;0;No
+437;Halina Schweitzer;54;Germania;Femmina;893;26;44;10994,72;249,88;6;0.000000;9;18,55;Carta di credito;0;0;No
+438;Pina Esposito;34;Italia;Femmina;581;95;14;4675,83;333,99;5;0.040000;2;29,33;Contrassegno;0;0;No
+439;Isabela Antunes;33;Portogallo;Femmina;1090;0;57;12745,71;223,61;6;0.040000;9;17,51;PayPal;0;0;No
+440;Ewelina Klos;41;Polonia;Femmina;374;26;19;4027,93;212;6;0.050000;5;14,75;PayPal;0;0;No
+441;Anthony Hernandez;62;Stati Uniti;Maschio;953;10;53;18840,09;355,47;6;0.060000;2;14,93;Carta di credito;0;0;No
+442;Margaux Ferreira;39;Francia;Femmina;326;17;16;2694,59;168,41;6;0.000000;2;16,46;PayPal;0;0;No
+443;Osvaldo Donarelli;18;Italia;Maschio;87;49;2;89,49;44,74;1;0.000000;0;19,67;Contrassegno;1;0;No
+444;Emilio Mocenigo;22;Italia;Maschio;53;34;1;15,15;15,15;1;0.000000;1;19,67;Bonifico bancario;1;0;No
+446;Sandy Gehringer;50;Germania;Femmina;936;9;41;13784,64;336,21;6;0.000000;2;18,44;Carta di credito;0;0;No
+447;Elena Schönberger;59;Austria;Femmina;815;21;49;9774,02;199,47;6;0.010000;2;14,8;Carta di credito;0;0;No
+448;Marcial Vaquero;35;Spagna;Maschio;384;7;18;3371,66;187,31;6;0.000000;2;14,17;PayPal;0;0;No
+449;Yolanda Maza;56;Spagna;Femmina;581;68;24;5063,55;210,98;6;0.020000;2;16,97;Carta di credito;0;0;No
+450;Loredana Curatoli;55;Italia;Femmina;748;75;29;5540,25;191,04;6;0.000000;4;26,01;Contrassegno;0;0;Si
+451;Gloria Dalla;42;Italia;Femmina;1150;27;118;26898,65;227,95;6;0.050000;18;7,95;PayPal;0;0;No
+452;Débora Pinheiro;35;Portogallo;Femmina;263;56;6;331,37;55,23;5;0.000000;0;27,35;Bonifico bancario;0;0;No
+453;Nina Cornelis;52;Belgio;Femmina;845;48;36;2722,12;75,61;6;0.020000;7;27,56;Carta di credito;0;0;No
+454;Donna Cruz;57;Australia;Femmina;228;61;11;2020,6;183,69;5;0.000000;2;15,25;Carta di credito;0;0;No
+455;Gerrit Sarneel;47;Paesi Bassi;Maschio;19;19;0;0;0;0;0.000000;0;19,67;N/A;1;1;No
+456;Pina Argan;51;Italia;Femmina;1078;28;93;19596,61;210,72;6;0.030000;13;8,65;Carta di credito;0;0;No
+457;Jessica Thomas;27;Australia;Femmina;467;4;24;7270,36;302,93;6;0.040000;0;14,15;Bonifico bancario;0;0;No
+458;Rosario Natta;31;Italia;Maschio;761;16;39;14728,37;377,65;6;0.010000;7;17,55;Bonifico bancario;0;0;No
+459;Alberico Bodoni;26;Italia;Maschio;493;57;24;4887;203,62;6;0.040000;4;16,81;PayPal;0;0;No
+460;Adelmo Pedrazzini;28;Italia;Maschio;93;58;2;92,59;46,3;2;0.000000;0;11,31;PayPal;0;0;No
+461;Rosina Fibonacci;52;Italia;Femmina;851;26;57;18628,52;326,82;6;0.020000;3;12,57;Contrassegno;0;0;No
+462;Graziella Padovano;40;Italia;Femmina;166;31;11;3076,55;279,69;6;0.000000;3;9,03;Contrassegno;0;0;No
+463;Roland Caron;57;Francia;Maschio;1012;3;65;17070,73;262,63;6;0.020000;11;12,43;Bonifico bancario;0;0;No
+464;Milena Carpaccio;36;Italia;Femmina;142;39;3;199,34;66,45;3;0.000000;0;33,59;Carta di credito;0;0;No
+465;Lucio Fantozzi;38;Italia;Maschio;533;89;23;5203,17;226,22;5;0.000000;5;15,64;Contrassegno;0;0;No
+466;Thierry Thierry;35;Francia;Maschio;249;30;7;245,43;35,06;4;0.000000;3;29,9;Carta di credito;0;0;Si
+467;Isabel Torres;29;Portogallo;Femmina;1122;24;53;13372,4;252,31;6;0.000000;7;18,25;Carta di credito;0;0;No
+468;Girolamo Turchetta;22;Italia;Maschio;169;25;9;3630,98;403,44;6;0.000000;0;9,01;Contrassegno;0;0;No
+469;Alessandra Pedroni;28;Italia;Femmina;439;8;19;8800,61;463,19;6;0.060000;2;19,97;Contrassegno;0;0;No
+470;Thomas Laureys;42;Belgio;Maschio;411;5;17;4735,53;278,56;6;0.110000;5;19,91;Bonifico bancario;0;0;No
+471;Isabella Cugia;47;Italia;Femmina;1287;23;55;19562,16;355,68;6;0.040000;10;15,11;Contrassegno;0;0;No
+472;Márcio Pinheiro;45;Portogallo;Maschio;587;32;22;4800,65;218,21;6;0.000000;4;24,92;Bonifico bancario;0;0;No
+473;Bianka Kuświk;26;Polonia;Femmina;321;13;12;675,83;56,32;4;0.000000;0;32,71;Bonifico bancario;0;0;No
+474;Robert Morrow;35;Stati Uniti;Maschio;527;51;26;6171,32;237,36;6;0.000000;4;15,84;Bonifico bancario;0;0;No
+475;Róża Piórek;18;Polonia;Femmina;73;34;4;747,98;187;4;0.000000;1;7,35;Bonifico bancario;0;0;No
+476;Fenna Ridder;30;Paesi Bassi;Femmina;934;20;44;11460,72;260,47;6;0.010000;6;19,77;Carta di credito;0;0;No
+477;Luka Drysdale;40;Paesi Bassi;Maschio;748;20;44;11856,15;269,46;6;0.040000;6;13,6;PayPal;0;0;No
+478;Benito Argentero;28;Italia;Maschio;258;16;10;4166,02;416,6;5;0.000000;1;15,52;PayPal;0;0;No
+479;Miguel Batista;46;Portogallo;Maschio;1119;67;58;13034,3;224,73;6;0.000000;8;13,27;Bonifico bancario;0;0;No
+480;Daria Petralli;43;Italia;Femmina;438;3;17;4613,65;271,39;6;0.030000;6;24,42;Carta di credito;0;0;No
+481;Nicole Johnson;36;Canada;Femmina;513;3;22;7581,85;344,63;6;0.020000;0;19,84;PayPal;0;0;No
+482;Amico Ferragamo;51;Italia;Maschio;410;11;20;5444,27;272,21;5;0.000000;1;14,32;Contrassegno;0;0;No
+483;Stephanie Van Hecke;29;Belgio;Femmina;340;18;13;3028,13;232,93;6;0.000000;2;21,33;Carta di credito;0;0;No
+484;Cipriano Canil;24;Italia;Maschio;107;107;0;0;0;0;0.000000;2;19,67;N/A;1;1;No
+485;Serafina Curatoli;29;Italia;Femmina;932;0;44;7658,23;174,05;6;0.010000;6;19,09;Bonifico bancario;0;0;No
+486;Isabel Anjos;32;Portogallo;Femmina;513;37;16;5818,67;363,67;6;0.000000;0;23,79;Carta di credito;0;0;No
+487;Benito Lollobrigida;32;Italia;Maschio;775;16;37;8324,33;224,98;6;0.020000;8;20,01;PayPal;0;0;No
+488;Ettore Dossi;35;Italia;Maschio;636;67;30;8896,98;296,57;6;0.020000;8;16,04;Contrassegno;0;0;No
+489;Serena Accardo;27;Italia;Femmina;290;32;8;2969,4;371,18;5;0.000000;1;21,53;Bonifico bancario;0;0;No
+490;Pompeo Musatti;47;Italia;Maschio;522;29;17;3920,61;230,62;5;0.000000;4;36,37;Contrassegno;0;0;No
+491;翔太 山本;50;Giappone;Maschio;997;38;51;8615,48;168,93;6;0.000000;6;16,16;Bonifico bancario;0;0;No
+493;Aldo Palazzo;22;Italia;Maschio;251;8;9;3661,2;406,8;6;0.000000;1;15,62;PayPal;0;0;No
+494;Aaron Baldwin;27;Stati Uniti;Maschio;710;45;29;6810,35;234,84;6;0.040000;7;21,86;Carta di credito;0;0;No
+495;Mafalda Marques;35;Portogallo;Femmina;58;3;1;167,98;167,98;2;0.000000;0;19,67;Bonifico bancario;1;0;No
+496;Henri Menard;38;Francia;Maschio;392;4;10;2274,88;227,49;5;0.000000;0;33,17;Bonifico bancario;0;0;No
+497;Inaya Simons;43;Paesi Bassi;Femmina;135;14;5;198,58;39,72;4;0.000000;1;17,54;PayPal;0;0;No
+498;Giancarlo Cocci;55;Italia;Maschio;284;8;8;587,71;73,46;4;0.000000;2;20,29;Carta di credito;0;0;No
+499;Tanner Rivas;44;Australia;Maschio;1118;95;57;13855,82;243,08;6;0.020000;10;16,37;Bonifico bancario;0;0;No
+500;Traci Sanchez;26;Canada;Femmina;105;48;3;87,02;29,01;2;0.000000;1;2,5;Bonifico bancario;0;0;No
+501;Victoria Iacovelli;22;Italia;Femmina;965;43;50;10920,84;218,42;6;0.050000;9;17,03;PayPal;0;0;No
+502;Margherita Scaramucci;54;Italia;Femmina;110;1;3;1380,65;460,22;3;0.000000;0;35,98;PayPal;0;0;No
+503;Benvenuto Niggli;39;Italia;Maschio;669;46;25;3925,12;157;6;0.020000;0;23,64;Contrassegno;0;0;No
+504;Steven Mühlbacher;38;Austria;Maschio;190;52;3;1222,44;407,48;4;0.000000;3;19,38;Bonifico bancario;0;0;No
+505;Johann Dorn;45;Austria;Maschio;310;44;5;846,6;169,32;5;0.000000;2;45,74;PayPal;0;0;No
+506;Ippazio Bossi;62;Italia;Maschio;323;21;9;3677,71;408,63;5;0.000000;2;27,69;Bonifico bancario;0;0;No
+507;Eraldo Paltrinieri;27;Italia;Maschio;213;5;11;2515,36;228,67;6;0.050000;2;15,65;PayPal;0;0;No
+508;Goffredo Visconti;34;Italia;Maschio;390;8;16;3871,54;241,97;6;0.000000;1;21;Contrassegno;0;0;No
+509;Marco Orengo;44;Italia;Maschio;762;28;31;15322,06;494,26;6;0.010000;2;17,94;Contrassegno;0;0;No
+510;Annalisa Callegari;37;Italia;Femmina;172;60;4;2339,6;584,9;1;0.000000;1;23,84;Carta di credito;0;0;No
+511;Morena Piccio;24;Italia;Femmina;49;28;2;187,19;93,59;1;0.000000;1;19,67;Carta di credito;1;0;No
+512;Costanzo Gotti;20;Italia;Maschio;220;1;9;927,06;103,01;6;0.000000;0;19,26;Carta di credito;0;0;No
+513;Pomponio Ravaglioli;52;Italia;Maschio;740;31;27;3778,95;139,96;6;0.020000;5;25,23;Bonifico bancario;0;0;No
+514;Virginia Sibilia;29;Italia;Femmina;975;12;59;13735,65;232,81;6;0.030000;6;17,32;Contrassegno;0;0;No
+515;Pietro Soranzo;29;Italia;Maschio;598;17;24;3719,69;154,99;6;0.020000;4;20,36;PayPal;0;0;No
+516;Azeglio Persico;51;Italia;Maschio;424;10;22;4872,98;221,5;6;0.020000;5;15,25;Bonifico bancario;0;0;No
+517;Andre Knox;58;Stati Uniti;Maschio;775;5;40;9040,2;226;6;0.060000;1;14,89;Bonifico bancario;0;0;No
+518;Lauretta Necci;18;Italia;Femmina;15;15;0;0;0;0;0.000000;0;19,67;N/A;1;1;No
+519;Fredo Tosi;38;Italia;Maschio;297;7;12;1565,33;130,44;5;0.040000;1;18,97;Contrassegno;0;0;No
+520;Lex Massa;42;Paesi Bassi;Maschio;525;9;16;5290,97;330,69;6;0.000000;2;28,29;PayPal;0;0;No
+521;Hazel Fraser;59;Regno Unito;Femmina;508;169;27;9851,12;364,86;6;0.000000;3;11,07;Bonifico bancario;0;0;No
+522;Carsten Möchlichen;18;Germania;Maschio;26;5;2;269,49;134,75;2;0.000000;0;9,24;Carta di credito;0;0;No
+523;Danielle Johnson;44;Stati Uniti;Femmina;709;8;30;8213,15;273,77;6;0.050000;3;21,22;Carta di credito;0;0;No
+524;Gabriella Gradenigo;40;Italia;Femmina;684;64;26;5550,58;213,48;6;0.040000;5;19,52;Carta di credito;0;0;Si
+525;Lana Hauer;39;Austria;Femmina;20;20;0;0;0;0;0.000000;0;19,67;N/A;1;1;No
+526;Mariana Pacetti;55;Italia;Femmina;72;9;2;57,9;28,95;2;0.000000;3;29,7;Carta di credito;0;0;No
+527;Sven Schatz;42;Austria;Maschio;121;7;4;704,79;176,2;4;0.000000;0;36,06;Bonifico bancario;0;0;No
+528;Erika Montanariello;69;Italia;Femmina;675;1;25;3618,72;144,75;6;0.040000;6;24,48;Bonifico bancario;0;0;No
+529;Rosina Bonbach;18;Germania;Femmina;30;2;2;1639,42;819,71;4;0.000000;0;9,8;PayPal;0;0;No
+530;Teresa Viola;36;Italia;Femmina;487;35;21;8237,38;392,26;6;0.080000;4;16,71;Contrassegno;0;0;No
+531;Olgierd Magier;33;Polonia;Maschio;296;28;11;1939,57;176,32;6;0.000000;1;21,74;Carta di credito;0;0;Si
+532;Ester Albuquerque;41;Brasile;Femmina;129;98;1;16,99;16,99;1;0.000000;0;19,67;Carta di credito;1;0;No
+533;Gionata Piacentini;54;Italia;Maschio;352;15;23;4613,01;200,57;6;0.070000;4;13,74;Bonifico bancario;0;0;No
+534;Sergius Pedersoli;41;Italia;Maschio;58;5;4;274,06;68,52;3;0.000000;1;4,72;PayPal;0;0;No
+536;Mirco Hendriks;42;Germania;Maschio;623;11;24;7181,25;299,22;6;0.000000;2;23,56;Bonifico bancario;0;0;No
+537;Naud Van Wassenaar;32;Paesi Bassi;Maschio;520;8;17;4019,31;236,43;6;0.000000;5;24,53;Carta di credito;0;0;No
+538;Reyes Molins;34;Spagna;Femmina;797;42;45;12791,05;284,25;6;0.010000;6;14,73;PayPal;0;0;No
+539;Eliana Rensi;45;Italia;Femmina;593;123;13;5998,9;461,45;6;0.000000;2;34,45;Bonifico bancario;0;0;No
+540;Matias Freitas;48;Portogallo;Maschio;300;0;12;3851,38;320,95;6;0.000000;2;23,52;Carta di credito;0;0;No
+541;Tanner Spencer;46;Australia;Maschio;499;10;25;8293,42;331,74;6;0.020000;3;14,7;PayPal;0;0;No
+542;Vincent Perry;46;Regno Unito;Maschio;796;30;35;11544,65;329,85;6;0.010000;5;18,15;Carta di credito;0;0;No
+543;Edoardo Renier;40;Italia;Maschio;798;35;46;9208,02;200,17;6;0.010000;6;14,39;PayPal;0;0;No
+544;Isabel Guerra;34;Brasile;Femmina;572;20;13;5377,25;413,63;6;0.000000;3;31,18;PayPal;0;0;No
+545;Alessandra Capone;25;Italia;Femmina;794;109;38;11263;296,39;6;0.120000;4;15,52;Contrassegno;0;0;No
+546;Peer Jacobi Jäckel;52;Germania;Maschio;4;4;0;0;0;0;0.000000;0;19,67;N/A;1;1;No
+549;Sheila Riley;18;Regno Unito;Femmina;54;37;1;213,83;213,83;2;0.000000;0;0;PayPal;0;0;No
+551;Joanne Rhodes;34;Regno Unito;Femmina;1170;11;56;11682,27;208,61;6;0.030000;7;15,76;PayPal;0;0;No
+552;Dino Bettoni;33;Italia;Maschio;612;30;22;4349,77;197,72;6;0.020000;3;31,66;PayPal;0;0;No
+553;Jan Vanneste;26;Belgio;Maschio;1157;0;58;10356,45;178,56;6;0.010000;5;17,1;PayPal;0;0;No
+554;Germana Sauli;37;Italia;Femmina;408;6;17;3762,52;221,32;6;0.000000;1;20,66;Contrassegno;0;0;No
+555;Lucia Boldù;43;Italia;Femmina;351;58;12;4259,38;354,95;6;0.000000;3;21,69;Carta di credito;0;0;No
+557;Nino Renzi;19;Italia;Maschio;83;30;4;365,36;91,34;4;0.000000;0;11,11;Bonifico bancario;0;0;No
+558;Antônio Cassiano;45;Brasile;Maschio;1068;45;54;12842,77;237,83;6;0.020000;5;18,7;Bonifico bancario;0;0;No
+559;Annetta Scarpa;26;Italia;Femmina;255;18;12;3996,5;333,04;6;0.000000;2;15,11;Contrassegno;0;0;No
+560;Nathalie Morin;64;Francia;Femmina;994;42;62;12519,96;201,93;6;0.030000;10;12,22;Bonifico bancario;0;0;No
+561;Leon Hunter;40;Australia;Maschio;675;51;34;8970,57;263,84;6;0.000000;2;13,54;PayPal;0;0;No
+562;Rosalia Guariento;21;Italia;Femmina;1068;59;60;16614,75;276,91;6;0.030000;13;15,34;Contrassegno;0;0;No
+563;Cecilia Boito;28;Italia;Femmina;133;46;3;48,06;16,02;3;0.000000;0;6,36;Contrassegno;0;0;No
+564;Giosuè Prati;32;Italia;Maschio;542;45;15;5463,48;364,23;6;0.030000;4;32,71;Contrassegno;0;0;No
+565;Márcio Morais;36;Portogallo;Maschio;365;12;12;1483,75;123,65;6;0.000000;2;29,39;PayPal;0;0;No
+566;Jolanda Bompiani;29;Italia;Femmina;111;13;4;264,91;66,23;4;0.000000;1;34,7;Carta di credito;0;0;No
+567;Elize De Vos;50;Paesi Bassi;Femmina;247;14;7;586,35;83,76;5;0.080000;1;24,8;PayPal;0;0;No
+568;Ágata Bartolomé;35;Spagna;Femmina;8;8;0;0;0;0;0.000000;0;19,67;N/A;1;1;No
+569;Benvenuto Santoro;24;Italia;Maschio;393;87;11;584,33;53,12;5;0.110000;1;18,77;Carta di credito;0;0;No
+570;Eva Forza;34;Italia;Femmina;418;1;15;4729,7;315,31;6;0.000000;2;20,43;PayPal;0;0;No
+572;Marguerite Mercier;33;Francia;Femmina;591;27;17;3827,51;225,15;6;0.000000;7;30,08;Carta di credito;0;0;No
+573;Afonso Faria;41;Portogallo;Maschio;216;71;8;1048,51;131,06;6;0.000000;2;14,72;Carta di credito;0;0;No
+574;Nina Nunes;47;Brasile;Femmina;1068;0;60;19213,44;320,22;6;0.020000;11;15,89;Carta di credito;0;0;No
+575;Armando Marenzio;36;Italia;Maschio;600;2;26;6861,35;263,9;6;0.000000;1;20,37;Carta di credito;0;0;No
+576;Holly Davies;24;Regno Unito;Femmina;853;33;44;8043,31;182,8;6;0.000000;5;19,75;Bonifico bancario;0;0;No
+577;Benjamin De Oliveira;50;Francia;Maschio;239;0;6;870,28;145,05;6;0.080000;2;41,14;Bonifico bancario;0;0;No
+578;Eliana Baggio;55;Italia;Femmina;13;13;0;0;0;0;0.000000;0;19,67;N/A;1;1;No
+579;Isa Bocelli;53;Italia;Femmina;440;46;10;3007,49;300,75;6;0.000000;4;30,85;Carta di credito;0;0;No
+580;Laura Donatoni;45;Italia;Femmina;143;6;5;342,12;68,42;4;0.000000;2;19,74;Bonifico bancario;0;0;No
+581;Neil Taylor;21;Regno Unito;Maschio;821;24;47;18478,09;393,15;6;0.050000;7;14,43;Carta di credito;0;0;No
+582;Ernest Gospodarek;32;Polonia;Maschio;553;88;27;7753,15;287,15;6;0.080000;2;14,54;PayPal;0;0;Si
+584;Gerard Claeys;42;Belgio;Maschio;534;60;17;8825,59;519,15;6;0.000000;0;21,38;Bonifico bancario;0;0;No
+586;Livio Gulotta;40;Italia;Maschio;482;35;21;2911,13;138,63;6;0.030000;2;20,51;Contrassegno;0;0;No
+587;Toni Rastelli;29;Italia;Maschio;118;2;5;864,34;172,87;5;0.000000;0;14,42;PayPal;0;0;No
+588;Arturo Galeati;24;Italia;Maschio;1103;4;56;8471,87;151,28;6;0.020000;11;16,06;Carta di credito;0;0;No
+589;Rita Boiardo;52;Italia;Femmina;530;28;23;4298,75;186,9;6;0.070000;1;18,1;Bonifico bancario;0;0;No
+590;陽一 三浦;32;Giappone;Maschio;72;9;4;436;109;4;0.000000;1;15,53;Bonifico bancario;0;0;No
+591;Adelasia Luria;34;Italia;Femmina;161;29;11;4059,24;369,02;6;0.000000;1;10,99;PayPal;0;0;No
+592;Pina Palmisano;63;Italia;Femmina;239;0;11;1008,7;91,7;5;0.000000;1;20,78;PayPal;0;0;No
+593;Fenne Lankle;36;Paesi Bassi;Femmina;67;32;1;94,48;94,48;2;0.000000;0;19,67;Carta di credito;1;0;No
+594;Simonetta Marini;37;Italia;Femmina;874;10;90;20243,92;224,93;6;0.020000;15;7,81;Bonifico bancario;0;0;No
+595;Orlando Petrocelli;67;Italia;Maschio;633;14;22;2948,2;134,01;6;0.000000;4;21,04;Bonifico bancario;0;0;No
+597;Sara Stanclik;27;Polonia;Femmina;296;53;3;2441,28;813,76;5;0.220000;2;16,36;Carta di credito;0;0;No
+598;Gianna Gotti;44;Italia;Femmina;580;1;22;7165,41;325,7;6;0.000000;4;23,7;Carta di credito;0;0;No
+599;Stella Cilibrasi;44;Italia;Femmina;862;25;31;8013,44;258,5;6;0.020000;4;25,64;Contrassegno;0;0;No
+600;Núria Monteiro;33;Portogallo;Femmina;828;52;33;12129,9;367,57;6;0.060000;4;22,15;Bonifico bancario;0;0;No
